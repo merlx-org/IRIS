@@ -1,0 +1,1590 @@
+[
+  {
+    "i": "apify-e04200e02827",
+    "t": "@saho_eritrea dont assume every person who uses jareer as a insult is somali\n\nits been popularized by loser kids in the UK and diaspora",
+    "d": "2026-10-24",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@ShigechiThinker",
+    "l": "https://x.com/ShigechiThinker/status/2113534615436824810",
+    "pr": "Hate",
+    "co": 0.7822,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 8,
+    "st": [
+      {
+        "n": "Dehumanisation",
+        "s": 0.5
+      }
+    ],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "afxumo",
+      "score": 0.9402
+    },
+    "exp": "The post discusses the use of 'jareer' (a Somali racial slur for Bantu people) as an insult, acknowledging its derogatory nature but attributing its popularization to diaspora youth rather than all Somalis. While it mentions the slur, the post itself is not using it to attack a group, but rather discussing its usage.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-f48d7c4738b8",
+    "t": "Somaliland \ud83d\udd34\u26aa\ud83d\udfe2\n1960 \ud83d\udd34 1981\u26aa 1991\ud83d\udfe2\nsomali\ud83d\udd34 SNM\u26aa SOMALILAND \ud83d\udfe2 https://t.co/6vZaDwwr34",
+    "d": "2026-10-24",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@hakanodirie",
+    "l": "https://x.com/hakanodirie/status/2113924895243399492",
+    "pr": "Normal",
+    "co": 0.9946,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 1,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "afxumo",
+      "score": 0.9895
+    },
+    "exp": "This post displays a sequence of flags and years related to Somaliland's history, transitioning from 'Somali' to 'SNM' (Somali National Movement) to 'Somaliland'. This is a historical and political statement about Somaliland's independence movement, not hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-a222683ef512",
+    "t": "Somalia oo shaacisay xilliga ay rajeyneyso inay ku biirto WTO -  https://t.co/1yTWh7gAWM",
+    "d": "2026-10-24",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@Caasimadda",
+    "l": "https://x.com/Caasimadda/status/2113827834024067273",
+    "pr": "Normal",
+    "co": 0.9997,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 3,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9609
+    },
+    "exp": "The post is a news headline in Somali stating 'Somalia announces the time it hopes to join the WTO'. This is a factual news report about Somalia's international relations and contains no hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-86479a5de0f7",
+    "t": "Musharxa madaxweyne ee somalia ee hargeisa lagu waraystay  xukumada hadii la xidhay war danbe lagamahayo  Dadka qaar baa sheegayaa in  iska joogo dalka",
+    "d": "2026-10-24",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@Rahmasaafi",
+    "l": "https://x.com/Rahmasaafi/status/2113952064405467298",
+    "pr": "Hate",
+    "co": 0.9781,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 10,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.8293
+    },
+    "exp": "The post is a news report in Somali about a presidential candidate for Somalia who was interviewed in Hargeisa, stating that if the government arrested him, there would be no further news, and some people say he should stay in the country. This is political commentary/news, not hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-dace59a74e02",
+    "t": "War Saxaafadeed wasaaradda Arimaha Dibadda somalia https://t.co/NFpX3FSRzV",
+    "d": "2026-10-24",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@SaadaqMohamed",
+    "l": "https://x.com/SaadaqMohamed/status/2113912121335402741",
+    "pr": "Normal",
+    "co": 0.9998,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 2,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9875
+    },
+    "exp": "The post is a news headline in Somali stating 'Press Release from the Ministry of Foreign Affairs of Somalia'. This is a factual news report and contains no hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-4f12261660e1",
+    "t": "Dagaal qaraar oo ka dhacay Shabeellaha Dhexe, Al-Shabaab oo sheegatay inay dishay 7 askari #Somalia \nhttps://t.co/3tZdv1nPLJ",
+    "d": "2026-10-24",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@Banaadir24",
+    "l": "https://x.com/Banaadir24/status/2113944536280084944",
+    "pr": "Normal",
+    "co": 0.9996,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 5,
+    "st": [
+      {
+        "n": "Religious Incitement",
+        "s": 0.5
+      }
+    ],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9764
+    },
+    "exp": "The post is a news report in Somali stating 'Fierce fighting took place in Middle Shabelle, Al-Shabaab claimed to have killed 7 soldiers #Somalia'. This is a factual news report about a conflict and contains no hate speech, despite reporting on violence.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-4d3ad6e933fc",
+    "t": "Saaka dhalinyaraddi jamacadaha mogadishu waxay ku dhagan yahiin wasiirki arxanka darnaa ee somalia Farah shekh Abdulkadir \n\nWaxaan diidanahay hal sano oo dheerad ah oo lagu daray jamacaddaha dalka somalia https://t.co/fuf7aQyzo1",
+    "d": "2026-10-24",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@SaadaqMohamed",
+    "l": "https://x.com/SaadaqMohamed/status/2113932522040025181",
+    "pr": "Normal",
+    "co": 0.9997,
+    "tx": "low",
+    "gt": "HS_RELIGIOUS_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 8,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "afxumo",
+      "score": 0.9539
+    },
+    "exp": "This post reports on Mogadishu university students protesting against a \"cruel minister\" (wasiirki arxanka darnaa) regarding an additional year added to university studies. This is a report of political protest and criticism, not hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-5a7389b216e4",
+    "t": "#fyp #fyppp #somalitiktok #somalilandtiktok\ud83d\udc9a\ud83e\udd0d\u2764 #islam",
+    "d": "2025-09-17",
+    "c": "Somalia",
+    "p": "tiktok",
+    "a": "@hilibandbariis3.0",
+    "l": "https://www.tiktok.com/@hilibandbariis3.0/video/7550872729507990806",
+    "pr": "Normal",
+    "co": 0.9691,
+    "tx": "low",
+    "gt": "HS_RELIGIOUS_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 4,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9775
+    },
+    "exp": "This post consists only of hashtags related to TikTok, Somaliland, and Islam. It contains no hateful content.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-98a0ec2fbaed",
+    "t": "Alle ha so hadiyeyo.\n\n#somali #somalitiktok #fyp #somaliland #somalia #goviral \n#somalilandtiktok\ud83d\udc9a\ud83e\udd0d\u2764 \n#somaliweyn #goviral \n#relatable",
+    "d": "2025-07-31",
+    "c": "Somalia",
+    "p": "tiktok",
+    "a": "@therealriq4real",
+    "l": "https://www.tiktok.com/@therealriq4real/video/7533148336946302230",
+    "pr": "Normal",
+    "co": 0.9998,
+    "tx": "low",
+    "gt": "HS_RELIGIOUS_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 5,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9838
+    },
+    "exp": "The post contains a prayer, \"Alle ha so hadiyeyo\" (May Allah guide them), followed by general hashtags. There is no hateful content.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-d2616069b625",
+    "t": "Hundreds of Ethiopians cross into Kenya to flee regional fighting\nhttps://t.co/0JigUf8Qd9",
+    "d": "2026-10-24",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@Mizertigrewayti",
+    "l": "https://x.com/Mizertigrewayti/status/2113979560438235202",
+    "pr": "Normal",
+    "co": 0.9992,
+    "tx": "low",
+    "gt": "HS_POLITICAL_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 9,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9951
+    },
+    "exp": "This is a news report about Ethiopians crossing into Kenya to flee regional fighting. It is factual reporting and not hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-54db6a3e7640",
+    "t": "@ray_omollo @kipmurkomen @NPSOfficial_KE @PoliceKE @WilliamsRuto @StandardKenya @citizentvkenya The chaos/wars around us are a big concern given that we have all this communities living with us!\nReinforce Moyale,Mandera. We need proper teams in this towns. For now deploy to guard",
+    "d": "2026-10-24",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@Caslobe",
+    "l": "https://x.com/Caslobe/status/2113881411136438465",
+    "pr": "Hate",
+    "co": 0.9875,
+    "tx": "low",
+    "gt": "HS_POLITICAL_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 15,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "polarization",
+      "score": 0.9714
+    },
+    "exp": "The post expresses concern about \"chaos/wars\" and \"communities living with us,\" advocating for reinforcement in border towns like Moyale and Mandera. It raises security concerns without using hateful language or targeting any specific group with abuse.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-f09301b9fc6e",
+    "t": "This must be fought from all directions by a united Kenya.....",
+    "d": "2026-10-24",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@MURIMINJAGI6",
+    "l": "https://x.com/MURIMINJAGI6/status/2113882961292435626",
+    "pr": "Normal",
+    "co": 0.918,
+    "tx": "low",
+    "gt": "HS_POLITICAL_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 3,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9997
+    },
+    "exp": "This post is a general call for a \"united Kenya\" to fight an unspecified problem. It contains no hateful content.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-2e5df400c447",
+    "t": "\ud83c\uddf0\ud83c\uddea KENYA | EBOLA ALERT\n\nKenya reports Ebola cases linked to the Bundibugyo virus outbreak. Health authorities are intensifying surveillance and response measures.\n\nTravellers are urged to follow official health advisories and screening requirements.\n\n\ud83c\uddf8\ud83c\udde6 Travellers should monitor Saudi Arabia\u2019s offic",
+    "d": "2026-10-24",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@MakkahUpdate",
+    "l": "https://x.com/MakkahUpdate/status/2113907038560366854",
+    "pr": "Normal",
+    "co": 0.9997,
+    "tx": "low",
+    "gt": "HS_POLITICAL_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 23,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-24",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9996
+    },
+    "exp": "This is a news alert about Ebola cases in Kenya and health advisories. It is factual reporting and not hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-44836eec5031",
+    "t": "Soomaaliya oo ka qeyb-galaysa shir caalami ah oo ka dhacaya dalka... -  https://t.co/8eupyhPEJA",
+    "d": "2026-10-25",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@Caasimadda",
+    "l": "https://x.com/Caasimadda/status/2114311118914977792",
+    "pr": "Normal",
+    "co": 0.9998,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 4,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9863
+    },
+    "exp": "This post is a news headline stating that Somalia is participating in an international conference. It contains no hateful content.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-43ef18bbe278",
+    "t": "In a statement on October 25, 2026, Kenya National Examinations Council (KNEC) CEO Dr David Njengere urged the 3,634,846 candidates sitting the 2026 national assessments and examinations to avoid cheating, warning that examination malpractice could lead to the cancellation of results.\n\nNjengere said",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@RadioGenKe",
+    "l": "https://x.com/RadioGenKe/status/2114284541820998039",
+    "pr": "Normal",
+    "co": 0.9995,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 20,
+    "st": [
+      {
+        "n": "Ethnic Targeting",
+        "s": 0.5
+      }
+    ],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9997
+    },
+    "exp": "This post is a news report about the Kenya National Examinations Council (KNEC) CEO urging candidates to avoid cheating in national assessments. It contains no hateful or abusive language.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-f6a2113a1609",
+    "t": "Vita kama Kenya haiko involved wacha ikae",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@weehmzeee",
+    "l": "https://x.com/weehmzeee/status/2114251442684854686",
+    "pr": "Normal",
+    "co": 0.9996,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 1,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9997
+    },
+    "exp": "The post, in Swahili, translates to 'If Kenya is not involved in the war, let it be.' This is a political opinion expressing disinterest in Kenya's involvement in a conflict, not hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-0c7dbcc67c5c",
+    "t": "Its Uhuru kenyatta atuondoke na  hao vikarangosi wake .",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@Iamben479",
+    "l": "https://x.com/Iamben479/status/2114317012667118018",
+    "pr": "Hate",
+    "co": 0.9996,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 4,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "medium",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.6214
+    },
+    "exp": "The post, in Swahili, translates to 'It's Uhuru Kenyatta, he should leave with his puppets.' This is a political criticism directed at a former president and his associates, using the term 'vikarangosi' (puppets) as an insult, but it does not target a protected group.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-7d6032736394",
+    "t": "\u2800\u2800\u2800\u2800\u208a ' \ud80c\udc8b  \u22b9 \ud83c\udf80  \ud835\uddd6\ud835\uddfc\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\uddf0\ud835\ude01 \ud835\uddfc\ud835\uddf3 \ud835\udddf\ud835\uddfc\ud835\ude03\ud835\uddf2 \u266a \ud83d\udc30 \u207a  \u17f6\u17f2\u17f8  \u2837\n\u2800\u2800\u2800\u2800hi dear \u17f8\u17f8  \ud83d\udc8c \u02da leave your message  \ud83c\udf38\n\u2800\u2800\u2800\u2800\ua4b0 \ud83c\udfe9 \ua4b1  aku siap membantu  \u17f6\u17f2\u17f8 \u2606  \ud83e\uddf8 .. \u22b9 https://t.co/B9XlsJYXHW",
+    "d": "2026-10-25",
+    "c": "South Sudan",
+    "p": "x",
+    "a": "@yuppiesoraa",
+    "l": "https://x.com/yuppiesoraa/status/2114347807431856160",
+    "pr": "Normal",
+    "co": 0.9993,
+    "tx": "low",
+    "gt": "HS_DEHUMANISE_SS",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 2,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_hate_speech",
+      "score": 0.998
+    },
+    "exp": "This post is a decorative message with emojis and a link, likely unrelated to the region or any hateful content. The text 'aku siap membantu' is Indonesian for 'I am ready to help'.",
+    "rel": "not_relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-7d22a54fb8f6",
+    "t": "@Lion_Roar_1 @Ace_blitz_0 @Niqinle You\u2019re not idoor youre a Somali warya \n\nAnd skin colour means nothing, Arabs have no skin colour it\u2019s abour \u0646\u0635\u0628",
+    "d": "2026-10-25",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@UserFrom1998",
+    "l": "https://x.com/UserFrom1998/status/2114029983308140851",
+    "pr": "Abusive",
+    "co": 0.9988,
+    "tx": "low",
+    "gt": "HS_CLAN_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 5,
+    "st": [
+      {
+        "n": "Clan Targeting",
+        "s": 0.5
+      }
+    ],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "afxumo",
+      "score": 0.9727
+    },
+    "exp": "The post contains the term 'idoor' (Isaaq slur), but it is used in a context where the speaker is denying that the recipient is 'idoor' and asserting they are 'Somali warya' (a general Somali term, 'warya' is a casual address). The overall message is not hateful but rather a statement about identity and skin color, possibly in response to an accusation or self-identification.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-21628d8a7228",
+    "t": "@K6734Mo Imagine calling Idoor low IQ when they\u2019re the richest and most successful Somali clan in history, and still hold that title today \ud83d\ude01",
+    "d": "2026-10-25",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@Jimmyallenhurst",
+    "l": "https://x.com/Jimmyallenhurst/status/2113989706526450024",
+    "pr": "Normal",
+    "co": 0.9954,
+    "tx": "low",
+    "gt": "HS_CLAN_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 10,
+    "st": [
+      {
+        "n": "Clan Targeting",
+        "s": 0.5
+      }
+    ],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "afxumo",
+      "score": 0.96
+    },
+    "exp": "This post uses the term 'Idoor' (Isaaq slur) but in a way that defends the group against a perceived insult ('low IQ') by highlighting their perceived success and wealth. While the slur is present, the intent is to counter a negative stereotype, not to propagate hate.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-358794f8af22",
+    "t": "@ttclacker @Bacayr74 @chopperwith_ The richest Somali man and woman today is idoor. The richest Somali person to ever exist was Idoor the richest Somalis during colonial times and 70s-80s was Idoor. The name you call us literally comes from us being merchants. You think a dusty darood aka our adoon ",
+    "d": "2026-10-25",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@ltntitwe",
+    "l": "https://x.com/ltntitwe/status/2113984007964594651",
+    "pr": "Normal",
+    "co": 0.9985,
+    "tx": "low",
+    "gt": "HS_CLAN_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 18,
+    "st": [
+      {
+        "n": "Clan Targeting",
+        "s": 0.5
+      }
+    ],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "afxumo",
+      "score": 0.9645
+    },
+    "exp": "This post uses the term 'Idoor' (Isaaq slur) repeatedly, but in a context where the speaker is asserting the wealth and success of the Isaaq clan, seemingly in response to a negative characterization. While the slur is used, the overall message is defensive and boasts about the group, rather than attacking another group.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-4769fdeefb15",
+    "t": "@JohnnyLaw1967 @Motionn_Man The richest Somali to ever exist was Isaaq the current richest Somalis are Isaaq &amp; Somaliland isn\u2019t even close to the poorest region looool do you know where Dhulbahantes live you lack self awarenesss \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d the name idoor literally originally comes from being merchants ",
+    "d": "2026-10-25",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@ltntitwe",
+    "l": "https://x.com/ltntitwe/status/2113976063126552904",
+    "pr": "Abusive",
+    "co": 0.7796,
+    "tx": "low",
+    "gt": "HS_CLAN_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 20,
+    "st": [
+      {
+        "n": "Clan Targeting",
+        "s": 0.5
+      }
+    ],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "afxumo",
+      "score": 0.9848
+    },
+    "exp": "This post uses the term 'idoor' (Isaaq slur) while asserting the wealth and success of the Isaaq clan and comparing them favorably to Dhulbahantes, another clan. While the slur is present, the primary intent is to boast about one's own clan and dismiss another, rather than to incite hatred or violence.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-432eb077fe4c",
+    "t": "3 Maalin ayaa ka harsan Somali Technology Expo 2026\nNala soo dhaweeya Doog Digital oo qeyb ka noqon doona Bandhigga Ugu Weyn Teknoolajiyadda Soomaliya #STE2026.\n\nFadlan iska diiwaangeli https://t.co/8HjfbmTGca\n\n#iM252 #SomTechExpo #Tikitsom https://t.co/0T7jzgAInD",
+    "d": "2026-10-25",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@iM252Real",
+    "l": "https://x.com/iM252Real/status/2114307858791539050",
+    "pr": "Normal",
+    "co": 0.9998,
+    "tx": "low",
+    "gt": "HS_CLAN_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 7,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9871
+    },
+    "exp": "This post is an announcement in Somali about the upcoming Somali Technology Expo 2026, inviting people to register and welcoming a participant. It contains no hateful content.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-913c052b79b1",
+    "t": "Diyaar ma u tahay in aad aragto xalal teknoolaji cusub?\n\n3 maalmood keliya ayaa ka haray bandhigga Somali Technology Expo 2026. Iska diiwaangeli halkan haddii aadan weli isdiiwaangelin https://t.co/8HjfbmTGca\n\nHa maqnaan, hana ka mashquulin.\n\n#iM252 #Tikitsom #SomTechExpo https://t.co/m5fzKTQqnr",
+    "d": "2026-10-25",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@iM252Real",
+    "l": "https://x.com/iM252Real/status/2114235686710587619",
+    "pr": "Normal",
+    "co": 0.9998,
+    "tx": "low",
+    "gt": "HS_CLAN_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 5,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9869
+    },
+    "exp": "This post is an announcement in Somali, asking if the reader is ready to see new technology solutions and reminding them that only 3 days are left until the Somali Technology Expo 2026, urging them to register. It contains no hateful content.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-14f11417ab40",
+    "t": "\"Toddobada Caado ee Dadka Saameynta Badan #Somalijobs\nLingax: https://t.co/db38cxqL6M\"",
+    "d": "2026-10-25",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@Somalijobs",
+    "l": "https://x.com/Somalijobs/status/2114205508483809494",
+    "pr": "Normal",
+    "co": 0.9997,
+    "tx": "low",
+    "gt": "HS_CLAN_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 4,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9842
+    },
+    "exp": "This post translates to \"The Seven Habits of Highly Effective People\" and includes a hashtag for \"Somalijobs\" and a link. It is a motivational/self-help post and contains no hateful content.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-0af96da76916",
+    "t": "under the designation \"\u0627\u064a\u0630\u0648\u0631\"(Iydoor/ldoor). The name \u201cIdoor\u201d was a term derived from the Somali word for trade and commerce, And historically functioned as a prominent regional and colonial exonym for the NouhIsmail, highlighting their dominant historical position as the primary merchants and trade",
+    "d": "2026-07-15",
+    "c": "Somalia",
+    "p": "tiktok",
+    "a": "@mustafa.mu58",
+    "l": "https://www.tiktok.com/@mustafa.mu58/video/7662581965966609665",
+    "pr": "Normal",
+    "co": 0.9987,
+    "tx": "low",
+    "gt": "HS_CLAN_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 19,
+    "st": [
+      {
+        "n": "Clan Targeting",
+        "s": 0.5
+      }
+    ],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "afxumo",
+      "score": 0.6627
+    },
+    "exp": "This post attempts to provide a historical and etymological explanation for the term \"Idoor\" (a derogatory term for the Isaaq clan), linking it to trade and commerce. The post is presenting an academic or historical context rather than using the term to insult or attack a group.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-742c1ea488b2",
+    "t": "#somalilandtiktok\ud83d\udc9a\ud83e\udd0d\u2764 #djiboutitiktok\ud83c\udde9\ud83c\uddef\ud83c\udde9\ud83c\uddef #somalia\ud83c\uddf8\ud83c\uddf4",
+    "d": "2026-10-24",
+    "c": "Somalia",
+    "p": "tiktok",
+    "a": "@wa41099",
+    "l": "https://www.tiktok.com/@wa41099/video/7700327776074747144",
+    "pr": "Normal",
+    "co": 0.996,
+    "tx": "low",
+    "gt": "HS_CLAN_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 2,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9787
+    },
+    "exp": "This post consists only of hashtags related to Somaliland, Djibouti, and Somalia. It is a neutral post expressing national or regional affiliation.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-46f3a1d52587",
+    "t": "#Thread 1/10\n\n#Mogadishu, 24 October 2026\n\nMembers of Civil Society Observers from @SONSA_NSA, through the @GoleKaab Parliamentary Monitoring Initiative, observed the 28th sitting of the 8th Plenary Session of the House of the People of the 11th Federal Parliament of #Somalia \ud83d\udc47 https://t.co/3R5JaPLZ",
+    "d": "2026-10-25",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@GoleKaab",
+    "l": "https://x.com/GoleKaab/status/2114245950638080204",
+    "pr": "Normal",
+    "co": 0.9997,
+    "tx": "low",
+    "gt": "HS_RELIGIOUS_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 11,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9805
+    },
+    "exp": "This post is a factual report from a civil society organization observing a parliamentary session in Mogadishu. It contains no hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-7d9b9c09485f",
+    "t": "Moderate to heavy rainfall exceeding 20 mm within 24 hours is anticipated over the counties in Coast, \nNortheastern, Highlands West and East of the Rift Valley, the Central Highlands (including some parts of Nairobi) and parts of the Southeastern Lowlands.\n\nThe rainfall is likely to be accompanied b",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@MeteoKenya",
+    "l": "https://x.com/MeteoKenya/status/2114223815785898236",
+    "pr": "Normal",
+    "co": 0.9979,
+    "tx": "low",
+    "gt": "HS_POLITICAL_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 63,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9996
+    },
+    "exp": "This post is a weather forecast providing information about anticipated rainfall in various regions of Kenya. It contains no hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-3ce885de00df",
+    "t": "Alot bothering Kenyans but this video has really bothered so many... wow\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83d\ude05\n\nwatch to end https://t.co/lsML9u0con",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@bonkiasin_eth",
+    "l": "https://x.com/bonkiasin_eth/status/2114345325213180379",
+    "pr": "Normal",
+    "co": 0.99,
+    "tx": "low",
+    "gt": "HS_POLITICAL_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 5,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9997
+    },
+    "exp": "This post is a personal comment about a video that has bothered the user and others. It contains no hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-d73eb7cca1af",
+    "t": "Kenyanssssssssss mnacheza rough bana\ud83d\ude02\ud83d\ude02\ud83d\ude02, kumbe hii kitu tumebeba asubuhi na mapema",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@UTDmohaste",
+    "l": "https://x.com/UTDmohaste/status/2114278420280496204",
+    "pr": "Normal",
+    "co": 0.9992,
+    "tx": "low",
+    "gt": "HS_POLITICAL_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 3,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9998
+    },
+    "exp": "This post is a colloquial and informal comment in Sheng/Swahili, expressing surprise or amusement about a situation, implying that \"Kenyans are playing rough\" or dealing with something intensely. It contains no hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-555d10923474",
+    "t": "With All This,  you hear Terror Sympathizers  Tweeting Their Expansionist Irredentist Ideology Nonsense that Alshabaab Promote  While on Kenyan Soil . \nIt Will End .\n#RutoMustGo",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@TheLegalMwaki",
+    "l": "https://x.com/TheLegalMwaki/status/2114343657944105375",
+    "pr": "Abusive",
+    "co": 0.8327,
+    "tx": "low",
+    "gt": "HS_POLITICAL_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 8,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9968
+    },
+    "exp": "The post criticizes \"Terror Sympathizers\" for promoting an \"Expansionist Irredentist Ideology\" associated with Al-Shabaab on Kenyan soil. It is strong political criticism and counter-speech against extremism, not hate speech targeting an identity group. The hashtag #RutoMustGo is political dissent.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-19cfd7cc02f8",
+    "t": "UGANDA SAYS ALL 60 CONTACTS LINKED TO KENYAN CASE COMPLETE 21-DAY MONITORING PERIOD, DISCHARGED - HEALTH MINISTER",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@CGTNEurope",
+    "l": "https://x.com/CGTNEurope/status/2114288459745522142",
+    "pr": "Normal",
+    "co": 0.9957,
+    "tx": "low",
+    "gt": "HS_POLITICAL_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 8,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9997
+    },
+    "exp": "This post is a news report quoting Uganda's Health Minister about contacts linked to a Kenyan case completing their monitoring period and being discharged. It contains no hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-229795c6280a",
+    "t": "The global meeting on Sudan at Switzerland's Palais des Nations has rejected SAF chief Abdel Fattah al-Burhan's plans to exclude Sudanese groups from any peace negotiation, with attending states emphasising the need of an internal dialogue for a lasting agreement.\n\nAl-Burhan said he will not negotia",
+    "d": "2026-10-25",
+    "c": "South Sudan",
+    "p": "x",
+    "a": "@thesudantimes",
+    "l": "https://x.com/thesudantimes/status/2114305309787234669",
+    "pr": "Normal",
+    "co": 0.9997,
+    "tx": "low",
+    "gt": "HS_POLITICAL_SS",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 42,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_hate_speech",
+      "score": 0.9992
+    },
+    "exp": "This post is a news report about a global meeting concerning peace negotiations in Sudan, mentioning the rejection of a plan to exclude certain groups. It is factual reporting and does not contain hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-08fb423cb714",
+    "t": "At approximately 12:37 a.m. on 25 October 2026, troops of the 29 Task Force Brigade Garrison, working alongside Hybrid Force personnel, ambushed ISWAP/JAS terrorists along the Targejeri axis of Kaga Local Government Area, resulting in the neutralisation of six terrorists.\n\nIn a related development, ",
+    "d": "2026-10-25",
+    "c": "South Sudan",
+    "p": "x",
+    "a": "@MaryMaryTee",
+    "l": "https://x.com/MaryMaryTee/status/2114309004511904143",
+    "pr": "Hate",
+    "co": 0.9155,
+    "tx": "low",
+    "gt": "HS_POLITICAL_SS",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 61,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_hate_speech",
+      "score": 0.9991
+    },
+    "exp": "This post is a news report detailing a military operation against ISWAP/JAS terrorists in Nigeria. It describes an ambush and neutralization of terrorists, which is factual reporting and not hate speech.",
+    "rel": "not_relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-76424938326f",
+    "t": "Taliyaha Qaybta 26aad G/Dhexe Cabdiraxmaan Cawad Baalcadde oo  ku gudajira waajibaadkiisa shaqo. https://t.co/M5dihOJZY8",
+    "d": "2026-10-25",
+    "c": "South Sudan",
+    "p": "x",
+    "a": "@sudanii123451",
+    "l": "https://x.com/sudanii123451/status/2114348484493255069",
+    "pr": "Normal",
+    "co": 0.9998,
+    "tx": "low",
+    "gt": "HS_POLITICAL_SS",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 4,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "hate_speech",
+      "score": 0.9989
+    },
+    "exp": "This post is in Somali and states 'Taliyaha Qaybta 26aad G/Dhexe Cabdiraxmaan Cawad Baalcadde oo ku gudajira waajibaadkiisa shaqo,' which translates to 'Commander of the 26th Division, Brigadier General Abdirahman Awad Baalcadde, carrying out his duties.' This is a neutral update about a military official.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-09f1ceb4aa2b",
+    "t": "OPERATION HADIN KAI NEUTRALISES SIX TERRORISTS, ARRESTS 11 SUSPECTED COLLABORATORS IN BORNO\n\nTroops of Operation HADIN KAI (OPHK) have neutralised six terrorists, arrested 11 suspected collaborators and received the surrender of a Jama\u2019atu Ahlis Sunna Lidda\u2019awati wal-Jihad (JAS) member during operat",
+    "d": "2026-10-25",
+    "c": "South Sudan",
+    "p": "x",
+    "a": "@oMoTonsore",
+    "l": "https://x.com/oMoTonsore/status/2114315763796287836",
+    "pr": "Normal",
+    "co": 0.5321,
+    "tx": "low",
+    "gt": "HS_POLITICAL_SS",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 54,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_hate_speech",
+      "score": 0.9991
+    },
+    "exp": "This post is a news report about military operations in Borno, Nigeria, detailing the neutralization of terrorists and arrest of collaborators. It is factual reporting and does not contain hate speech.",
+    "rel": "not_relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-30c3fba498a3",
+    "t": "\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6JULIUS MALEMA DICTATOR\ud83d\udc49\ud83c\udffbBULLY\ud83d\udc49\ud83c\udffbJELOUS\ud83e\udd1e\ud83e\udd1e\ud83e\udd1e\ud83d\udc49\ud83c\udffbIF\ud83c\uddff\ud83c\udde6DOESN\u2019T WORSHIP\ud83d\udc49\ud83c\udffbBOW BEFORE\ud83d\udc49\ud83c\udffbOBEY HIM\ud83d\udc49\ud83c\udffbDO HIS WILL\ud83d\udc49\ud83c\udffbREJECT HIS INVITATION\ud83d\udc49\ud83c\udffbDOESN\u2019T SUPPORT HIS CULT\ud83d\udc49\ud83c\udffbHE WILL INSULT\ud83c\uddff\ud83c\udde6\ud83e\udd1e\ud83e\udd1e\ud83d\udc49\ud83c\udffbIMAGINE IF WILL BE OUR COUNTRY\ud83c\uddff\ud83c\udde6PRESIDENT\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83d\ude47\u200d\u2640\ufe0f\ud83d\ude47\ud83d\ude47\u200d\u2642\ufe0f\ud83d\ude46\u200d\u2640\ufe0f\ud83d\ude46\ud83d\ude46\u200d\u2642\ufe0f\ud83e\udd26\u200d\u2640\ufe0f\ud83e\udd26\ud83e\udd26\u200d\u2642\ufe0fGOD FORBID\ud83e\udd2e\ud83e\udd2e",
+    "d": "2026-10-25",
+    "c": "South Sudan",
+    "p": "x",
+    "a": "@Bukeka20204195",
+    "l": "https://x.com/Bukeka20204195/status/2114337801135071562",
+    "pr": "Questionable",
+    "co": 0.9988,
+    "tx": "low",
+    "gt": "HS_POLITICAL_SS",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 10,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "high",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "questionable",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_hate_speech",
+      "score": 0.9649
+    },
+    "exp": "This post criticizes Julius Malema, a South African politician, calling him a 'DICTATOR' and 'BULLY' and accusing him of leading a 'CULT.' While strongly worded and insulting, it targets an individual politician and his political movement, not a protected group, and is therefore political criticism.",
+    "rel": "not_relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-49ece085da5f",
+    "t": "OPERATION HADIN KAI NEUTRALISES SIX TERRORISTS, ARRESTS 11 SUSPECTED COLLABORATORS IN BORNO\n\nTroops of Operation HADIN KAI (OPHK) have neutralised six terrorists, arrested 11 suspected collaborators and received the surrender of a Jama\u2019atu Ahlis Sunna Lidda\u2019awati wal-Jihad (JAS) member during operat",
+    "d": "2026-10-25",
+    "c": "South Sudan",
+    "p": "x",
+    "a": "@duchessmabboud",
+    "l": "https://x.com/duchessmabboud/status/2114306971851469249",
+    "pr": "Normal",
+    "co": 0.5321,
+    "tx": "low",
+    "gt": "HS_POLITICAL_SS",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 54,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_hate_speech",
+      "score": 0.9991
+    },
+    "exp": "This post is a news report about military operations in Borno, Nigeria, detailing the neutralization of terrorists and arrest of collaborators. It is factual reporting and does not contain hate speech.",
+    "rel": "not_relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-cd6e10fddc92",
+    "t": "Kuna ujumbe kutoka Kenya kwenu serikali ya Tanzania @Tanfootball @tanpol @bunge_tz @wizara_afyatz @wizara_elimuTz @MadiniTanzania @ikulumawasliano @SuluhuSamia",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@RagenAinea",
+    "l": "https://x.com/RagenAinea/status/2114163219430343158",
+    "pr": "Normal",
+    "co": 0.9998,
+    "tx": "low",
+    "gt": "HS_ANTI_FOREIGN_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 3,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9972
+    },
+    "exp": "This post, in Swahili, states 'Kuna ujumbe kutoka Kenya kwenu serikali ya Tanzania,' meaning 'There is a message from Kenya to you, the government of Tanzania.' It is a neutral statement indicating communication between two countries and tags various Tanzanian government accounts.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-bf72737d3f3c",
+    "t": "Digniin loo diray dadka shaqooyinka ka raadinaya dalalka dibadda https://t.co/07A53RWU9m",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@RadioStar__FM",
+    "l": "https://x.com/RadioStar__FM/status/2114314209114636519",
+    "pr": "Normal",
+    "co": 0.9998,
+    "tx": "low",
+    "gt": "HS_ANTI_FOREIGN_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 5,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9997
+    },
+    "exp": "This post is in Somali and states 'Digniin loo diray dadka shaqooyinka ka raadinaya dalalka dibadda,' which translates to 'A warning sent to people looking for jobs abroad.' This is a neutral informational statement, likely a news headline or public service announcement.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-0035a516a040",
+    "t": "Diaspora Times Global Oct 24 - Oct 30, 2026\nhttps://t.co/at1s4uHV45 https://t.co/gDTor2jlKN",
+    "d": "2026-10-25",
+    "c": "Kenya",
+    "p": "x",
+    "a": "@themtkenyatimes",
+    "l": "https://x.com/themtkenyatimes/status/2114183686421905900",
+    "pr": "Normal",
+    "co": 0.9996,
+    "tx": "low",
+    "gt": "HS_ANTI_FOREIGN_KE",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 3,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_polarization",
+      "score": 0.9998
+    },
+    "exp": "This post shares a link to 'Diaspora Times Global' for a specific date range. It is a neutral informational post promoting a publication and does not contain hate speech.",
+    "rel": "relevant",
+    "kb": []
+  },
+  {
+    "i": "apify-483f0eb5cbfa",
+    "t": "Morn'g Meet \u2615\ufe0f \n\n\ud83c\udf39 @f_a_r_a_h_9 \n\ud83d\udc96 @nbea_h\n\ud83e\udd85 @Abbn_26\n\ud83d\udc60 @Da___Eliz\n\ud83d\udc90 @MarcelaErcia \n\u26a1\ufe0f@Zar43rar\n\ud83c\udf39 @11_lovelll\n\ud83c\udf39 @madiha915\n@SKB7014\n\n@Itz_Iyla\n@Bortebey\n@1Tmgus\n@GinaJardines\n@sid7slv\n@rita01059367\n@jazminf5n7 \n@Afier_Tm \n@Jilted_\n@Rusy_Queen\n@BLACKLOVER_1Man\n@shayariehsaas \n@BalochJamshaid \n@Kulwan",
+    "d": "2026-10-25",
+    "c": "Somalia",
+    "p": "x",
+    "a": "@AshrafParw26055",
+    "l": "https://x.com/AshrafParw26055/status/2114204125046964343",
+    "pr": "Abusive",
+    "co": 0.9404,
+    "tx": "low",
+    "gt": "HS_GENDER_SOM",
+    "en": {
+      "l": 0,
+      "s": 0,
+      "c": 0
+    },
+    "ma": 7,
+    "st": [],
+    "txd": {
+      "sev": "low",
+      "ins": "low",
+      "idt": "low",
+      "thr": "low"
+    },
+    "qc": "misclassified",
+    "_source": "hs_apify_sweep",
+    "_sweep_date": "2026-10-25",
+    "_country_model": {
+      "label": "not_afxumo",
+      "score": 0.9853
+    },
+    "exp": "This post is a list of Twitter handles, likely part of a 'morning meet' or engagement pod, and contains no discernible hate speech or offensive language. It is simply a social media interaction.",
+    "rel": "not_relevant",
+    "kb": []
+  }
+]
