@@ -53161,5 +53161,78 @@
     "_original_summary": "ALLAH MAHA MENGETAHUI SEGALA SESUATU Al Imam Ibnul Qayyim rahimahullahu Ta'ala berkata: \"Sesungguhnya Allah mengetahui setiap lintasan yang terbetik didalam kalbu (sesamar apapun ia)\" [Thariq al hijratain, 127].",
     "_review_notes": "This event is a false positive. The content is a religious quote and does not spread false claims or disinformation. It should be excluded from disinformation monitoring.",
     "_reviewed": "2026-10-24T13:08:49.249925+00:00"
+  },
+  {
+    "id": "APF-2026-10-26-244",
+    "date": "2026-10-26",
+    "country": "South Sudan",
+    "event_type": "DISINFO",
+    "disinfo_subtype": "coordinated_campaign",
+    "threat_level": "P3 MODERATE",
+    "headline": "Archbishop Viganò falsely claims global elites are infiltrating Western governments to impose Agenda 2030",
+    "summary": "Multiple X accounts are amplifying claims by Archbishop Carlo Maria Viganò, who alleges that 'global elites' are infiltrating Western governments to impose 'Agenda 2030'. The coordinated nature of these posts suggests an intentional effort to spread this conspiracy theory, which often targets international institutions and development goals, potentially undermining trust in such efforts within the region.",
+    "actors": [
+      "@johnfkjrtv",
+      "@MrWhiplash_",
+      "@bupc_boopsy"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/bupc_boopsy/status/2114735137778733351",
+        "date": "2026-10-26"
+      }
+    ],
+    "spread": 3,
+    "disinfo_narratives": [
+      "NAR-SS-003"
+    ],
+    "related_events": [
+      "APF-2026-09-02-465",
+      "SSD-2025-006",
+      "SSD-2025-007",
+      "SSD-2025-020",
+      "SSD-2025-025",
+      "SSD-ENRICH-001"
+    ],
+    "disinfo_confidence": "MEDIUM",
+    "disinfo_justification": "Single troll network indicator: 'soros'. Insufficient evidence for high confidence.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "pattern_match",
+    "narrative_families": [],
+    "ve_related": false,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-26",
+    "detection_timestamp": "2026-10-26T15:33:11.368079+00:00",
+    "last_seen": "2026-10-26",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-26",
+        "url": "https://x.com/bupc_boopsy/status/2114735137778733351",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_original_headline": "🚨 ARCHBISHOP VIGANÒ JUST DROPPED A NUCLEAR TRUTH BOMB When a senior Catholic Archbishop — a former Apostolic Nuncio to",
+    "_original_summary": "🚨 ARCHBISHOP VIGANÒ JUST DROPPED A NUCLEAR TRUTH BOMB When a senior Catholic Archbishop — a former Apostolic Nuncio to the United States — openly accuses global elites of infiltrating Western governments to impose Agenda 2030… the world should stop a. 3 near-identical posts from 3 accounts suggest coordinated amplification.",
+    "extracted_claims": [
+      "Archbishop Carlo Maria Viganò falsely claims global elites are infiltrating Western governments to impose Agenda 2030."
+    ],
+    "_review_notes": "This event highlights the spread of global conspiracy theories, such as those targeting Agenda 2030, within the monitoring scope for South Sudan. Such narratives can undermine trust in international development efforts and governance.",
+    "_reviewed": "2026-10-26T15:39:27.599506+00:00"
   }
 ]

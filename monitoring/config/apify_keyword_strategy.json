@@ -1793,6 +1793,26 @@
           "status": "proposed",
           "hits": 0,
           "rotations_run": 0
+        },
+        {
+          "keyword": "archbishop vigan\u00f2",
+          "country": "Regional",
+          "source": "event_review_extraction",
+          "reason": "Key figure in global conspiracy theories amplified in the region.",
+          "date_added": "2026-10-26",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "global elites",
+          "country": "Regional",
+          "source": "event_review_extraction",
+          "reason": "Common term in conspiracy theories, useful for detecting similar narratives.",
+          "date_added": "2026-10-26",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
         }
       ]
     },

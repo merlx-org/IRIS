@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-26",
+  "extracted_claims": [
+    {
+      "claim": "Archbishop Carlo Maria Vigan\u00f2 falsely claims global elites are infiltrating Western governments to impose Agenda 2030.",
+      "country": "Regional",
+      "actors": [
+        "Archbishop Carlo Maria Vigan\u00f2",
+        "@johnfkjrtv",
+        "@MrWhiplash_",
+        "@bupc_boopsy"
+      ],
+      "keywords": [
+        "Archbishop Vigan\u00f2",
+        "global elites",
+        "Agenda 2030",
+        "Western governments",
+        "infiltration"
+      ]
+    }
+  ],
+  "proposed_keywords": [
+    {
+      "keyword": "Archbishop Vigan\u00f2",
+      "country": "Regional",
+      "reason": "Key figure in global conspiracy theories amplified in the region."
+    },
+    {
+      "keyword": "Agenda 2030",
+      "country": "Regional",
+      "reason": "Central to conspiracy theories targeting international development goals, relevant to UNDP's work."
+    },
+    {
+      "keyword": "Global elites",
+      "country": "Regional",
+      "reason": "Common term in conspiracy theories, useful for detecting similar narratives."
+    }
+  ],
+  "events_reviewed": 1,
+  "events_reclassified": 0
+}
