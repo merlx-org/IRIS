@@ -32582,11 +32582,11 @@
     "id": "APF-2026-05-16-132",
     "date": "2026-05-16",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
     "threat_level": "P2 HIGH",
-    "headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
-    "summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "headline": "Social Media Accounts Amplify Claims About Gachagua's Response to FBI Partnership",
+    "summary": "Multiple X accounts attributed claims to former Deputy President Rigathi Gachagua regarding FBI-Kenya partnership and alleged Minnesota fraud cartels operating from Eastleigh. This appears to be social amplification of a political narrative rather than breaking news, with the substance requiring verification against official statements.",
     "actors": [
       "@InsideKeOnline"
     ],
@@ -32654,17 +32654,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
+    "_original_summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "FBI partnership with Kenya is targeting Minnesota-based fraud cartels operating from Eastleigh Malls"
+    ],
+    "_review_notes": "Event appears to be social media amplification of political messaging rather than original disinformation. The classification conflates automated detection of coordinated posting with false claims themselves. Headline describes detection mechanics ('Gachagua Cheers') rather than identifying false narratives.",
+    "_reviewed": "2026-10-27T15:08:16.976537+00:00"
   },
   {
     "id": "APF-2026-05-16-264",
     "date": "2026-05-16",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Reporting on Turkish Analyst's Alleged ISIS Propaganda Parallels in Puntland Commentary",
+    "summary": "An account attributed analysis claiming Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media echo ISIS propaganda in narratives portraying Puntland counterterrorism operations. This is a meta-analysis/report about disinformation, not disinformation content itself.",
     "actors": [
       "@CirkaNews"
     ],
@@ -32731,13 +32739,21 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts (Umut Çağrı Sarı and Manjaniq Media) echo ISIS propaganda in their Puntland counterterror narratives"
+    ],
+    "_review_notes": "This is a critical meta-report about disinformation (CONTEXT), not disinformation itself (DISINFO). It should be classified as analysis of coordinated propaganda. Threat level too high for a reporting/analytical piece; P3 appropriate.",
+    "_reviewed": "2026-10-27T15:08:16.976559+00:00"
   },
   {
     "id": "APF-2026-05-16-669",
     "date": "2026-05-16",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
     "threat_level": "P2 HIGH",
     "headline": "Rigathi Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels",
@@ -32813,7 +32829,13 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "extracted_claims": [
+      "FBI partnership with Kenya targets Minnesota-based fraud cartels operating from Eastleigh Malls"
+    ],
+    "_review_notes": "Correctly identified coordinated amplification (6 near-identical posts from 5 accounts), but event type is mislabeled. The substance being amplified requires verification; the detected pattern itself is CONTEXT (detection action), not DISINFO (false claims). This is the same narrative as Event 0, distributed across more accounts.",
+    "_reviewed": "2026-10-27T15:08:16.976564+00:00"
   },
   {
     "id": "APF-2026-05-17-149",
@@ -32821,9 +32843,9 @@
     "country": "Kenya",
     "event_type": "DISINFO",
     "disinfo_subtype": "coordinated_campaign",
-    "threat_level": "P3 MODERATE",
-    "headline": "Yes Soros is part of the Deep State that controls and manipulate; Democrats Media 95% Universities Schools Judges Obama",
-    "summary": "Yes Soros is part of the Deep State that controls and manipulate; Democrats Media 95% Universities Schools Judges Obama Crossfire Hurricane. Fraud mail-in ballots votes Fraud voting machines. Hollywood Celebrities Fund protesters against Trump. Burn . Observed across 2 posts from 2 accounts on X (Twitter).",
+    "threat_level": "P2 HIGH",
+    "headline": "Deep State Conspiracy Claims Linking Soros, Democrats, Media, and Election Fraud",
+    "summary": "X accounts promoted interconnected conspiracy theories alleging George Soros, Democratic Party, mainstream media, and institutions conspired to manipulate elections through fraud, mail-in ballots, and voter machine tampering, with celebrity funding of anti-Trump protests. These narratives echo Western conspiracy ecosystems with potential spillover impact on Kenyan electoral discourse.",
     "actors": [
       "@Harryozzz",
       "@HarryCostas2"
@@ -32879,17 +32901,27 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "Yes Soros is part of the Deep State that controls and manipulate; Democrats Media 95% Universities Schools Judges Obama",
+    "_original_summary": "Yes Soros is part of the Deep State that controls and manipulate; Democrats Media 95% Universities Schools Judges Obama Crossfire Hurricane. Fraud mail-in ballots votes Fraud voting machines. Hollywood Celebrities Fund protesters against Trump. Burn . Observed across 2 posts from 2 accounts on X (Twitter).",
+    "extracted_claims": [
+      "George Soros is part of a Deep State controlling Democrats, media (95%), universities, schools, and judges",
+      "U.S. elections were compromised through fraudulent mail-in ballots and voting machine tampering",
+      "Crossfire Hurricane and mainstream media collaborated against Trump",
+      "Hollywood celebrities fund protest movements against Trump"
+    ],
+    "_review_notes": "Correctly classified as DISINFO. However, threat level underestimated: coordinated amplification of election conspiracy theories with potential to influence Kenyan electoral processes merits P2 HIGH. These are primarily Western-origin narratives being localized for East African audiences.",
+    "_reviewed": "2026-10-27T15:08:16.976570+00:00"
   },
   {
     "id": "APF-2026-05-17-956",
     "date": "2026-05-17",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
     "threat_level": "P2 HIGH",
-    "headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
-    "summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "headline": "Social Media Accounts Amplify Claims About Gachagua's Response to FBI Partnership",
+    "summary": "Posts from @InsideKeOnline circulated claims attributed to former Deputy President Rigathi Gachagua regarding FBI-Kenya partnership and alleged Minnesota-based fraud operations in Eastleigh. Substance of claims requires verification against official channels.",
     "actors": [
       "@InsideKeOnline"
     ],
@@ -32957,7 +32989,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
+    "_original_summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "FBI-Kenya partnership targets Minnesota-based fraud cartels operating from Eastleigh Malls"
+    ],
+    "_review_notes": "Duplicate of Event 0 (same headline, same account, same narrative). Should be deduplicated. Classification as DISINFO conflates amplification activity with false claims themselves; suggests CONTEXT (detection report) instead.",
+    "_reviewed": "2026-10-27T15:08:16.976574+00:00"
   },
   {
     "id": "APF-2026-05-17-814",
@@ -33383,8 +33423,8 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "misinformation",
     "threat_level": "P2 HIGH",
-    "headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
-    "summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "headline": "FBI Partnership Claims: Former Deputy President Gachagua Links Minnesota Fraud Cartels to Eastleigh",
+    "summary": "Posts from @InsideKeOnline claim that former Deputy President Rigathi Gachagua has praised an FBI partnership, framing it as a tool to catch alleged Minnesota-based fraud networks operating in Nairobi's Eastleigh district. The claim links international law enforcement cooperation to localized organized crime allegations without verified evidence.",
     "actors": [
       "@InsideKeOnline"
     ],
@@ -33452,17 +33492,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
+    "_original_summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "FBI partnership with Kenya targets Minnesota fraud cartels operating in Eastleigh malls",
+      "Fraud cartels are hiding in Eastleigh shopping malls and using them as bases"
+    ],
+    "_review_notes": "Likely political disinformation attributing statements to Gachagua without direct verification. Links FBI visit to organized crime narratives targeting a specific ethnic/commercial area, potentially inflaming tensions.",
+    "_reviewed": "2026-10-27T15:08:42.662203+00:00"
   },
   {
     "id": "APF-2026-05-19-615",
     "date": "2026-05-19",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
     "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "headline": "Analysis Report: Turkish Analyst Narratives Compared to ISIS Propaganda Regarding Puntland Counterterrorism",
+    "summary": "@CirkaNews publishes analytical content comparing statements by Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media to ISIS propaganda narratives, focusing on their framing of Puntland's counterterrorism efforts. This is a report ABOUT disinformation patterns, not the disinformation itself.",
     "actors": [
       "@CirkaNews"
     ],
@@ -33529,7 +33577,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda in coverage of Puntland counterterrorism",
+      "Specific similarities exist between Umut Çağrı Sarı's commentary and ISIS messaging on Puntland"
+    ],
+    "_review_notes": "Event is a third-party analysis/report about disinformation actors, not disinformation content itself. Should be reclassified as CONTEXT and used to identify target accounts and narratives for deeper monitoring.",
+    "_reviewed": "2026-10-27T15:08:42.662239+00:00"
   },
   {
     "id": "APF-2026-05-20-116",
@@ -33537,9 +33594,9 @@
     "country": "Somalia",
     "event_type": "DISINFO",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P3 MODERATE",
-    "headline": "Are you still High on the Dope you were banned from football for? Christians In Nigeria are being K1lled and Hunted",
-    "summary": "Are you still High on the Dope you were banned from football for? Christians In Nigeria are being K1lled and Hunted like animals by Musl1ms but you had no voice. Churches burnt and lives lost you were silent. Just one mosque attacked with 3 casualtie. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "threat_level": "P2 HIGH",
+    "headline": "Claims of Christian Persecution in Nigeria Used to Attack Political Figure; Minimizes Mosque Attack Casualties",
+    "summary": "@Kolosmental posts inflammatory content attacking a political figure by comparing alleged Christian persecution in Nigeria to a single mosque attack, using disproportionate casualty framing to delegitimize the figure's silence. This combines false persecution narratives with ad hominem attacks to inflame religious tensions.",
     "actors": [
       "@Kolosmental"
     ],
@@ -33606,7 +33663,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "Are you still High on the Dope you were banned from football for? Christians In Nigeria are being K1lled and Hunted",
+    "_original_summary": "Are you still High on the Dope you were banned from football for? Christians In Nigeria are being K1lled and Hunted like animals by Musl1ms but you had no voice. Churches burnt and lives lost you were silent. Just one mosque attacked with 3 casualtie. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Christians in Nigeria are being systematically killed and hunted by Muslims",
+      "A political figure remained silent on Christian persecution while speaking about mosque attacks",
+      "A mosque attack with 3 casualties is minimized compared to alleged Christian killings"
+    ],
+    "_review_notes": "Though labeled P3 MODERATE, this is high-risk sectarian disinformation with clear intent to inflame religious tensions. Threat level should be elevated. Uses external conflict (Nigeria) as proxy for domestic religious polarization.",
+    "_reviewed": "2026-10-27T15:08:42.662244+00:00"
   },
   {
     "id": "APF-2026-05-20-776",
@@ -33615,8 +33681,8 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "misinformation",
     "threat_level": "P2 HIGH",
-    "headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
-    "summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "headline": "FBI Partnership Claims: Former Deputy President Gachagua Links Minnesota Fraud Cartels to Eastleigh",
+    "summary": "Posts from @InsideKeOnline claim that former Deputy President Rigathi Gachagua praised an FBI partnership as a means to target alleged Minnesota-based fraud networks operating in Nairobi's Eastleigh district. The narrative links international law enforcement cooperation to localized organized crime, potentially targeting a specific commercial/ethnic area.",
     "actors": [
       "@InsideKeOnline"
     ],
@@ -33684,16 +33750,24 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
+    "_original_summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "FBI partnership with Kenya targets Minnesota fraud cartels operating in Eastleigh malls",
+      "Fraud networks are hiding in Eastleigh shopping malls"
+    ],
+    "_review_notes": "Duplicate of event [0]. Same account, same narrative clusters, same false attribution to Gachagua. Appears to be systematic amplification across multiple posts.",
+    "_reviewed": "2026-10-27T15:08:42.662248+00:00"
   },
   {
     "id": "APF-2026-05-20-912",
     "date": "2026-05-20",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
-    "threat_level": "P2 HIGH",
-    "headline": "The Business Bay Square (BBS) Mall Eastleigh Nairobi Kenya, General Waruinge Street, Nairobi, has its own",
+    "threat_level": "P3 MODERATE",
+    "headline": "Report: Administration Police Presence at Eastleigh Mall Raises Jurisdictional Concerns",
     "summary": "The Business Bay Square (BBS) Mall Eastleigh Nairobi Kenya, General Waruinge Street, Nairobi, has its own Administration Police officers who also conduct traffic stops on motorcycles. The mall appears to have designated a public road as its own, from.",
     "actors": [
       "@SaddiqueShaban"
@@ -33762,17 +33836,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "The Business Bay Square (BBS) Mall Eastleigh Nairobi Kenya, General Waruinge Street, Nairobi, has its own",
+    "extracted_claims": [
+      "Business Bay Square Mall in Eastleigh has designated its own Administration Police officers",
+      "The mall has appropriated a public road for private use"
+    ],
+    "_review_notes": "This appears to be a factual report about governance/security arrangements rather than disinformation. If true, it's a legitimate concern; if false, it's an allegation requiring verification. Context for broader Eastleigh narrative ecosystem but not inherently disinfo without false claims present.",
+    "_reviewed": "2026-10-27T15:08:42.662253+00:00"
   },
   {
     "id": "APF-2026-05-20-675",
     "date": "2026-05-20",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Turkish Analyst Umut Çağrı Sarı Accused of Amplifying ISIS Propaganda Narratives on Puntland",
+    "summary": "Analysis claims Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media are echoing ISIS propaganda in their coverage of Puntland counterterrorism operations. The post is primarily a critical assessment/commentary on another analyst's work rather than direct disinformation spread.",
     "actors": [
       "@CirkaNews"
     ],
@@ -33839,17 +33921,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Turkish geopolitical analysts are echoing ISIS propaganda in coverage of Puntland counterterrorism"
+    ],
+    "_review_notes": "This is commentary/analysis about alleged disinformation, not disinformation itself. Should be reclassified as CONTEXT. Threat level should be reduced as this is analytical critique rather than active false claims being spread.",
+    "_reviewed": "2026-10-27T15:09:03.693922+00:00"
   },
   {
     "id": "APF-2026-05-20-778",
     "date": "2026-05-20",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
-    "threat_level": "P3 MODERATE",
+    "threat_level": "P2 HIGH",
     "headline": "🔴 BREAKING NEWS South Sudan army chief gives troops 7 days to crush rebellion in Jonglei South Sudan’s Chief of Defence",
-    "summary": "🔴 BREAKING NEWS South Sudan army chief gives troops 7 days to crush rebellion in Jonglei South Sudan’s Chief of Defence Forces, Gen. Paul Nang Majok, has ordered government troops to crush the rebellion within seven days, following intensified fighti.",
+    "summary": "South Sudan's Chief of Defence Forces Gen. Paul Nang Majok issued a seven-day ultimatum to crush a rebellion in Jonglei state following intensified fighting. This represents a significant military escalation and potential military action claim that warrants elevated threat monitoring.",
     "actors": [
       "@SouthSudan24_"
     ],
@@ -33918,7 +34008,14 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_summary": "🔴 BREAKING NEWS South Sudan army chief gives troops 7 days to crush rebellion in Jonglei South Sudan’s Chief of Defence Forces, Gen. Paul Nang Majok, has ordered government troops to crush the rebellion within seven days, following intensified fighti.",
+    "extracted_claims": [
+      "South Sudan army chief ordered troops to crush Jonglei rebellion within seven days"
+    ],
+    "_review_notes": "This appears to be news reporting of an official military statement rather than disinformation. Should be CONTEXT (reporting on events). However, the seven-day ultimatum claim warrants verification and threat escalation if false.",
+    "_reviewed": "2026-10-27T15:09:03.693942+00:00"
   },
   {
     "id": "APF-2026-05-21-525",
@@ -33927,8 +34024,8 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "misinformation",
     "threat_level": "P2 HIGH",
-    "headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
-    "summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "headline": "Claims that FBI Partnership Will Target Minnesota Fraud Cartels Operating in Nairobi's Eastleigh",
+    "summary": "Posts attributed to former Deputy President Gachagua claim that FBI Co-Deputy Director Andrew Bailey's visit to Nairobi is aimed at targeting Minnesota-based fraud cartels allegedly hiding in Eastleigh shopping malls. The claim conflates FBI cooperation with specific anti-diaspora fraud operations.",
     "actors": [
       "@InsideKeOnline"
     ],
@@ -33996,17 +34093,24 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
+    "_original_summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "FBI partnership with Kenya is specifically designed to catch Minnesota fraud cartels operating in Eastleigh"
+    ],
+    "_review_notes": "High-threat disinformation conflating legitimate FBI-Kenya cooperation with partisan narrative about diaspora fraud networks. Gachagua association adds political credibility layer to false or misleading framing.",
+    "_reviewed": "2026-10-27T15:09:03.693946+00:00"
   },
   {
     "id": "APF-2026-05-21-385",
     "date": "2026-05-21",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Turkish Analyst Umut Çağrı Sarı Accused of Amplifying ISIS Propaganda Narratives on Puntland",
+    "summary": "Analysis claims Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media are echoing ISIS propaganda in their coverage of Puntland counterterrorism operations. The post is primarily a critical assessment/commentary on another analyst's work rather than direct disinformation spread.",
     "actors": [
       "@CirkaNews"
     ],
@@ -34073,7 +34177,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Turkish geopolitical analysts are echoing ISIS propaganda in coverage of Puntland counterterrorism"
+    ],
+    "_review_notes": "Duplicate of event 0 with identical content. Classification should be CONTEXT (analysis about alleged disinformation). Threat downgrade recommended as this is commentary/critique, not active false claims.",
+    "_reviewed": "2026-10-27T15:09:03.693950+00:00"
   },
   {
     "id": "APF-2026-05-22-618",
@@ -34224,7 +34336,13 @@
       3,
       3,
       3
-    ]
+    ],
+    "extracted_claims": [
+      "BBC Africa Eye documentary on Kenya Parliament is a cheap hit job designed to create chaos and undermine Kenya",
+      "BBC does not care about Kenya, only cares about clicks and chaos"
+    ],
+    "_review_notes": "Clear coordinated disinformation campaign with 5 identical posts from 5 accounts using unified hashtags. Represents organized anti-media narrative targeting foreign journalists covering Kenya's political violence.",
+    "_reviewed": "2026-10-27T15:09:03.693952+00:00"
   },
   {
     "id": "APF-2026-05-22-663",
@@ -34400,11 +34518,11 @@
     "id": "APF-2026-05-24-355",
     "date": "2026-05-24",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
-    "threat_level": "P2 HIGH",
-    "headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
-    "summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "threat_level": "P3 MODERATE",
+    "headline": "Former Deputy President Gachagua Makes Claims About FBI Partnership and Fraud Cartels in Eastleigh",
+    "summary": "Social media account @InsideKeOnline posted claims attributing statements to former Deputy President Rigathi Gachagua regarding an FBI partnership and alleged fraud cartels operating from Eastleigh Malls. The posts appear to misrepresent or fabricate quotes from Gachagua in relation to FBI Co-Deputy Director Andrew Bailey's visit to Nairobi.",
     "actors": [
       "@InsideKeOnline"
     ],
@@ -34472,17 +34590,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
+    "_original_summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Gachagua endorsed FBI partnership as tool to catch Minnesota-based fraud cartels operating from Eastleigh Malls"
+    ],
+    "_review_notes": "This appears to be a misattribution/fabrication of statements to a political figure rather than organic disinformation. The threat level is overstated; this is more likely political delegitimization content than systemic disinfo.",
+    "_reviewed": "2026-10-27T15:09:23.618919+00:00"
   },
   {
     "id": "APF-2026-05-24-778",
     "date": "2026-05-24",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Analysis Claims Turkish Geopolitical Commentator Echoes ISIS Propaganda on Puntland Counterterrorism",
+    "summary": "@CirkaNews published an analysis alleging that Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media echo ISIS propaganda through their narratives about Puntland's counterterrorism operations. This represents meta-commentary on disinformation rather than disinformation itself.",
     "actors": [
       "@CirkaNews"
     ],
@@ -34549,17 +34675,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts and commentators (Umut Çağrı Sarı, Manjaniq Media) are echoing ISIS propaganda regarding Puntland counterterrorism"
+    ],
+    "_review_notes": "This is a critical analysis or allegation ABOUT disinformation, not disinformation itself. Should be classified as CONTEXT. Threat level overstated.",
+    "_reviewed": "2026-10-27T15:09:23.618938+00:00"
   },
   {
     "id": "APF-2026-05-25-078",
     "date": "2026-05-25",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
-    "threat_level": "P2 HIGH",
-    "headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
-    "summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "threat_level": "P3 MODERATE",
+    "headline": "Former Deputy President Gachagua Makes Claims About FBI Partnership and Fraud Cartels in Eastleigh",
+    "summary": "Social media account @InsideKeOnline posted claims attributing statements to former Deputy President Rigathi Gachagua regarding an FBI partnership and alleged fraud cartels operating from Eastleigh Malls. The posts appear to misrepresent or fabricate quotes from Gachagua in relation to FBI Co-Deputy Director Andrew Bailey's visit to Nairobi.",
     "actors": [
       "@InsideKeOnline"
     ],
@@ -34627,17 +34761,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in",
+    "_original_summary": "Gachagua Cheers FBI’s Kenya Partnership, Sees It as the Net That Will Finally Catch Minnesota Fraud Cartels Hiding in Eastleigh Malls. The arrival of FBI Co-Deputy Director Andrew Bailey in Nairobi this week has handed former Deputy President Rigathi. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Gachagua endorsed FBI partnership as tool to catch Minnesota-based fraud cartels operating from Eastleigh Malls"
+    ],
+    "_review_notes": "Duplicate of event 0. This is political misattribution/delegitimization rather than organic disinformation. Threat overstated.",
+    "_reviewed": "2026-10-27T15:09:23.618943+00:00"
   },
   {
     "id": "APF-2026-05-25-110",
     "date": "2026-05-25",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Analysis Claims Turkish Geopolitical Commentator Echoes ISIS Propaganda on Puntland Counterterrorism",
+    "summary": "@CirkaNews published an analysis alleging that Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media echo ISIS propaganda through their narratives about Puntland's counterterrorism operations. This represents meta-commentary on disinformation rather than disinformation itself.",
     "actors": [
       "@CirkaNews"
     ],
@@ -34704,17 +34846,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts and commentators (Umut Çağrı Sarı, Manjaniq Media) are echoing ISIS propaganda regarding Puntland counterterrorism"
+    ],
+    "_review_notes": "Duplicate of event 1. Should be reclassified as CONTEXT (analysis about disinfo, not disinfo itself). Threat level overstated.",
+    "_reviewed": "2026-10-27T15:09:23.618947+00:00"
   },
   {
     "id": "APF-2026-05-25-725",
     "date": "2026-05-25",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
     "threat_level": "P3 MODERATE",
-    "headline": "11. 👉❗️Europe has financed 🇷🇺's genocide more than it has defended 🇺🇦. Oreshnik + drone equivalents: €230.8 billion",
-    "summary": "11. 👉❗️Europe has financed 🇷🇺's genocide more than it has defended 🇺🇦. Oreshnik + drone equivalents: €230.8 billion fossil fuels 👉 ~4,600 to 7,700+ Oreshnik missiles + hundreds of thousands of Shahed drones (&amp; other missiles) 2025 alone 👉 ~360 to.",
+    "headline": "Social Media Post Makes Claims About European Fossil Fuel Financing of Russian Military",
+    "summary": "Account @SiljaLynx posted claims comparing European fossil fuel purchases to military aid for Ukraine, alleging that Europe has financed Russian military capability more than defending Ukraine. The post uses specific figures (€230.8 billion) and missile/drone equivalencies to support the narrative.",
     "actors": [
       "@SiljaLynx"
     ],
@@ -34783,7 +34933,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "11. 👉❗️Europe has financed 🇷🇺's genocide more than it has defended 🇺🇦. Oreshnik + drone equivalents: €230.8 billion",
+    "_original_summary": "11. 👉❗️Europe has financed 🇷🇺's genocide more than it has defended 🇺🇦. Oreshnik + drone equivalents: €230.8 billion fossil fuels 👉 ~4,600 to 7,700+ Oreshnik missiles + hundreds of thousands of Shahed drones (&amp; other missiles) 2025 alone 👉 ~360 to.",
+    "extracted_claims": [
+      "Europe has financed Russia's genocide through fossil fuels (€230.8 billion) more than it has defended Ukraine",
+      "European fossil fuel purchases equal 4,600 to 7,700+ Oreshnik missiles and hundreds of thousands of Shahed drones"
+    ],
+    "_review_notes": "This event is geographically misclassified (South Sudan) but concerns European-Russian-Ukrainian geopolitics. Content is outside East Africa mandate. However, classified as DISINFO correctly if the missile/economic equivalencies are false or misleading.",
+    "_reviewed": "2026-10-27T15:09:23.618951+00:00"
   },
   {
     "id": "APF-2026-05-27-760",
@@ -35297,11 +35456,11 @@
     "id": "APF-2026-05-29-338",
     "date": "2026-05-29",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
-    "threat_level": "P2 HIGH",
-    "headline": "The Business Bay Square (BBS) Mall Eastleigh Nairobi Kenya, General Waruinge Street, Nairobi, has its own",
-    "summary": "The Business Bay Square (BBS) Mall Eastleigh Nairobi Kenya, General Waruinge Street, Nairobi, has its own Administration Police officers who also conduct traffic stops on motorcycles. The mall appears to have designated a public road as its own, from.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Claim: Business Bay Square Mall Eastleigh has private security conducting traffic stops on public roads",
+    "summary": "A social media post claims that Business Bay Square Mall in Eastleigh, Nairobi has designated Administration Police officers who conduct traffic stops on motorcycles and has appropriated public roads. This allegation, if false, represents a disinformation narrative about commercial overreach into public security functions.",
     "actors": [
       "@SaddiqueShaban"
     ],
@@ -35369,7 +35528,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "The Business Bay Square (BBS) Mall Eastleigh Nairobi Kenya, General Waruinge Street, Nairobi, has its own",
+    "_original_summary": "The Business Bay Square (BBS) Mall Eastleigh Nairobi Kenya, General Waruinge Street, Nairobi, has its own Administration Police officers who also conduct traffic stops on motorcycles. The mall appears to have designated a public road as its own, from.",
+    "extracted_claims": [
+      "Business Bay Square Mall Eastleigh has its own Administration Police officers conducting traffic stops on motorcycles",
+      "Business Bay Square Mall has designated a public road as its own property"
+    ],
+    "_review_notes": "Event appears to be a specific allegation rather than coordinated disinformation campaign. Threat level should reflect single-post spread and moderate credibility challenge to the claim.",
+    "_reviewed": "2026-10-27T15:09:48.471390+00:00"
   },
   {
     "id": "APF-2026-05-29-012",
@@ -35377,9 +35545,9 @@
     "country": "Somalia",
     "event_type": "DISINFO",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
+    "threat_level": "P3 MODERATE",
     "headline": "Radio Al-Furqan (a radio subsidiary of Al-Kataib) referring to Amin Abdullah, father of eight children, as a \"hero\".",
-    "summary": "Radio Al-Furqan (a radio subsidiary of Al-Kataib) referring to Amin Abdullah, father of eight children, as a \"hero\". Compare this to certain extreme peoples on xitter insulting him and calling him a mercenary.",
+    "summary": "A social media post references Radio Al-Furqan (Al-Kataib subsidiary) portraying Amin Abdullah as a 'hero' while contrasting this with criticism from other X users calling him a mercenary. This represents conflicting narratives around a specific individual's role and legitimacy.",
     "actors": [
       "@arsenalenjoying"
     ],
@@ -35446,17 +35614,24 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_summary": "Radio Al-Furqan (a radio subsidiary of Al-Kataib) referring to Amin Abdullah, father of eight children, as a \"hero\". Compare this to certain extreme peoples on xitter insulting him and calling him a mercenary.",
+    "extracted_claims": [
+      "Amin Abdullah (father of eight) is a 'hero' according to Al-Kataib media",
+      "Amin Abdullah is a mercenary (counter-narrative)"
+    ],
+    "_review_notes": "This appears to be narrative conflict reporting rather than pure disinformation spreading. The post highlights competing framings but lacks evidence of false claims, suggesting reclassification to CONTEXT may be warranted.",
+    "_reviewed": "2026-10-27T15:09:48.471409+00:00"
   },
   {
     "id": "APF-2026-05-29-335",
     "date": "2026-05-29",
     "country": "Regional",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "foreign_propaganda",
     "threat_level": "P3 MODERATE",
-    "headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
-    "summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "headline": "Analysis: Fahad Yasin interview framed as carefully crafted victimhood narrative rather than credible account",
+    "summary": "A social media post critiques Fahad Yasin's recent interview as a carefully constructed victimhood narrative rather than a credible account, suggesting the content represents strategic framing rather than genuine accountability. This constitutes commentary on disinformation tactics rather than disinformation itself.",
     "actors": [
       "@foritssake"
     ],
@@ -35518,7 +35693,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "_original_summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "extracted_claims": [
+      "Fahad Yasin's interview is a 'carefully crafted narrative of victimhood' rather than credible account"
+    ],
+    "_review_notes": "This is analytical commentary critiquing someone's framing, not disinformation spreading. Should be reclassified as CONTEXT—a report about narrative manipulation tactics.",
+    "_reviewed": "2026-10-27T15:09:48.471414+00:00"
   },
   {
     "id": "APF-2026-05-30-681",
@@ -35527,8 +35710,8 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "coordinated_campaign",
     "threat_level": "P2 HIGH",
-    "headline": "#DogsOfWar: Miguna has seen this before. These aren’t revolutionaries, they’re operatives, rehearsing their next circus. First",
-    "summary": "Miguna has seen this before. These aren’t revolutionaries, they’re operatives, rehearsing their next circus. First Kenya, now Tanzania.  KenyavsTZ Gachagua Arrested. Observed across 2 posts from 1 accounts on X (Twitter). Campaign hashtags: #DogsOfWar.",
+    "headline": "Coordinated claim: Kenyan opposition figures are 'operatives rehearsing circus' not genuine revolutionaries; expanding to Tanzania",
+    "summary": "A coordinated multi-account campaign using #DogsOfWar hashtag spreads the claim that recent Kenyan political events (referencing Gachagua arrest, opposition actions) are staged operations rather than genuine political mobilization, with narratives now extending to Tanzania. The campaign involves 2 posts from accounts including @nasrah_cutie, @wishfmkenya, and others.",
     "actors": [
       "@nasrah_cutie",
       "@wishfmkenya",
@@ -35679,17 +35862,26 @@
       3,
       3,
       3
-    ]
+    ],
+    "_original_headline": "#DogsOfWar: Miguna has seen this before. These aren’t revolutionaries, they’re operatives, rehearsing their next circus. First",
+    "_original_summary": "Miguna has seen this before. These aren’t revolutionaries, they’re operatives, rehearsing their next circus. First Kenya, now Tanzania.  KenyavsTZ Gachagua Arrested. Observed across 2 posts from 1 accounts on X (Twitter). Campaign hashtags: #DogsOfWar.",
+    "extracted_claims": [
+      "Kenyan opposition figures are 'operatives' staging a 'circus' rather than genuine revolutionaries",
+      "Political unrest is expanding from Kenya to Tanzania as coordinated operations",
+      "Gachagua's arrest is part of orchestrated political theater"
+    ],
+    "_review_notes": "This is a coordinated multi-account disinformation campaign using historical reference (Miguna Miguna framing) to delegitimize current political events. The expansion to Tanzania suggests regional coordination narrative.",
+    "_reviewed": "2026-10-27T15:09:48.471418+00:00"
   },
   {
     "id": "APF-2026-05-30-172",
     "date": "2026-05-30",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
     "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "headline": "Report: Turkish analyst claims compared to ISIS propaganda in coverage of Puntland counterterrorism",
+    "summary": "A news/analysis account (@CirkaNews) reports on claims that Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media are echoing ISIS propaganda narratives in their coverage of Puntland's counterterrorism operations. This is meta-analysis of disinformation tactics rather than disinformation spreading itself.",
     "actors": [
       "@CirkaNews"
     ],
@@ -35756,7 +35948,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda in coverage of Puntland counterterrorism",
+      "Umut Çağrı Sarı pushes narratives portraying Puntland's counterterror efforts in specific (unstated) direction"
+    ],
+    "_review_notes": "This is investigative reporting ABOUT disinformation tactics (comparing narratives to ISIS framing), not disinformation itself. The threat level should remain HIGH due to foreign disinformation operations targeting Somalia, but classification should change to CONTEXT.",
+    "_reviewed": "2026-10-27T15:09:48.471422+00:00"
   },
   {
     "id": "APF-2026-05-31-053",
@@ -36804,11 +37005,11 @@
     "id": "APF-2026-06-04-030",
     "date": "2026-06-04",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Analysis: Similarities Between Pro-Turkish Commentator Umut Çağrı Sarı and Manjaniq Media Narratives on Puntland",
+    "summary": "An analysis post comparing rhetoric and framing used by Turkish geopolitical commentator Umut Çağrı Sarı to propaganda techniques associated with extremist media. The post appears to be analytical commentary on narrative patterns rather than active disinformation spreading.",
     "actors": [
       "@CirkaNews"
     ],
@@ -36875,17 +37076,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda techniques"
+    ],
+    "_review_notes": "This event is analytical commentary ABOUT disinformation narratives, not disinformation itself. Threat level should be lowered as the post appears critical/analytical rather than amplifying false claims. The incomplete headline/summary suggests truncation in collection.",
+    "_reviewed": "2026-10-27T15:10:12.905498+00:00"
   },
   {
     "id": "APF-2026-06-04-121",
     "date": "2026-06-04",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
     "threat_level": "P3 MODERATE",
-    "headline": "low IQ? 50 years ago ? Your the retard ,cazzo. Aren't you a little old to play Brigada Rossa ? 50 years ago Noam",
-    "summary": "low IQ? 50 years ago ? Your the retard ,cazzo. Aren't you a little old to play Brigada Rossa ? 50 years ago Noam Chomsky defended the Khmer Rouge while they were killing 25% of Cambodia's population. When the Khmer Rouge took Cambodia, Chomsky didn't.",
+    "headline": "Social Media Exchange: Claims About Noam Chomsky's Historical Position on Khmer Rouge",
+    "summary": "A social media user challenges another account by raising historical claims about Noam Chomsky's alleged defense or insufficient criticism of the Khmer Rouge regime. The exchange appears to be a political argument rather than coordinated disinformation campaign.",
     "actors": [
       "@Amadeo3799600"
     ],
@@ -36954,17 +37163,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "low IQ? 50 years ago ? Your the retard ,cazzo. Aren't you a little old to play Brigada Rossa ? 50 years ago Noam",
+    "_original_summary": "low IQ? 50 years ago ? Your the retard ,cazzo. Aren't you a little old to play Brigada Rossa ? 50 years ago Noam Chomsky defended the Khmer Rouge while they were killing 25% of Cambodia's population. When the Khmer Rouge took Cambodia, Chomsky didn't.",
+    "extracted_claims": [
+      "Noam Chomsky defended the Khmer Rouge while they were killing 25% of Cambodia's population"
+    ],
+    "_review_notes": "This is a low-value event: a heated social media exchange with historical claims tangential to East Africa. Not operationally relevant to UNDP MERLx mission. The Khmer Rouge reference suggests argument amplification rather than regional disinformation campaign.",
+    "_reviewed": "2026-10-27T15:10:12.905525+00:00"
   },
   {
     "id": "APF-2026-06-04-007",
     "date": "2026-06-04",
     "country": "Regional",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "foreign_propaganda",
     "threat_level": "P3 MODERATE",
-    "headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
-    "summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "headline": "Critical Analysis of Fahad Yasin Interview: Accusations of Narrative Manipulation",
+    "summary": "A commentary piece critiques an interview by Fahad Yasin, characterizing it as a manufactured narrative of victimhood rather than credible testimony. The post is analytical commentary on political claims rather than active disinformation propagation.",
     "actors": [
       "@foritssake"
     ],
@@ -37026,7 +37243,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "_original_summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "extracted_claims": [
+      "Fahad Yasin's recent interview is a carefully crafted victimhood narrative lacking credibility"
+    ],
+    "_review_notes": "Analysis/opinion piece about political figures' credibility, not active disinformation. Incomplete summary suggests truncation. Limited operational value for early warning without specific false claims detailed.",
+    "_reviewed": "2026-10-27T15:10:12.905530+00:00"
   },
   {
     "id": "APF-2026-06-05-837",
@@ -37034,9 +37259,9 @@
     "country": "Kenya",
     "event_type": "DISINFO",
     "disinfo_subtype": "coordinated_campaign",
-    "threat_level": "P3 MODERATE",
-    "headline": "You are 100% correct. All Americans came within the 2016 elections of being all called deplorables and ruled over by an",
-    "summary": "You are 100% correct. All Americans came within the 2016 elections of being all called deplorables and ruled over by an Authoritarian Dictatorship. Ran by Hillary Clinton, George and Alex Soros. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "threat_level": "P1 CRITICAL",
+    "headline": "False Claims: Hillary Clinton and Soros Planned Authoritarian US Rule; 2016 Americans Called 'Deplorables'",
+    "summary": "A social media post spreads conspiracy theories claiming Hillary Clinton and George/Alex Soros orchestrated an authoritarian takeover plot during the 2016 US election, falsely characterizing electoral politics as a dictatorship threat. This amplifies U.S.-focused conspiracy narratives with no direct East Africa nexus but indicates foreign interference narrative vectors.",
     "actors": [
       "@roadtrips17"
     ],
@@ -37091,7 +37316,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "You are 100% correct. All Americans came within the 2016 elections of being all called deplorables and ruled over by an",
+    "_original_summary": "You are 100% correct. All Americans came within the 2016 elections of being all called deplorables and ruled over by an Authoritarian Dictatorship. Ran by Hillary Clinton, George and Alex Soros. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Hillary Clinton and the Soros family orchestrated an authoritarian dictatorship plan during 2016 elections",
+      "Americans were universally targeted as 'deplorables' by political leadership in 2016"
+    ],
+    "_review_notes": "This event reveals a critical gap: U.S.-centric conspiracy theories are being amplified from Kenya-based accounts. The P3 threat level is severely understated—conspiracy theories about engineered authoritarian takeovers should be P1 CRITICAL. Coordination across 2 posts from 1 account indicates intentional amplification strategy.",
+    "_reviewed": "2026-10-27T15:10:12.905533+00:00"
   },
   {
     "id": "APF-2026-06-05-794",
@@ -37100,8 +37333,8 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "misinformation",
     "threat_level": "P2 HIGH",
-    "headline": "FBI Opens Nairobi Hunt for Minnesota Fraud Millions Hidden in Kileleshwa Highrises, Eastleigh Malls and Ghost Property",
-    "summary": "FBI Opens Nairobi Hunt for Minnesota Fraud Millions Hidden in Kileleshwa Highrises, Eastleigh Malls and Ghost Property Empires. With at least one suspect already arrested after wiring stolen Medicaid funds to a Gatundu Road apartment, federal agents . 3 near-identical posts from 1 accounts suggest coordinated amplification.",
+    "headline": "False Claims: FBI Hunt for Minnesota Fraud Millions Hidden in Nairobi Real Estate and Retail Locations",
+    "summary": "A coordinated disinformation campaign (3 near-identical posts from 1 account) falsely claims the FBI is searching for millions in stolen Medicaid funds allegedly hidden in Kileleshwa high-rises, Eastleigh malls, and Gatundu Road apartments in Nairobi. The fabricated story connects U.S. federal law enforcement to Kenya's real estate markets to generate distrust in property investments and institutions.",
     "actors": [
       "@InsideKeOnline"
     ],
@@ -37169,7 +37402,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "FBI Opens Nairobi Hunt for Minnesota Fraud Millions Hidden in Kileleshwa Highrises, Eastleigh Malls and Ghost Property",
+    "_original_summary": "FBI Opens Nairobi Hunt for Minnesota Fraud Millions Hidden in Kileleshwa Highrises, Eastleigh Malls and Ghost Property Empires. With at least one suspect already arrested after wiring stolen Medicaid funds to a Gatundu Road apartment, federal agents . 3 near-identical posts from 1 accounts suggest coordinated amplification.",
+    "extracted_claims": [
+      "FBI is conducting operations in Nairobi searching for Minnesota fraud millions hidden in Kileleshwa, Eastleigh, and Gatundu properties",
+      "Stolen Medicaid funds have been wired to Gatundu Road apartments as part of international fraud scheme"
+    ],
+    "_review_notes": "High-confidence coordinated disinformation campaign using specific Nairobi addresses to manufacture false FBI operations narrative. The 3 near-identical posts confirm deliberate amplification. Threat level is appropriately P2 HIGH—this destabilizes commercial confidence and erodes trust in Kenyan-U.S. institutional cooperation.",
+    "_reviewed": "2026-10-27T15:10:12.905536+00:00"
   },
   {
     "id": "APF-2026-06-05-549",
@@ -38668,11 +38909,11 @@
     "id": "APF-2026-06-15-730",
     "date": "2026-06-15",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "threat_level": "P3 MODERATE",
+    "headline": "Turkish Analyst Umut Çağrı Sarı Accused of Amplifying ISIS-Aligned Narratives on Puntland Counterterror",
+    "summary": "An account (@CirkaNews) on X alleges that Turkish geopolitical commentator Umut Çağrı Sarı is promoting narratives similar to ISIS propaganda regarding Puntland's counterterrorism operations. The claim frames Sarı as echoing extremist framing of regional security efforts, observed across multiple posts.",
     "actors": [
       "@CirkaNews"
     ],
@@ -38739,7 +38980,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Turkish geopolitical commentator Umut Çağrı Sarı is echoing ISIS propaganda narratives"
+    ],
+    "_review_notes": "This is a claim ABOUT disinformation (accusation that Sarı echoes ISIS talking points), not disinformation itself. Threat level overstated for what appears to be interpretive analysis rather than mass falsehood spread. Headline focuses on accusation mechanics rather than the substantive claim being made.",
+    "_reviewed": "2026-10-27T15:10:34.583044+00:00"
   },
   {
     "id": "APF-2026-06-15-522",
@@ -38749,7 +38998,7 @@
     "disinfo_subtype": "propaganda",
     "threat_level": "P2 HIGH",
     "headline": "How Al-Shabaab Exploited a Somali World Cup Referee’s US Entry Denial for Propaganda Campaign Somali Report —",
-    "summary": "How Al-Shabaab Exploited a Somali World Cup Referee’s US Entry Denial for Propaganda Campaign Somali Report — Al-Shabaab has sought to capitalize on the controversy surrounding Somali referee Omar Abdulkadir Artan’s exclusion from the 2026 FIFA World.",
+    "summary": "Posts from @SomaliReport_ claim that Al-Shabaab weaponized the controversy over Somali referee Omar Abdulkadir Artan's exclusion from the 2026 FIFA World Cup for propaganda purposes, exploiting national frustration about the US visa denial to advance the group's messaging.",
     "actors": [
       "@SomaliReport_"
     ],
@@ -38816,17 +39065,23 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_summary": "How Al-Shabaab Exploited a Somali World Cup Referee’s US Entry Denial for Propaganda Campaign Somali Report — Al-Shabaab has sought to capitalize on the controversy surrounding Somali referee Omar Abdulkadir Artan’s exclusion from the 2026 FIFA World.",
+    "extracted_claims": [
+      "Al-Shabaab exploited Somali referee Omar Abdulkadir Artan's US visa denial for propaganda campaign"
+    ],
+    "_review_notes": "Plausible disinformation claim regarding extremist exploitation of national grievances. Summary is incomplete; needs detail on how/where Al-Shabaab amplified this narrative.",
+    "_reviewed": "2026-10-27T15:10:34.583062+00:00"
   },
   {
     "id": "APF-2026-06-15-939",
     "date": "2026-06-15",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
     "threat_level": "P3 MODERATE",
-    "headline": "This letter is FAKE, fabricated by Team Deni and their bogus \"news\" outlet, Somali Digest. The claim that 170 soldiers",
-    "summary": "This letter is FAKE, fabricated by Team Deni and their bogus \"news\" outlet, Somali Digest. The claim that 170 soldiers left the PSF is also false, as they are using the old uniforms of former soldiers. Villa Garowe is clearly facing desperate times.",
+    "headline": "Account @RuqiaBotan Disputes Letter Attribution, Alleges PSF Soldier Defection Claim is Fabricated",
+    "summary": "An account (@RuqiaBotan) disputes a letter allegedly attributing 170 PSF soldiers' departure to Team Deni, claiming the letter and defection narrative are fabricated by Somali Digest. The counter-claim argues soldiers are merely changing uniforms, not defecting.",
     "actors": [
       "@RuqiaBotan"
     ],
@@ -38893,17 +39148,26 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "This letter is FAKE, fabricated by Team Deni and their bogus \"news\" outlet, Somali Digest. The claim that 170 soldiers",
+    "_original_summary": "This letter is FAKE, fabricated by Team Deni and their bogus \"news\" outlet, Somali Digest. The claim that 170 soldiers left the PSF is also false, as they are using the old uniforms of former soldiers. Villa Garowe is clearly facing desperate times.",
+    "extracted_claims": [
+      "Letter claiming 170 PSF soldiers left under Team Deni direction is fabricated by Somali Digest",
+      "170 soldiers allegedly left PSF but are actually just using old uniforms"
+    ],
+    "_review_notes": "This is a counter-claim about disinformation, not original disinformation. The event describes someone disputing a narrative, placing it in CONTEXT category. Threat level appropriate but classification should reflect this is dispute/debunking activity.",
+    "_reviewed": "2026-10-27T15:10:34.583067+00:00"
   },
   {
     "id": "APF-2026-06-15-286",
     "date": "2026-06-15",
     "country": "Regional",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "foreign_propaganda",
     "threat_level": "P3 MODERATE",
-    "headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
-    "summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "headline": "Account Challenges Fahad Yasin's 'Tell-All' Interview as Crafted Victimhood Narrative",
+    "summary": "An account (@foritssake) publishes critical analysis disputing Fahad Yasin's recent interview, arguing it presents a carefully constructed victimhood narrative rather than credible testimony. The critique focuses on narrative framing rather than specific factual claims.",
     "actors": [
       "@foritssake"
     ],
@@ -38965,7 +39229,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "_original_summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "extracted_claims": [
+      "Fahad Yasin's recent interview is a crafted victimhood narrative rather than credible accounting"
+    ],
+    "_review_notes": "This is analytical critique of a public figure's credibility, not original disinformation being spread. Belongs in CONTEXT as it reports about claims rather than spreading false content. Headline focuses on analytical opinion rather than substantive claims.",
+    "_reviewed": "2026-10-27T15:10:34.583072+00:00"
   },
   {
     "id": "APF-2026-06-16-242",
@@ -39043,7 +39315,12 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "extracted_claims": [
+      "Al-Shabaab exploited Somali referee Omar Abdulkadir Artan's US visa denial for propaganda campaign"
+    ],
+    "_review_notes": "Duplicate narrative to Event [1] with added evidence of coordinated amplification across 2 accounts with 3 near-identical posts. Coordination element elevates this to organized disinformation campaign rather than isolated claim. This should be merged with Event [1] as same campaign.",
+    "_reviewed": "2026-10-27T15:10:34.583075+00:00"
   },
   {
     "id": "APF-2026-06-16-342",
@@ -39712,9 +39989,9 @@
     "country": "Somalia",
     "event_type": "DISINFO",
     "disinfo_subtype": "deepfake",
-    "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
-    "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "threat_level": "P2 HIGH",
+    "headline": "Bots fabricate audio of Puntland Minister, doctor President's statement, spread false claims about roadblocks and port activity",
+    "summary": "Coordinated bot accounts attributed to @PuntJubNews are spreading multiple fabricated claims targeting Puntland leadership, including doctored audio of a Minister, falsified presidential statements, and false reports of military roadblocks and port activity. This represents a sustained disinformation campaign against state institutions over a 2-week period.",
     "actors": [
       "@PuntJubNews"
     ],
@@ -39776,17 +40053,27 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "_original_summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "extracted_claims": [
+      "Bots fabricated audio of a Puntland Minister",
+      "Puntland President's statement was doctored/falsified",
+      "Troops setting up roadblocks in Puntland",
+      "False claims about Port activity in Puntland"
+    ],
+    "_review_notes": "Sustained multi-vector disinformation campaign against Puntland state authority. Escalation from P3 to P2 warranted due to targeting of leadership credibility and institutional stability across audio, statements, and military operations.",
+    "_reviewed": "2026-10-27T15:10:53.284766+00:00"
   },
   {
     "id": "APF-2026-06-20-144",
     "date": "2026-06-20",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
-    "threat_level": "P3 MODERATE",
-    "headline": "🇦🇲 The incredible photo of a 106-year-old Armenian woman guarding her home with an AKM rifle, 1990. Born around 1884,",
-    "summary": "🇦🇲 The incredible photo of a 106-year-old Armenian woman guarding her home with an AKM rifle, 1990. Born around 1884, she survived the Armenian massacres of the 1890s and 1915 Genocide. In her final years, she defended her village during the war with.",
+    "threat_level": "P2 HIGH",
+    "headline": "Armenian conflict imagery shared as false South Sudan disinformation",
+    "summary": "@ShungaEmpire is repurposing historical Armenian conflict imagery (unrelated to East Africa) as part of South Sudan-focused disinformation narratives. This represents cross-regional manipulation of conflict imagery to amplify false claims about South Sudan.",
     "actors": [
       "@ShungaEmpire"
     ],
@@ -39855,17 +40142,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🇦🇲 The incredible photo of a 106-year-old Armenian woman guarding her home with an AKM rifle, 1990. Born around 1884,",
+    "_original_summary": "🇦🇲 The incredible photo of a 106-year-old Armenian woman guarding her home with an AKM rifle, 1990. Born around 1884, she survived the Armenian massacres of the 1890s and 1915 Genocide. In her final years, she defended her village during the war with.",
+    "extracted_claims": [
+      "False repurposing of Armenian historical conflict imagery for South Sudan narratives"
+    ],
+    "_review_notes": "This event appears to be OUT-OF-SCOPE Armenian conflict content being misused for South Sudan disinformation. Suggests @ShungaEmpire employs sophisticated cross-regional imagery manipulation. Classification should shift to CONTEXT (detection of disinformation technique) rather than direct DISINFO content.",
+    "_reviewed": "2026-10-27T15:10:53.284792+00:00"
   },
   {
     "id": "APF-2026-06-21-160",
     "date": "2026-06-21",
     "country": "Regional",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "foreign_propaganda",
     "threat_level": "P3 MODERATE",
-    "headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
-    "summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "headline": "Social media analysis of Fahad Yasin interview framed as propaganda narrative",
+    "summary": "@foritssake is distributing critical analysis of Fahad Yasin's recent interview, characterizing it as a carefully constructed narrative rather than authentic disclosure. This represents interpretive/opinion-based framing rather than demonstrable disinformation claims.",
     "actors": [
       "@foritssake"
     ],
@@ -39927,7 +40222,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "_original_summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "extracted_claims": [
+      "Fahad Yasin's interview is a carefully crafted victimhood narrative"
+    ],
+    "_review_notes": "Event lacks specific false claims — this is opinion/analysis content rather than demonstrable disinformation. Recommend reclassifying as CONTEXT if shared alongside reporting about disinformation campaigns, or deprioritize if it's standalone opinion.",
+    "_reviewed": "2026-10-27T15:10:53.284797+00:00"
   },
   {
     "id": "APF-2026-06-22-411",
@@ -39935,9 +40238,9 @@
     "country": "Kenya",
     "event_type": "DISINFO",
     "disinfo_subtype": "coordinated_campaign",
-    "threat_level": "P3 MODERATE",
-    "headline": "His Masters will do everything to prevent that. Otherwise their names be on t/list Obama was Starmer formal tutor when",
-    "summary": "His Masters will do everything to prevent that. Otherwise their names be on t/list Obama was Starmer formal tutor when he was working at Cameron’s office Soros funded his candidates,get them elected who then laundered t/taxpayers$ through t/Soros NGO. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "threat_level": "P2 HIGH",
+    "headline": "Claims Obama tutored Starmer, Soros funds UK elections through NGO money laundering",
+    "summary": "@Deveney_Dr is spreading a coordinated false narrative combining claims that Obama was Keir Starmer's formal tutor, Soros funds and controls UK political candidates, and that taxpayer money is laundered through Soros-linked NGOs. This represents importation of global conspiracy theories into Kenya-monitored accounts.",
     "actors": [
       "@Deveney_Dr"
     ],
@@ -39992,17 +40295,26 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "His Masters will do everything to prevent that. Otherwise their names be on t/list Obama was Starmer formal tutor when",
+    "_original_summary": "His Masters will do everything to prevent that. Otherwise their names be on t/list Obama was Starmer formal tutor when he was working at Cameron’s office Soros funded his candidates,get them elected who then laundered t/taxpayers$ through t/Soros NGO. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Obama was Keir Starmer's formal tutor at Cameron's office",
+      "Soros funds political candidates to win elections",
+      "Taxpayer money laundered through Soros NGOs"
+    ],
+    "_review_notes": "Global conspiracy theories (Obama-Starmer, Soros control) are being injected into Kenya-monitored disinformation space. Threat escalated to P2 due to coordination across multiple posts and potential amplification in local conspiracy networks. This represents imported disinformation infrastructure.",
+    "_reviewed": "2026-10-27T15:10:53.284800+00:00"
   },
   {
     "id": "APF-2026-06-22-950",
     "date": "2026-06-22",
     "country": "Regional",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "foreign_propaganda",
     "threat_level": "P3 MODERATE",
-    "headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
-    "summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "headline": "Analysis of Fahad Yasin interview narrative framed as propaganda",
+    "summary": "@foritssake is distributing interpretive analysis claiming Fahad Yasin's interview represents a constructed victimhood narrative rather than authentic disclosure. This is opinion-based framing rather than a specific false claim.",
     "actors": [
       "@foritssake"
     ],
@@ -40064,7 +40376,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "_original_summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "extracted_claims": [
+      "Fahad Yasin's interview is a carefully crafted victimhood narrative lacking credibility"
+    ],
+    "_review_notes": "Duplicate of event [2]. This is opinion/analytical content rather than demonstrable false claims. Should be consolidated with event [2] and reclassified as CONTEXT or deprioritized.",
+    "_reviewed": "2026-10-27T15:10:53.284803+00:00"
   },
   {
     "id": "APF-2026-06-24-922",
@@ -40232,11 +40552,11 @@
     "id": "APF-2026-06-25-622",
     "date": "2026-06-25",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Analysis: Turkish Commentator Umut Çağrı Sarı Accused of Spreading ISIS-Aligned Propaganda on Puntland",
+    "summary": "@CirkaNews published an analysis alleging that Turkish geopolitical analyst Umut Çağrı Sarı and Manjaniq Media are amplifying narratives that parallel ISIS propaganda regarding Puntland's counterterrorism operations. The post frames this as coordinated messaging rather than presenting original false claims.",
     "actors": [
       "@CirkaNews"
     ],
@@ -40303,7 +40623,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda narratives",
+      "Turkish commentator Umut Çağrı Sarı pushes narratives portraying Puntland's counterterror efforts negatively"
+    ],
+    "_review_notes": "This is a media analysis/accusation rather than the disinformation itself. The threat level should be reduced as it is commentary on alleged disinfo actors, not original false claims being spread. Duplicated in entry [4].",
+    "_reviewed": "2026-10-27T15:11:14.245729+00:00"
   },
   {
     "id": "APF-2026-06-25-457",
@@ -40312,8 +40641,8 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
-    "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "headline": "Bot Network Spreads Fabricated Audio of Puntland Minister and Doctored Presidential Statement",
+    "summary": "An organized bot network operating via @PuntJubNews has disseminated multiple fabricated claims over two weeks, including fake audio of a Puntland government minister, doctored statements falsely attributed to Puntland's President, false reports of troop roadblocks, and false claims about port activities. This represents coordinated disinformation targeting Puntland's political and security credibility.",
     "actors": [
       "@PuntJubNews"
     ],
@@ -40375,7 +40704,17 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "_original_summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "extracted_claims": [
+      "Fabricated audio recordings of a Puntland Minister exist and are being spread",
+      "Doctored statements falsely attributed to Puntland's President are circulating",
+      "Troops are setting up roadblocks in Puntland (false claim)",
+      "False claims about port activities in Puntland"
+    ],
+    "_review_notes": "Coordinated bot-driven campaign targeting Puntland's political legitimacy through audio/statement fabrication. This is clearly original disinformation content being spread, properly classified as DISINFO. Duplicated with entry [2].",
+    "_reviewed": "2026-10-27T15:11:14.245749+00:00"
   },
   {
     "id": "APF-2026-06-26-951",
@@ -40384,8 +40723,8 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
-    "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "headline": "Bot Network Spreads Fabricated Audio of Puntland Minister and Doctored Presidential Statement",
+    "summary": "An organized bot network operating via @PuntJubNews has disseminated multiple fabricated claims over two weeks, including fake audio of a Puntland government minister, doctored statements falsely attributed to Puntland's President, false reports of troop roadblocks, and false claims about port activities. This represents coordinated disinformation targeting Puntland's political and security credibility.",
     "actors": [
       "@PuntJubNews"
     ],
@@ -40447,17 +40786,27 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "_original_summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "extracted_claims": [
+      "Fabricated audio recordings of a Puntland Minister exist and are being spread",
+      "Doctored statements falsely attributed to Puntland's President are circulating",
+      "Troops are setting up roadblocks in Puntland (false claim)",
+      "False claims about port activities in Puntland"
+    ],
+    "_review_notes": "Exact duplicate of entry [1]. Remove from pipeline to avoid redundant monitoring. Both entries cover identical coordinated disinformation campaign.",
+    "_reviewed": "2026-10-27T15:11:14.245752+00:00"
   },
   {
     "id": "APF-2026-06-26-147",
     "date": "2026-06-26",
     "country": "Regional",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "foreign_propaganda",
-    "threat_level": "P3 MODERATE",
-    "headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
-    "summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "threat_level": "P2 HIGH",
+    "headline": "Analysis: Fahad Yasin's Tell-All Interview Characterized as Narrative of Victimhood Rather Than Credible Accountability",
+    "summary": "@foritssake published a critical analysis of Fahad Yasin's recent interview, arguing that his narrative constitutes a carefully constructed victimhood framing rather than genuine accountability or truth-telling. The analysis suggests the interview itself may be a coordinated narrative strategy.",
     "actors": [
       "@foritssake"
     ],
@@ -40519,17 +40868,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "_original_summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "extracted_claims": [
+      "Fahad Yasin's tell-all interview is a carefully crafted narrative of victimhood, not credible accountability"
+    ],
+    "_review_notes": "This is critical analysis of a public figure's statements, not original disinformation. The classification should be CONTEXT (report/analysis about narratives) rather than DISINFO. Threat should be elevated to P2 due to involvement of high-ranking Somali security official.",
+    "_reviewed": "2026-10-27T15:11:14.245757+00:00"
   },
   {
     "id": "APF-2026-06-27-091",
     "date": "2026-06-27",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Analysis: Turkish Commentator Umut Çağrı Sarı Accused of Spreading ISIS-Aligned Propaganda on Puntland",
+    "summary": "@CirkaNews published an analysis alleging that Turkish geopolitical analyst Umut Çağrı Sarı and Manjaniq Media are amplifying narratives that parallel ISIS propaganda regarding Puntland's counterterrorism operations. The post frames this as coordinated messaging rather than presenting original false claims.",
     "actors": [
       "@CirkaNews"
     ],
@@ -40596,17 +40953,26 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda narratives",
+      "Turkish commentator Umut Çağrı Sarı pushes narratives portraying Puntland's counterterror efforts negatively"
+    ],
+    "_review_notes": "Exact duplicate of entry [0]. This is analysis/accusation about disinfo actors (CONTEXT), not original disinformation (DISINFO). Remove redundant entry from pipeline.",
+    "_reviewed": "2026-10-27T15:11:14.245762+00:00"
   },
   {
     "id": "APF-2026-06-27-408",
     "date": "2026-06-27",
     "country": "Regional",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "foreign_propaganda",
     "threat_level": "P3 MODERATE",
-    "headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
-    "summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "headline": "Analysis of Fahad Yasin Interview Claims Circulating on Social Media",
+    "summary": "Social media users are analyzing and critiquing claims made by Fahad Yasin in a recent interview, with @foritssake characterizing the narrative as carefully constructed victimhood rather than credible testimony. This represents discussion ABOUT claims rather than direct spreading of false claims.",
     "actors": [
       "@foritssake"
     ],
@@ -40668,7 +41034,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "_original_summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "extracted_claims": [
+      "Fahad Yasin's interview represents a credible 'tell-all' account"
+    ],
+    "_review_notes": "This is media criticism/analysis of claims, not the spreading of false claims themselves. Classified as CONTEXT rather than DISINFO. The headline describes detection mechanics rather than the substance of contested claims.",
+    "_reviewed": "2026-10-27T15:11:36.678441+00:00"
   },
   {
     "id": "APF-2026-06-28-955",
@@ -40677,8 +41051,8 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
-    "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "headline": "Coordinated Bot Campaign Spreads False Claims About Puntland Minister Audio, Presidential Statement, and Port Activities",
+    "summary": "Coordinated bot networks are amplifying multiple false claims about Puntland, including fabricated audio of a government minister, doctored statements from Puntland's President, false reports of military roadblocks, and lies about port activities. @PuntJubNews is reporting on this disinformation campaign spanning recent weeks.",
     "actors": [
       "@PuntJubNews"
     ],
@@ -40740,17 +41114,27 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "_original_summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "extracted_claims": [
+      "Fabricated audio recordings of a Puntland government Minister exist and are being spread",
+      "Puntland President's official statements have been doctored and misrepresented",
+      "Puntland troops are setting up illegal roadblocks across the region",
+      "False claims about port activities in Puntland"
+    ],
+    "_review_notes": "This event accurately describes active disinformation spreading, but the headline emphasizes detection mechanics ('bots have fabricated') rather than the false claims themselves. Headline should forefront the actual false narratives being promoted.",
+    "_reviewed": "2026-10-27T15:11:36.678461+00:00"
   },
   {
     "id": "APF-2026-06-28-282",
     "date": "2026-06-28",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
     "threat_level": "P3 MODERATE",
-    "headline": "Bitch shut the fuck up with the genocide lie lol you dumb dumbs can’t even articulate a genocide 🤣🤣🤣🤣🤣🤣🤣 Israel didn’t",
-    "summary": "Bitch shut the fuck up with the genocide lie lol you dumb dumbs can’t even articulate a genocide 🤣🤣🤣🤣🤣🤣🤣 Israel didn’t attack Hamas on October 7th. But bc they defended themselves, they are committing genocide 🤣🤣🤣🤣🤣 LAUGHABLE!.",
+    "headline": "Social Media User Contests Gaza Genocide Characterization, Disputes October 7th Framing",
+    "summary": "@DimmieG1983 is spreading dismissive claims about genocide allegations related to Gaza, arguing that military self-defense does not constitute genocide and mocking those making genocide claims. This is off-topic to East Africa regional monitoring; the post concerns Israeli-Palestinian conflict, not East African disinformation.",
     "actors": [
       "@DimmieG1983"
     ],
@@ -40819,17 +41203,26 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Bitch shut the fuck up with the genocide lie lol you dumb dumbs can’t even articulate a genocide 🤣🤣🤣🤣🤣🤣🤣 Israel didn’t",
+    "_original_summary": "Bitch shut the fuck up with the genocide lie lol you dumb dumbs can’t even articulate a genocide 🤣🤣🤣🤣🤣🤣🤣 Israel didn’t attack Hamas on October 7th. But bc they defended themselves, they are committing genocide 🤣🤣🤣🤣🤣 LAUGHABLE!.",
+    "extracted_claims": [
+      "Israel's military actions in Gaza do not constitute genocide but rather legitimate self-defense",
+      "Those claiming genocide regarding Gaza cannot properly articulate the definition of genocide"
+    ],
+    "_review_notes": "This event is geographically and thematically out of scope—it concerns Israeli-Palestinian conflict narratives, not East African disinformation. Should not be flagged for IRIS East Africa monitoring. Misclassified country assignment.",
+    "_reviewed": "2026-10-27T15:11:36.678466+00:00"
   },
   {
     "id": "APF-2026-06-29-327",
     "date": "2026-06-29",
     "country": "Somalia",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "What Is Zina? Zina, in Arabic, means immorality, and is used with two meanings in Shari`ah: a general meaning and a",
-    "summary": "What Is Zina? Zina, in Arabic, means immorality, and is used with two meanings in Shari`ah: a general meaning and a specific meaning. The general meaning includes that which carries the punishment (hadd) and that which does not carry it. Islam does n.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Islamic Educational Content on Zina Being Shared on Social Media",
+    "summary": "@halal_pair is sharing Islamic educational content defining and explaining the concept of Zina (immorality) under Islamic jurisprudence. This is religious educational material, not disinformation, though it may be flagged due to narrative keyword matching rather than actual false claim content.",
     "actors": [
       "@halal_pair"
     ],
@@ -40896,7 +41289,12 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "What Is Zina? Zina, in Arabic, means immorality, and is used with two meanings in Shari`ah: a general meaning and a",
+    "_original_summary": "What Is Zina? Zina, in Arabic, means immorality, and is used with two meanings in Shari`ah: a general meaning and a specific meaning. The general meaning includes that which carries the punishment (hadd) and that which does not carry it. Islam does n.",
+    "_review_notes": "This is Islamic religious/educational content, not disinformation. Misclassified as DISINFO; should be filtered out or reclassified as CONTEXT (educational material). The presence of Islamic terminology triggered false positive matching against narrative codes (NAR-SO-007), but no false claims are present.",
+    "_reviewed": "2026-10-27T15:11:36.678469+00:00"
   },
   {
     "id": "APF-2026-06-29-844",
@@ -40904,9 +41302,9 @@
     "country": "Kenya",
     "event_type": "DISINFO",
     "disinfo_subtype": "misinformation",
-    "threat_level": "P2 HIGH",
-    "headline": "President Ruto’s Government is not just promising, it is transforming urban mobility across Kenya at an unprecedented",
-    "summary": "President Ruto’s Government is not just promising, it is transforming urban mobility across Kenya at an unprecedented pace.  Ngong Rd Flyover Spintex Ezekiel Mr speaker sir YUSUF OMAR Kenyatta National Hospital SOUTH AFRICA BBS MALL MACHAKOS Nyaga MP. 8 near-identical posts from 8 accounts suggest coordinated amplification.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Coordinated Inauthentic Behavior Amplifies Government Praise for Kenya Infrastructure Development",
+    "summary": "Eight coordinated accounts (@britflowz, @AtticRealtors, @Itsheatherke, @stewiiih, @AmiirKadar and others) are amplifying near-identical posts praising President Ruto's government for urban mobility transformation, including infrastructure projects. The coordinated amplification pattern suggests inauthentic engagement manipulation rather than organic political support.",
     "actors": [
       "@britflowz",
       "@AtticRealtors",
@@ -40981,7 +41379,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "President Ruto’s Government is not just promising, it is transforming urban mobility across Kenya at an unprecedented",
+    "_original_summary": "President Ruto’s Government is not just promising, it is transforming urban mobility across Kenya at an unprecedented pace.  Ngong Rd Flyover Spintex Ezekiel Mr speaker sir YUSUF OMAR Kenyatta National Hospital SOUTH AFRICA BBS MALL MACHAKOS Nyaga MP. 8 near-identical posts from 8 accounts suggest coordinated amplification.",
+    "extracted_claims": [
+      "President Ruto's government is transforming urban mobility across Kenya at an unprecedented pace",
+      "Specific infrastructure projects (Ngong Rd Flyover, Spintex road, KNH improvements) represent major government achievements"
+    ],
+    "_review_notes": "Event correctly identifies coordinated inauthentic behavior, but misrepresents threat level. Coordinated engagement manipulation is P3 MODERATE, not P2 HIGH. The false claims are about government performance rather than imminent security threats. Headline focuses on detection mechanics rather than the amplified narrative itself.",
+    "_reviewed": "2026-10-27T15:11:36.678473+00:00"
   },
   {
     "id": "APF-2026-06-29-613",
@@ -41067,11 +41473,11 @@
     "id": "APF-2026-06-30-002",
     "date": "2026-06-30",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
-    "threat_level": "P2 HIGH",
-    "headline": "Counties across Kenya are competing for investment. How can Machakos stand out? Masaku Capital City, Eric Muli, and BBS",
-    "summary": "Counties across Kenya are competing for investment. How can Machakos stand out? Masaku Capital City, Eric Muli, and BBS Mall remain talking points. Observed across 2 posts from 2 accounts on X (Twitter).",
+    "threat_level": "P3 MODERATE",
+    "headline": "Eric Muli's Masaku Capital City project promoted across Kenya social media accounts",
+    "summary": "Multiple X accounts are promoting Eric Muli's Masaku Capital City development project in Machakos, framing it as a transformative investment opportunity. The posts lack specific false claims and appear to be promotional content rather than disinformation.",
     "actors": [
       "@stewiiih",
       "@kamilar_h"
@@ -41140,7 +41546,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Counties across Kenya are competing for investment. How can Machakos stand out? Masaku Capital City, Eric Muli, and BBS",
+    "_original_summary": "Counties across Kenya are competing for investment. How can Machakos stand out? Masaku Capital City, Eric Muli, and BBS Mall remain talking points. Observed across 2 posts from 2 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Masaku Capital City is a major investment development project in Machakos competing for investor attention"
+    ],
+    "_review_notes": "This event lacks identifiable false claims—it appears to be promotional content or investment marketing rather than disinformation. Reclassify as CONTEXT unless specific fabrications (unverifiable claims about project scope, funding, or Eric Muli's status) can be confirmed.",
+    "_reviewed": "2026-10-27T15:11:59.057970+00:00"
   },
   {
     "id": "APF-2026-06-30-590",
@@ -41150,7 +41564,7 @@
     "disinfo_subtype": "misinformation",
     "threat_level": "P2 HIGH",
     "headline": "Imagine an NBA basketball arena and a 3D cinema right inside a Sh5.6B mall in Machakos! Billionaire Eric Muli is making",
-    "summary": "Imagine an NBA basketball arena and a 3D cinema right inside a Sh5.6B mall in Machakos! Billionaire Eric Muli is making it happen, building a space larger than the famous BBS mall. Masaku Capital City is setting a brand new standard for infrastructur. Observed across 2 posts from 2 accounts on X (Twitter).",
+    "summary": "Social media accounts are spreading inflated claims about Eric Muli's Masaku Capital City project in Machakos, falsely asserting it will contain an NBA-scale basketball arena and 3D cinema, and claiming it will exceed the size of BBS Mall. These unverified claims are being amplified across X without substantiation.",
     "actors": [
       "@MissAyla01",
       "@IamBart_"
@@ -41219,17 +41633,24 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_summary": "Imagine an NBA basketball arena and a 3D cinema right inside a Sh5.6B mall in Machakos! Billionaire Eric Muli is making it happen, building a space larger than the famous BBS mall. Masaku Capital City is setting a brand new standard for infrastructur. Observed across 2 posts from 2 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Masaku Capital City will contain an NBA basketball arena and 3D cinema",
+      "Masaku Capital City is a Sh5.6B mall larger than the BBS mall"
+    ],
+    "_review_notes": "High-confidence disinformation: claims about NBA-scale facilities and project cost lack verifiable sources. The amplification across multiple accounts suggests coordinated promotion of potentially fabricated project details.",
+    "_reviewed": "2026-10-27T15:11:59.057989+00:00"
   },
   {
     "id": "APF-2026-06-30-541",
     "date": "2026-06-30",
     "country": "Regional",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "foreign_propaganda",
     "threat_level": "P3 MODERATE",
-    "headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
-    "summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "headline": "Analysis of Fahad Yasin interview circulating on social media",
+    "summary": "Commentary on a Fahad Yasin interview is circulating on X, with analysts critiquing its narrative framing. The post does not itself constitute disinformation but rather commentary on political messaging.",
     "actors": [
       "@foritssake"
     ],
@@ -41291,17 +41712,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "_original_summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "extracted_claims": [
+      "Fahad Yasin's interview presents a carefully crafted victimhood narrative rather than credible testimony"
+    ],
+    "_review_notes": "This is commentary/analysis about a political figure's interview, not disinformation itself. Reclassify as CONTEXT unless the post contains specific false claims being spread by @foritssake.",
+    "_reviewed": "2026-10-27T15:11:59.057994+00:00"
   },
   {
     "id": "APF-2026-07-01-842",
     "date": "2026-07-01",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
     "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "headline": "Analysis of Turkish analyst narratives on Puntland counterterrorism",
+    "summary": "An X account is analyzing geopolitical narratives from Turkish commentator Umut Çağrı Sarı regarding Puntland's counterterrorism efforts, alleging similarities to ISIS propaganda framing. This is analysis/critique of narratives rather than amplification of false claims.",
     "actors": [
       "@CirkaNews"
     ],
@@ -41368,7 +41797,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda in their portrayal of Puntland's counterterrorism"
+    ],
+    "_review_notes": "Event describes analysis/debunking of alleged propaganda rather than amplification of false claims. Reclassify as CONTEXT. However, if @CirkaNews is amplifying false claims about Puntland operations itself, those should be extracted separately.",
+    "_reviewed": "2026-10-27T15:11:59.057999+00:00"
   },
   {
     "id": "APF-2026-07-01-420",
@@ -41377,7 +41814,7 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "headline": "Fabricated audio, doctored statements, and false claims about Puntland military operations spread across social media",
     "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
     "actors": [
       "@PuntJubNews"
@@ -41440,7 +41877,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "extracted_claims": [
+      "Fabricated audio of a Puntland Minister circulated on social media",
+      "Doctored statement from Puntland's President spread on social media",
+      "False claims about Puntland military troops setting up roadblocks",
+      "False claims spread about port operations in Somalia"
+    ],
+    "_review_notes": "High-confidence coordinated disinformation campaign targeting Puntland leadership using synthetic media (fabricated audio, doctored statements) and false operational claims. Suggests sophisticated bot network or coordinated campaign.",
+    "_reviewed": "2026-10-27T15:11:59.058002+00:00"
   },
   {
     "id": "APF-2026-07-02-902",
@@ -42095,8 +42541,8 @@
     "country": "Somalia",
     "event_type": "DISINFO",
     "disinfo_subtype": "coordinated_campaign",
-    "threat_level": "P3 MODERATE",
-    "headline": "Obama-Bidens USAID and Soros bankrolls extremist NGOs that fuel riots, destabilize governments, and erode national",
+    "threat_level": "P2 HIGH",
+    "headline": "USAID and Soros fund extremist NGOs to destabilize governments and incite riots",
     "summary": "Obama-Bidens USAID and Soros bankrolls extremist NGOs that fuel riots, destabilize governments, and erode national identities.Soros funds rogue prosecutors in the U.S. who let criminals walk free while punishing law-abiding citizens. The left hates T. Observed across 2 posts from 1 accounts on X (Twitter).",
     "actors": [
       "@AmitofuNFSC"
@@ -42154,17 +42600,24 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "Obama-Bidens USAID and Soros bankrolls extremist NGOs that fuel riots, destabilize governments, and erode national",
+    "extracted_claims": [
+      "Obama-Biden USAID and George Soros bankroll extremist NGOs that fuel riots and destabilize governments",
+      "Soros funds rogue prosecutors who release criminals while punishing law-abiding citizens"
+    ],
+    "_review_notes": "Classic coordinated disinformation linking foreign actors (Obama, Biden, Soros) to destabilization—high-risk narrative that can fuel anti-Western and anti-NGO sentiment in fragile states. P2 threat level warranted given amplification strategy.",
+    "_reviewed": "2026-10-27T15:12:22.714454+00:00"
   },
   {
     "id": "APF-2026-07-08-339",
     "date": "2026-07-08",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "coordinated_campaign",
     "threat_level": "P3 MODERATE",
-    "headline": "🙏 LASCIATE IN PACE I BAMBINI 🙏 #PRIDE #LGBTQI #PD #SOROS #PARTITODEMOCRATICO #CGIL #ANPI #ADOZIONIGAY",
-    "summary": "🙏 LASCIATE IN PACE I BAMBINI 🙏 #PRIDE #LGBTQI #PD #SOROS #PARTITODEMOCRATICO #CGIL #ANPI #ADOZIONIGAY #MATERNITÀSURROGATA #FAMIGLIEARCOBALENO. 7 near-identical posts from 1 accounts suggest coordinated amplification.",
+    "headline": "Italian-language coordinated posts conflate LGBTQI rights, Soros, and Democratic Party in amplification campaign",
+    "summary": "Seven near-identical posts in Italian from account @Eric57017912 use LGBTQI and Soros hashtags in apparent coordinated amplification. The content appears designed to conflate progressive movements with Soros-driven agendas, employing hashtags (Soros, Democratic Party, gay adoption, surrogacy) to spread disinformation about Western influence on sexual and family issues.",
     "actors": [
       "@Eric57017912"
     ],
@@ -42219,7 +42672,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🙏 LASCIATE IN PACE I BAMBINI 🙏 #PRIDE #LGBTQI #PD #SOROS #PARTITODEMOCRATICO #CGIL #ANPI #ADOZIONIGAY",
+    "_original_summary": "🙏 LASCIATE IN PACE I BAMBINI 🙏 #PRIDE #LGBTQI #PD #SOROS #PARTITODEMOCRATICO #CGIL #ANPI #ADOZIONIGAY #MATERNITÀSURROGATA #FAMIGLIEARCOBALENO. 7 near-identical posts from 1 accounts suggest coordinated amplification.",
+    "extracted_claims": [
+      "George Soros funds or coordinates LGBTQI advocacy organizations and progressive political movements"
+    ],
+    "_review_notes": "This is a coordinated amplification campaign (7 posts, 1 account) spreading Soros-LGBTQI conspiracy. Language is Italian, suggesting potential cross-regional disinformation network. Should be reclassified as CONTEXT (coordinated bot activity detected) but extracted claims are actionable.",
+    "_reviewed": "2026-10-27T15:12:22.714480+00:00"
   },
   {
     "id": "APF-2026-07-08-423",
@@ -42227,7 +42688,7 @@
     "country": "Somalia",
     "event_type": "DISINFO",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
+    "threat_level": "P3 MODERATE",
     "headline": "Macron est allé à Damas soutenir un chef islamiste Rappel : Pendant plus de cinquante ans, la Syrie sous Hafez puis",
     "summary": "Macron est allé à Damas soutenir un chef islamiste Rappel : Pendant plus de cinquante ans, la Syrie sous Hafez puis Bachar el-Assad a été un pilier de la résistance contre Israël et sa volonté expansionniste. C’était un régime nationaliste, socialist. Observed across 2 posts from 2 accounts on X (Twitter).",
     "actors": [
@@ -42297,17 +42758,23 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "extracted_claims": [
+      "French President Macron traveled to Damascus to support an Islamist leader",
+      "Syria under Assad was a nationalist socialist regime that resisted Israeli expansionism"
+    ],
+    "_review_notes": "French-language disinformation conflating Macron's diplomatic actions with support for Islamists; appears designed to undermine Western credibility in Middle East policy. P2 HIGH rating is inconsistent with MODERATE content severity—downgrade to P3 is appropriate unless correlated amplification detected.",
+    "_reviewed": "2026-10-27T15:12:22.714484+00:00"
   },
   {
     "id": "APF-2026-07-08-074",
     "date": "2026-07-08",
     "country": "Somalia",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
-    "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "headline": "Puntland authority reports coordinated disinformation campaign: fabricated audio, doctored statements, false military claims",
+    "summary": "@PuntJubNews reports a coordinated disinformation campaign over two weeks fabricating audio of a Minister, doctoring statements from Puntland's President, spreading false claims about troop roadblocks, and making false statements about ports. This is a reactive report documenting detected disinformation attacks.",
     "actors": [
       "@PuntJubNews"
     ],
@@ -42369,17 +42836,28 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "_original_summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "extracted_claims": [
+      "Bots fabricated audio recordings of a Puntland Minister",
+      "False statements were doctored from Puntland President's public communications",
+      "False claims about Puntland troops setting up roadblocks",
+      "False statements spread about ports in Somalia"
+    ],
+    "_review_notes": "This is a CONTEXT event—an authority reporting detected disinformation attacks, not the disinformation itself. Reclassify appropriately. However, it documents a sophisticated coordinated campaign using deepfakes and doctored content targeting Puntland officials.",
+    "_reviewed": "2026-10-27T15:12:22.714489+00:00"
   },
   {
     "id": "APF-2026-07-09-986",
     "date": "2026-07-09",
     "country": "Somalia",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
-    "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "headline": "Puntland authority reports coordinated disinformation campaign: fabricated audio, doctored statements, false military claims",
+    "summary": "@PuntJubNews reports a coordinated disinformation campaign over two weeks fabricating audio of a Minister, doctoring statements from Puntland's President, spreading false claims about troop roadblocks, and making false statements about ports. This is a reactive report documenting detected disinformation attacks.",
     "actors": [
       "@PuntJubNews"
     ],
@@ -42441,7 +42919,18 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "_original_summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "extracted_claims": [
+      "Bots fabricated audio recordings of a Puntland Minister",
+      "False statements were doctored from Puntland President's public communications",
+      "False claims about Puntland troops setting up roadblocks",
+      "False statements spread about ports in Somalia"
+    ],
+    "_review_notes": "Duplicate of event [3]. Both are CONTEXT reports by @PuntJubNews documenting bot-driven disinformation attacks. Consolidate in operational workflow; indicates sustained campaign against Puntland authorities using synthetic media.",
+    "_reviewed": "2026-10-27T15:12:22.714493+00:00"
   },
   {
     "id": "APF-2026-07-09-036",
@@ -42779,11 +43268,11 @@
     "id": "APF-2026-07-13-901",
     "date": "2026-07-13",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "threat_level": "P3 MODERATE",
+    "headline": "Analysis Claims Turkish Geopolitical Commentator Umut Çağrı Sarı Echoes ISIS Propaganda",
+    "summary": "A post from @CirkaNews analyzes Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media, claiming their narratives about Puntland counterterrorism mirror ISIS propaganda. The post itself is a meta-level critique/analysis rather than direct disinformation spread.",
     "actors": [
       "@CirkaNews"
     ],
@@ -42850,17 +43339,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Turkish geopolitical commentators are echoing ISIS propaganda in their analysis of Puntland counterterrorism"
+    ],
+    "_review_notes": "This is a critical/analytical post ABOUT disinformation, not disinformation itself. It should be reclassified as CONTEXT. Threat level should be reduced as the post is performing fact-checking rather than spreading false claims.",
+    "_reviewed": "2026-10-27T15:12:40.182874+00:00"
   },
   {
     "id": "APF-2026-07-13-959",
     "date": "2026-07-13",
     "country": "Regional",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "foreign_propaganda",
     "threat_level": "P3 MODERATE",
-    "headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
-    "summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "headline": "Analysis Claims Fahad Yasin's Recent Interview Presents Fabricated Victimhood Narrative",
+    "summary": "@foritssake analyzes Fahad Yasin's recent interview, claiming it presents a carefully constructed narrative of victimhood rather than credible account. The post critiques the interview as potentially misleading rather than spreading original disinformation.",
     "actors": [
       "@foritssake"
     ],
@@ -42922,17 +43419,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "_original_summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
+    "extracted_claims": [
+      "Fahad Yasin's recent 'tell-all' interview is a carefully crafted victimhood narrative lacking credibility"
+    ],
+    "_review_notes": "This is analysis/critique of a public figure's statements, not original disinformation. Should be reclassified as CONTEXT—the post is fact-checking/debunking, not spreading false claims.",
+    "_reviewed": "2026-10-27T15:12:40.182894+00:00"
   },
   {
     "id": "APF-2026-07-14-756",
     "date": "2026-07-14",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "threat_level": "P3 MODERATE",
+    "headline": "Analysis Claims Turkish Geopolitical Commentator Umut Çağrı Sarı Echoes ISIS Propaganda",
+    "summary": "A post from @CirkaNews analyzes Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media, claiming their narratives about Puntland counterterrorism mirror ISIS propaganda. The post itself is a meta-level critique/analysis rather than direct disinformation spread.",
     "actors": [
       "@CirkaNews"
     ],
@@ -42999,7 +43504,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Turkish geopolitical commentators are echoing ISIS propaganda in their analysis of Puntland counterterrorism"
+    ],
+    "_review_notes": "Duplicate of Event [0]. This is critical/analytical content ABOUT disinformation, not disinformation itself. Should be reclassified as CONTEXT with P3 MODERATE threat level.",
+    "_reviewed": "2026-10-27T15:12:40.182899+00:00"
   },
   {
     "id": "APF-2026-07-14-417",
@@ -43076,7 +43589,13 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "extracted_claims": [
+      "A letter circulating online claiming 170 PSF soldiers left is fabricated by Team Deni and Somali Digest news outlet",
+      "Soldiers wearing old uniforms of former soldiers are being falsely presented as deserters"
+    ],
+    "_review_notes": "Direct claim of disinformation (fabricated letter, false desertion claims). DISINFO classification is correct. This is reporting on actual false claims being spread.",
+    "_reviewed": "2026-10-27T15:12:40.182903+00:00"
   },
   {
     "id": "APF-2026-07-15-267",
@@ -43084,7 +43603,7 @@
     "country": "Somalia",
     "event_type": "DISINFO",
     "disinfo_subtype": "deepfake",
-    "threat_level": "P3 MODERATE",
+    "threat_level": "P2 HIGH",
     "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
     "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
     "actors": [
@@ -43148,7 +43667,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "extracted_claims": [
+      "Fabricated audio of a Puntland Minister has been circulated by bot networks",
+      "Doctored statement from Puntland's President has been spread online",
+      "False claims about troops setting up roadblocks in Puntland",
+      "Lies about port activity in Puntland"
+    ],
+    "_review_notes": "Multi-vector disinformation campaign combining synthetic media (audio), document manipulation, and false claims about security/infrastructure. Threat level should be P2 HIGH due to sophistication and targeting of government officials.",
+    "_reviewed": "2026-10-27T15:12:40.182906+00:00"
   },
   {
     "id": "APF-2026-07-15-135",
@@ -44664,7 +45191,7 @@
     "detected_by": "iris_classify_2026-07-29",
     "detection_timestamp": "2026-07-29T11:18:16.529600+00:00",
     "last_seen": "2026-07-29",
-    "status": "dormant",
+    "status": "resolved",
     "observations": [
       {
         "date": "2026-07-29",
@@ -46126,11 +46653,11 @@
     "id": "APF-2026-08-11-786",
     "date": "2026-08-11",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Analysis: Turkish Geopolitical Commentator Umut Çağrı Sarı Spreading Narratives on Puntland Counter-Terrorism",
+    "summary": "A report analyzes narratives by Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media regarding Puntland counter-terrorism operations. The analysis examines whether pro-Turkish commentary mirrors extremist propaganda frameworks, indicating potential coordinated disinformation about regional security efforts.",
     "actors": [
       "@CirkaNews"
     ],
@@ -46197,7 +46724,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda narratives",
+      "Puntland counter-terrorism operations are mischaracterized by foreign commentators"
+    ],
+    "_review_notes": "This is a report ABOUT disinformation (foreign analysts spreading false narratives) rather than the disinformation itself. Reclassified as CONTEXT. Threat level should be downgraded as this represents analytical reporting, not active high-impact false claims.",
+    "_reviewed": "2026-10-27T15:13:01.224120+00:00"
   },
   {
     "id": "APF-2026-08-11-057",
@@ -46206,7 +46742,7 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "headline": "Coordinated Bot Campaign Spreads Fabricated Audio, Doctored Statements About Puntland Officials and Military",
     "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
     "actors": [
       "@PuntJubNews"
@@ -46269,17 +46805,26 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "extracted_claims": [
+      "Bots fabricated audio of a Puntland Minister",
+      "Doctored statement from Puntland President circulated",
+      "False claims about troops setting up roadblocks in Puntland",
+      "Lies spread about Port activities"
+    ],
+    "_review_notes": "Headline uses detection mechanics language ('past 2 weeks bots') rather than describing the false claims themselves. This is active coordinated disinformation with multiple vectors (audio, statements, military operations). Threat level appropriate.",
+    "_reviewed": "2026-10-27T15:13:01.224139+00:00"
   },
   {
     "id": "APF-2026-08-12-252",
     "date": "2026-08-12",
     "country": "Somalia",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "The Myth of the Naturally Good Muslim On a dark and stormy night in the dark cave of man’s mind, Shaitaan once lit a",
-    "summary": "The Myth of the Naturally Good Muslim On a dark and stormy night in the dark cave of man’s mind, Shaitaan once lit a campfire and settled down to tell a story- a myth, in fact. It went like this: Once upon a time Islam was revealed to a Prophet of ne.",
+    "threat_level": "P2 MODERATE",
+    "headline": "Religious/Ideological Narrative: 'The Myth of the Naturally Good Muslim' — Theological Reframing",
+    "summary": "An ideological/theological narrative from @JamiatKZN reframes Islamic doctrine through an allegory about moral nature and religious mythology. The incomplete summary suggests this is a longer-form rhetorical or doctrinal argument rather than a discrete factual disinformation claim.",
     "actors": [
       "@JamiatKZN"
     ],
@@ -46346,16 +46891,24 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "The Myth of the Naturally Good Muslim On a dark and stormy night in the dark cave of man’s mind, Shaitaan once lit a",
+    "_original_summary": "The Myth of the Naturally Good Muslim On a dark and stormy night in the dark cave of man’s mind, Shaitaan once lit a campfire and settled down to tell a story- a myth, in fact. It went like this: Once upon a time Islam was revealed to a Prophet of ne.",
+    "extracted_claims": [
+      "Islam traditionally claims humans are naturally good, which is a false myth"
+    ],
+    "_review_notes": "This appears to be ideological/theological rhetoric rather than factual disinformation (false claims about events, people, actions). Classification as DISINFO is questionable; this may be opinion/argument. Incomplete summary prevents full assessment. Threat level appears inflated for theological argumentation.",
+    "_reviewed": "2026-10-27T15:13:01.224145+00:00"
   },
   {
     "id": "APF-2026-08-12-875",
     "date": "2026-08-12",
     "country": "Regional",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "foreign_propaganda",
     "threat_level": "P3 MODERATE",
-    "headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "headline": "Critical Analysis: Fahad Yasin Interview Framed as Orchestrated Victimhood Narrative",
     "summary": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has broken his silence after years, but this “tell-all” interview reads more like a carefully crafted narrative of victimhood than a credibl.",
     "actors": [
       "@foritssake"
@@ -46418,17 +46971,24 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Fahad Interview Analysis From Liban’s Perspective: A Critical Take on Fahad Yasin’s Latest Claims Fahad Yasin has",
+    "extracted_claims": [
+      "Fahad Yasin's recent 'tell-all' interview is a carefully crafted victimhood narrative rather than genuine disclosure"
+    ],
+    "_review_notes": "This is analytical criticism/commentary on a political figure's narrative strategy, not disinformation itself. Reclassified as CONTEXT (reporting about narrative manipulation, not spreading false claims). Threat level inflated.",
+    "_reviewed": "2026-10-27T15:13:01.224150+00:00"
   },
   {
     "id": "APF-2026-08-13-702",
     "date": "2026-08-13",
     "country": "Somalia",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "The Myth of the Naturally Good Muslim On a dark and stormy night in the dark cave of man’s mind, Shaitaan once lit a",
-    "summary": "The Myth of the Naturally Good Muslim On a dark and stormy night in the dark cave of man’s mind, Shaitaan once lit a campfire and settled down to tell a story- a myth, in fact. It went like this: Once upon a time Islam was revealed to a Prophet of ne.",
+    "threat_level": "P2 MODERATE",
+    "headline": "Religious/Ideological Narrative: 'The Myth of the Naturally Good Muslim' — Theological Reframing",
+    "summary": "An ideological/theological narrative from @JamiatKZN reframes Islamic doctrine through an allegory about moral nature and religious mythology. The incomplete summary suggests this is a longer-form rhetorical or doctrinal argument rather than a discrete factual disinformation claim.",
     "actors": [
       "@JamiatKZN"
     ],
@@ -46495,7 +47055,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "The Myth of the Naturally Good Muslim On a dark and stormy night in the dark cave of man’s mind, Shaitaan once lit a",
+    "_original_summary": "The Myth of the Naturally Good Muslim On a dark and stormy night in the dark cave of man’s mind, Shaitaan once lit a campfire and settled down to tell a story- a myth, in fact. It went like this: Once upon a time Islam was revealed to a Prophet of ne.",
+    "extracted_claims": [
+      "Islam traditionally claims humans are naturally good, which is a false myth"
+    ],
+    "_review_notes": "Duplicate of Event 2 with identical content. This is ideological rhetoric, not factual disinformation. Classification should be CONTEXT (reportage about narrative framing) and threat level should be downgraded. Appears to be test content or system error.",
+    "_reviewed": "2026-10-27T15:13:01.224153+00:00"
   },
   {
     "id": "APF-2026-08-13-885",
@@ -48968,9 +49536,9 @@
     "country": "Kenya",
     "event_type": "DISINFO",
     "disinfo_subtype": "coordinated_campaign",
-    "threat_level": "P3 MODERATE",
-    "headline": "US Tech leaders who have asked to slow AI development, are asked to say so by Global Sponsors of Left Liberals like",
-    "summary": "US Tech leaders who have asked to slow AI development, are asked to say so by Global Sponsors of Left Liberals like Soros and Sanders. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "threat_level": "P2 HIGH",
+    "headline": "Tech Leaders Falsely Claimed to Be Coordinating with Soros and Sanders to Slow AI Development",
+    "summary": "False claim circulating on X alleges that US tech leaders asking to slow AI development are being coordinated by George Soros and Bernie Sanders as part of a 'left-liberal' conspiracy. The narrative conflates legitimate tech governance concerns with partisan conspiracy theories, observed across 2 posts from account @Nbrook77.",
     "actors": [
       "@Nbrook77"
     ],
@@ -49025,17 +49593,24 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": "US Tech leaders who have asked to slow AI development, are asked to say so by Global Sponsors of Left Liberals like",
+    "_original_summary": "US Tech leaders who have asked to slow AI development, are asked to say so by Global Sponsors of Left Liberals like Soros and Sanders. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "US tech leaders advocating for AI slowdown are coordinated by George Soros and Bernie Sanders"
+    ],
+    "_review_notes": "Partisan conspiracy narrative targeting tech policy discourse. P2 threat due to potential to delegitimize legitimate AI governance concerns through false attribution to political figures.",
+    "_reviewed": "2026-10-27T15:13:25.352370+00:00"
   },
   {
     "id": "APF-2026-09-14-458",
     "date": "2026-09-14",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
     "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "headline": "@CirkaNews Report Alleges Pro-Turkish Analysts Amplifying ISIS Propaganda Narratives",
+    "summary": "@CirkaNews has published analysis claiming Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media are echoing ISIS propaganda in coverage of Puntland's counterterrorism operations. This appears to be a media critique/analysis post rather than direct disinformation, though it makes contested claims about analyst motivations.",
     "actors": [
       "@CirkaNews"
     ],
@@ -49102,7 +49677,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts including Umut Çağrı Sarı are echoing ISIS propaganda",
+      "Turkish geopolitical commentators misrepresent Puntland's counterterrorism efforts"
+    ],
+    "_review_notes": "This is a media analysis/critique post, not disinformation itself. Should be reclassified as CONTEXT. However, the post makes unsubstantiated claims about analyst intent that warrant monitoring.",
+    "_reviewed": "2026-10-27T15:13:25.352394+00:00"
   },
   {
     "id": "APF-2026-09-14-867",
@@ -49111,8 +49695,8 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
-    "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "headline": "Coordinated Bot Campaign Fabricating Audio, Doctoring Officials' Statements on Puntland Politics",
+    "summary": "Account @PuntJubNews reports a coordinated disinformation campaign over 2 weeks using bots to fabricate ministerial audio recordings, alter presidential statements from Puntland's leader, spread false claims about military roadblocks, and propagate lies about port activities in Puntland. This reflects inter-clan political rivalry disinformation.",
     "actors": [
       "@PuntJubNews"
     ],
@@ -49174,17 +49758,27 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "_original_summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "extracted_claims": [
+      "Bots have fabricated audio recordings of a Puntland minister",
+      "Puntland President's statements have been doctored and misrepresented",
+      "False reports of military troops setting up roadblocks in Puntland",
+      "Spreading lies about port activities in Puntland"
+    ],
+    "_review_notes": "Report of sophisticated coordinated disinformation targeting Puntland administration. The use of fabricated audio and doctored statements suggests escalation in technical sophistication of clan-based political manipulation.",
+    "_reviewed": "2026-10-27T15:13:25.352398+00:00"
   },
   {
     "id": "APF-2026-09-14-298",
     "date": "2026-09-14",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
     "threat_level": "P3 MODERATE",
-    "headline": "-Happy Monday Everyone!, I still lowkey, want the iPhone Duo. (The color, night sky). Nancy Guthrie is still missing &",
-    "summary": "-Happy Monday Everyone!, I still lowkey, want the iPhone Duo. (The color, night sky). Nancy Guthrie is still missing & becoming a cold case. From lack of incompetence & wrongdoings like what we saw w/Rex Heuermann. (2010 to 2023.) Nick Reiner is due .",
+    "headline": "Account Posts Mixed Content Linking Missing Person Case to South Sudan Political Narratives",
+    "summary": "Account @LittleLeighXoxo posted rambling content mixing personal commentary (iPhone preferences) with references to missing person Nancy Guthrie and criminal justice cases. The post conflates unrelated US-based missing persons cases with South Sudan narrative tags (NAR-SS-002, NAR-SS-001, NAR-SS-005), suggesting potential misclassification or low-quality content.",
     "actors": [
       "@LittleLeighXoxo"
     ],
@@ -49253,17 +49847,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "-Happy Monday Everyone!, I still lowkey, want the iPhone Duo. (The color, night sky). Nancy Guthrie is still missing &",
+    "_original_summary": "-Happy Monday Everyone!, I still lowkey, want the iPhone Duo. (The color, night sky). Nancy Guthrie is still missing & becoming a cold case. From lack of incompetence & wrongdoings like what we saw w/Rex Heuermann. (2010 to 2023.) Nick Reiner is due .",
+    "extracted_claims": [
+      "Nancy Guthrie missing person case linked to governmental incompetence"
+    ],
+    "_review_notes": "This event appears to be a misclassification. The content is incoherent personal commentary mixed with US missing persons cases, not South Sudan-related disinformation. Consider filtering out low-relevance/off-topic posts or re-evaluating narrative tags.",
+    "_reviewed": "2026-10-27T15:13:25.352403+00:00"
   },
   {
     "id": "APF-2026-09-17-551",
     "date": "2026-09-17",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
     "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "headline": "@CirkaNews Report Alleges Pro-Turkish Analysts Amplifying ISIS Propaganda on Puntland",
+    "summary": "@CirkaNews has published analysis claiming Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media are echoing ISIS propaganda regarding Puntland's counterterrorism operations. This is media criticism/analysis rather than disinformation itself, though it advances contested claims about analyst intent and motivations.",
     "actors": [
       "@CirkaNews"
     ],
@@ -49330,7 +49932,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Turkish analyst Umut Çağrı Sarı echoes ISIS propaganda in Puntland coverage",
+      "Manjaniq Media amplifies ISIS propaganda narratives about Puntland counterterror"
+    ],
+    "_review_notes": "Duplicate of event [1]. This is media analysis/attribution post (CONTEXT), not direct disinformation (DISINFO). Reclassify and deduplicate.",
+    "_reviewed": "2026-10-27T15:13:25.352407+00:00"
   },
   {
     "id": "APF-2026-09-18-457",
@@ -49742,11 +50353,11 @@
     "id": "APF-2026-09-22-176",
     "date": "2026-09-22",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "coordinated_campaign",
     "threat_level": "P3 MODERATE",
-    "headline": "GOVERNOR ABBOTT TELL TALARICO TO TAKE A ROYAL HIKE. 🔥🔥🔥 Right now, the U.S. Senate race in Texas is too close to call.",
-    "summary": "GOVERNOR ABBOTT TELL TALARICO TO TAKE A ROYAL HIKE. 🔥🔥🔥 Right now, the U.S. Senate race in Texas is too close to call. Recent polling shows James Talarico leading. It’s important to understand how we got here. The Democrats FLOODED Texas with cash. T. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "headline": "Disinformation about U.S. Senate race in Texas amplified on social media",
+    "summary": "A social media account (@MariaCarmi1) is amplifying false claims about the U.S. Senate race in Texas, including fabricated polling data and conspiracy narratives about Democratic funding. This content is being monitored as part of broader disinformation detection but is primarily U.S.-focused and tangential to East African conflict dynamics.",
     "actors": [
       "@MariaCarmi1"
     ],
@@ -49802,17 +50413,26 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "GOVERNOR ABBOTT TELL TALARICO TO TAKE A ROYAL HIKE. 🔥🔥🔥 Right now, the U.S. Senate race in Texas is too close to call.",
+    "_original_summary": "GOVERNOR ABBOTT TELL TALARICO TO TAKE A ROYAL HIKE. 🔥🔥🔥 Right now, the U.S. Senate race in Texas is too close to call. Recent polling shows James Talarico leading. It’s important to understand how we got here. The Democrats FLOODED Texas with cash. T. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "James Talarico is leading in U.S. Senate race in Texas",
+      "Democrats flooded Texas with cash to influence Senate race"
+    ],
+    "_review_notes": "Event is U.S.-focused domestic political disinformation, not relevant to East African early warning mandate. Recommend deprioritization or removal from monitoring scope.",
+    "_reviewed": "2026-10-27T15:13:46.935301+00:00"
   },
   {
     "id": "APF-2026-09-22-360",
     "date": "2026-09-22",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "coordinated_campaign",
     "threat_level": "P3 MODERATE",
-    "headline": "TREASON! And, CRIMES AGAINST HUMANITY!!!! 🔥It's all 💯connected. Epstein was all about blackmail. IMO everything leads",
-    "summary": "TREASON! And, CRIMES AGAINST HUMANITY!!!! 🔥It's all 💯connected. Epstein was all about blackmail. IMO everything leads back to Barry Soetoro. We are dealing with a Marxist movement that began in the US over 100 years ago. 🙏🙏 Please save this country, . Observed across 2 posts from 1 accounts on X (Twitter).",
+    "headline": "Conspiracy theories linking Epstein, Obama, and Marxism amplified on social media",
+    "summary": "Account @Trufe93112 is amplifying QAnon-adjacent conspiracy theories connecting Jeffrey Epstein to alleged government crimes and Marxist movements, with accusations framed around President Obama. This represents generic U.S. conspiracy content without East African relevance.",
     "actors": [
       "@Trufe93112"
     ],
@@ -49867,7 +50487,16 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "TREASON! And, CRIMES AGAINST HUMANITY!!!! 🔥It's all 💯connected. Epstein was all about blackmail. IMO everything leads",
+    "_original_summary": "TREASON! And, CRIMES AGAINST HUMANITY!!!! 🔥It's all 💯connected. Epstein was all about blackmail. IMO everything leads back to Barry Soetoro. We are dealing with a Marxist movement that began in the US over 100 years ago. 🙏🙏 Please save this country, . Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Epstein blackmail operations are connected to Marxist government conspiracy",
+      "Obama (Barry Soetoro) leads a century-long Marxist movement in the U.S."
+    ],
+    "_review_notes": "Generic U.S.-focused conspiracy theory content without East African nexus. Recommend removal from East Africa monitoring platform.",
+    "_reviewed": "2026-10-27T15:13:46.935321+00:00"
   },
   {
     "id": "APF-2026-09-22-272",
@@ -49944,17 +50573,22 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "extracted_claims": [
+      "Somalia's intelligence services neutralized an Al-Shabaab leader in Golane and Al-Furqan zones"
+    ],
+    "_review_notes": "Credible P2 HIGH threat. Spanish-language account amplifying security operation claims about Al-Shabaab that require verification. Warrants continued monitoring for potential false casualty claims or operational exaggeration.",
+    "_reviewed": "2026-10-27T15:13:46.935325+00:00"
   },
   {
     "id": "APF-2026-09-22-251",
     "date": "2026-09-22",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
     "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "headline": "Analysis of pro-Turkish narratives about Puntland counterterrorism framed as ISIS propaganda echoes",
+    "summary": "This is a report/analysis (not disinformation itself) examining how Turkish geopolitical analyst Umut Çağrı Sarı and Manjaniq Media may be echoing ISIS-aligned narratives about Puntland's counterterrorism operations. The event describes detection of potential propaganda alignment, not the spread of false claims themselves.",
     "actors": [
       "@CirkaNews"
     ],
@@ -50021,17 +50655,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are propagating ISIS-aligned narratives about Puntland counterterrorism"
+    ],
+    "_review_notes": "This is an analytical report about disinformation actors, not the disinformation content itself. Correctly identifies foreign (pro-Turkish) propaganda efforts targeting Puntland. Maintains P2 HIGH classification for strategic significance.",
+    "_reviewed": "2026-10-27T15:13:46.935329+00:00"
   },
   {
     "id": "APF-2026-09-23-865",
     "date": "2026-09-23",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
     "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. 3 near-identical posts from 3 accounts suggest coordinated amplification.",
+    "headline": "Coordinated amplification of pro-Turkish analysis framing Puntland counterterrorism as ISIS propaganda",
+    "summary": "Three coordinated accounts (@AbouzgidenAli, @R47910409, @CirkaNews) amplified near-identical posts analyzing Turkish geopolitical commentary about Puntland's counterterrorism operations, framing them as ISIS-propaganda-aligned. This represents coordinated amplification of a report about potential disinformation narratives rather than the false claims themselves.",
     "actors": [
       "@AbouzgidenAli",
       "@R47910409",
@@ -50117,7 +50759,15 @@
     "observation_count": 2,
     "intensity_trend": [
       3
-    ]
+    ],
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. 3 near-identical posts from 3 accounts suggest coordinated amplification.",
+    "extracted_claims": [
+      "Turkish analysts (Umut Çağrı Sarı, Manjaniq Media) are propagating ISIS-aligned narratives about Puntland counterterrorism"
+    ],
+    "_review_notes": "Coordinated amplification (3 accounts, identical posts) increases strategic significance. This is a CONTEXT event reporting on coordinated behavior around disinformation narratives, not the disinformation content itself. Warrants network analysis of @CirkaNews, @AbouzgidenAli, @R47910409 for coordinated disinformation patterns.",
+    "_reviewed": "2026-10-27T15:13:46.935333+00:00"
   },
   {
     "id": "APF-2026-09-24-050",
@@ -50928,11 +51578,11 @@
     "id": "APF-2026-10-09-256",
     "date": "2026-10-02",
     "country": "Somalia",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
     "threat_level": "P2 HIGH",
-    "headline": "young children in jail proclaiming the shahada despite their situation🇵🇸❤️",
-    "summary": "young children in jail proclaiming the shahada despite their situation🇵🇸❤️.",
+    "headline": "TikTok account spreading emotive claims linking Palestinian children to religious indoctrination",
+    "summary": "User @mstirii01 posted content on TikTok claiming to show young children in custody reciting Islamic prayers, framed with Palestinian solidarity messaging. The post lacks verifiable context about location, custody circumstances, or authenticity of the claim.",
     "actors": [
       "@mstirii01"
     ],
@@ -50998,17 +51648,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "young children in jail proclaiming the shahada despite their situation🇵🇸❤️",
+    "_original_summary": "young children in jail proclaiming the shahada despite their situation🇵🇸❤️.",
+    "extracted_claims": [
+      "Young children are being held in jail and forced to recite Islamic prayers (shahada)"
+    ],
+    "_review_notes": "This appears to be emotive disinformation exploiting Palestinian-Somalia solidarity narratives. The claim conflates unrelated geopolitical issues and lacks verifiable sourcing about the children's actual circumstances.",
+    "_reviewed": "2026-10-27T15:14:07.661064+00:00"
   },
   {
     "id": "APF-2026-10-09-135",
     "date": "2026-10-09",
     "country": "Somalia",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": "No clear evidence shows this specific video is AI-generated. It matches the style of real, low-resolution security and",
-    "summary": "No clear evidence shows this specific video is AI-generated. It matches the style of real, low-resolution security and phone footage compilations of Detroit ballot drop boxes that have circulated since 2020. The clips show grainy outdoor and indoor s.",
+    "headline": "Fact-check: Detroit ballot box video circulating since 2020 lacks AI-deepfake markers",
+    "summary": "User @MarkBresson posted analysis debunking claims that a Detroit ballot box surveillance video was AI-generated. The analysis notes the footage matches authentic low-resolution security camera style from compilations circulating since 2020, providing technical context to counter deepfake allegations.",
     "actors": [
       "@MarkBresson"
     ],
@@ -51070,17 +51728,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "No clear evidence shows this specific video is AI-generated. It matches the style of real, low-resolution security and",
+    "_original_summary": "No clear evidence shows this specific video is AI-generated. It matches the style of real, low-resolution security and phone footage compilations of Detroit ballot drop boxes that have circulated since 2020. The clips show grainy outdoor and indoor s.",
+    "extracted_claims": [
+      "Video of Detroit ballot drop boxes is AI-generated deepfake content"
+    ],
+    "_review_notes": "This is a fact-check/debunking post (CONTEXT), not disinformation itself. The user is providing counter-analysis to false AI-deepfake claims, which is important context for understanding the disinformation ecosystem but not the false claim itself.",
+    "_reviewed": "2026-10-27T15:14:07.661084+00:00"
   },
   {
     "id": "APF-2026-10-09-629",
     "date": "2026-10-09",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
-    "threat_level": "P3 MODERATE",
-    "headline": "Per Nobel’s Committee: Promoting Peace and International Law Still Matter News analysis by World Affairs 21C Substack",
-    "summary": "Per Nobel’s Committee: Promoting Peace and International Law Still Matter News analysis by World Affairs 21C Substack channel - Oct. 9, 2026 Congratulations to this year’s Nobel Peace Prize winner. “Navanethem ‘Navi’ Pillay, 85, was awarded the 2026 .",
+    "threat_level": "P2 HIGH",
+    "headline": "Nobel Peace Prize analysis post by World Affairs 21C raises questions about legitimacy",
+    "summary": "User @OmSamad shared a World Affairs 21C Substack post dated October 9, 2026 (future date, likely false) claiming Navanethem Pillay won the 2026 Nobel Peace Prize. The anachronistic date and attribution to a Substack channel warrant verification of the prize announcement's authenticity.",
     "actors": [
       "@OmSamad"
     ],
@@ -51149,7 +51815,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Per Nobel’s Committee: Promoting Peace and International Law Still Matter News analysis by World Affairs 21C Substack",
+    "_original_summary": "Per Nobel’s Committee: Promoting Peace and International Law Still Matter News analysis by World Affairs 21C Substack channel - Oct. 9, 2026 Congratulations to this year’s Nobel Peace Prize winner. “Navanethem ‘Navi’ Pillay, 85, was awarded the 2026 .",
+    "extracted_claims": [
+      "Navanethem 'Navi' Pillay, age 85, was awarded the 2026 Nobel Peace Prize"
+    ],
+    "_review_notes": "Critical red flag: post is dated October 9, 2026 (future date from 2024 perspective), indicating potential fabrication. This appears to be seeding false Nobel Prize narratives in East African discourse, possibly to manipulate perceptions of transitional justice figures.",
+    "_reviewed": "2026-10-27T15:14:07.661089+00:00"
   },
   {
     "id": "APF-2026-10-10-684",
@@ -51226,17 +51900,23 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "extracted_claims": [
+      "IDF airstrikes killed two Palestinian Islamic Jihad operatives in Gaza City including a rocket unit commander",
+      "IDF airstrikes killed a Hamas company commander in Al-Furqan area"
+    ],
+    "_review_notes": "User @ShieldOfTruth_ propagates Israeli military claims in Gaza via Somalia-based accounts, likely amplifying regional conflict narratives. The geographic mismatch (Somalia accounts sharing Gaza military updates) suggests organized narrative coordination.",
+    "_reviewed": "2026-10-27T15:14:07.661092+00:00"
   },
   {
     "id": "APF-2026-10-10-710",
     "date": "2026-10-10",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
     "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 2 accounts on X (Twitter).",
+    "headline": "Analysis: Pro-Turkish analyst's narratives overlap with ISIS propaganda messaging on Puntland",
+    "summary": "Users @CirkaNews and @couldbehere analyzed claims by Turkish geopolitical commentator Umut Çağrı Sarı, alleging his Puntland counterterrorism narratives share rhetorical similarities with ISIS propaganda. The analysis was observed across 2 posts and references Manjaniq Media as a comparative case.",
     "actors": [
       "@CirkaNews",
       "@couldbehere"
@@ -51310,7 +51990,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 2 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Pro-Turkish analyst Umut Çağrı Sarı is echoing ISIS propaganda in his analysis of Puntland counterterrorism operations"
+    ],
+    "_review_notes": "This is analytical content questioning narrative alignment between Turkish analysts and extremist messaging (CONTEXT), not the disinformation itself. However, the underlying claim about propaganda echoing is significant for tracking how extremist rhetoric infiltrates geopolitical commentary on Somalia.",
+    "_reviewed": "2026-10-27T15:14:07.661096+00:00"
   },
   {
     "id": "APF-2026-10-10-477",
@@ -51538,8 +52226,8 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
-    "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !. 3 near-identical posts from 3 accounts suggest coordinated amplification.",
+    "headline": "Coordinated campaign spreads fabricated audio of Somali Minister and doctored Puntland President statement",
+    "summary": "Over two weeks, a coordinated network of accounts spread multiple fabricated claims targeting Puntland leadership, including fake audio of a Minister, doctored presidential statements, and false reports of military roadblocks. Three near-identical posts from different accounts suggest organized amplification across X and TikTok.",
     "actors": [
       "@PuntJubNews",
       "@metrouk",
@@ -51605,17 +52293,27 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "_original_summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !. 3 near-identical posts from 3 accounts suggest coordinated amplification.",
+    "extracted_claims": [
+      "Bots fabricated audio of a Somali Minister",
+      "Puntland President's statement was doctored",
+      "Troops set up roadblocks in Puntland",
+      "False claims about Port activities"
+    ],
+    "_review_notes": "Coordinated inauthentic behavior with cross-platform amplification targeting Puntland political stability. Headline focuses on detection mechanics rather than false claims; revised to center on what is being falsely claimed.",
+    "_reviewed": "2026-10-27T15:14:30.755782+00:00"
   },
   {
     "id": "APF-2026-10-13-935",
     "date": "2026-10-13",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "misinformation",
     "threat_level": "P3 MODERATE",
-    "headline": "They actively defended Israel from Iran while Israel was committing genocide.",
-    "summary": "They actively defended Israel from Iran while Israel was committing genocide.",
+    "headline": "South Sudan actor spreads claims linking country to Israel-Iran conflict",
+    "summary": "Account @TheKiranHill spread claims falsely linking South Sudan to Israeli-Iranian conflict, alleging South Sudan defended Israel during alleged genocide operations. This appears designed to manufacture international scandal around South Sudan.",
     "actors": [
       "@TheKiranHill"
     ],
@@ -51684,17 +52382,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "They actively defended Israel from Iran while Israel was committing genocide.",
+    "_original_summary": "They actively defended Israel from Iran while Israel was committing genocide.",
+    "extracted_claims": [
+      "South Sudan actively defended Israel from Iran during alleged Israeli genocide"
+    ],
+    "_review_notes": "Event lacks East African relevance—focus on Israel-Gaza is off-mission. Content is thin and appears out of regional context; unclear if this targets South Sudanese audiences or is merely global political rhetoric. Reclassify as CONTEXT if this is a report about the disinformation; if the actual claim is the false narrative, headline needs total rewrite.",
+    "_reviewed": "2026-10-27T15:14:30.755807+00:00"
   },
   {
     "id": "APF-2026-10-14-050",
     "date": "2026-10-14",
     "country": "Kenya",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "coordinated_campaign",
     "threat_level": "P3 MODERATE",
-    "headline": "Yes. No one should be allowed to be so smart, driven and…….republican No do George Soros. Roy Neville, Reid Hoffman……",
-    "summary": "Yes. No one should be allowed to be so smart, driven and…….republican No do George Soros. Roy Neville, Reid Hoffman……. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "headline": "Incoherent posts from low-quality accounts flagged; insufficient disinformation substance",
+    "summary": "Account @AlwaysTrumpers posted incoherent content mixing U.S. political figures (George Soros, Roy Neville, Reid Hoffman) with Republican critiques. Insufficient clarity on actual false claims or Kenya-specific relevance.",
     "actors": [
       "@AlwaysTrumpers"
     ],
@@ -51749,7 +52455,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Yes. No one should be allowed to be so smart, driven and…….republican No do George Soros. Roy Neville, Reid Hoffman……",
+    "_original_summary": "Yes. No one should be allowed to be so smart, driven and…….republican No do George Soros. Roy Neville, Reid Hoffman……. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "George Soros, Roy Neville, Reid Hoffman linked to Republican political figures in negative context"
+    ],
+    "_review_notes": "Event lacks analytical substance—the summary is nearly identical to headline and contains no coherent disinformation claim. Appears to be generic U.S. political rhetoric without clear East African targeting. Should be downgraded or removed unless Kenya connection is clarified.",
+    "_reviewed": "2026-10-27T15:14:30.755812+00:00"
   },
   {
     "id": "APF-2026-10-14-018",
@@ -51871,17 +52585,25 @@
     "intensity_trend": [
       3,
       3
-    ]
+    ],
+    "extracted_claims": [
+      "Foreign-funded protests are currently rocking Kenya",
+      "External actors are misusing civic groups in Kenya",
+      "Open Society Foundation (OSF) is funding destabilization efforts",
+      "Tanzania is resisting foreign-backed interventions while Kenya faces coup threats"
+    ],
+    "_review_notes": "High-threat coordinated campaign using #DogsOfWar hashtag to amplify foreign interference narratives, explicitly naming OSF as funder. Regional framing (Tanzania contrast) suggests intentional narrative architecture. Five accounts coordinating across X indicates organized disinformation infrastructure.",
+    "_reviewed": "2026-10-27T15:14:30.755816+00:00"
   },
   {
     "id": "APF-2026-10-14-801",
     "date": "2026-10-14",
     "country": "Somalia",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "Over the last six days, the IDF has continued heavily attacking the Gaza Strip, carrying out numerous targeted",
-    "summary": "Over the last six days, the IDF has continued heavily attacking the Gaza Strip, carrying out numerous targeted assassination strikes against alleged Hamas and Palestinian Islamic Jihad targets. According the IDF claims, the following have been target.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Somalia-based account posts Gaza conflict reporting; lacks regional relevance",
+    "summary": "Somalia-attributed account (@AMK_Mapping_) posted reporting on Israeli military operations in Gaza. This appears to be off-mission content lacking clear connection to East African disinformation ecosystems or threats.",
     "actors": [
       "@AMK_Mapping_"
     ],
@@ -51948,17 +52670,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Over the last six days, the IDF has continued heavily attacking the Gaza Strip, carrying out numerous targeted",
+    "_original_summary": "Over the last six days, the IDF has continued heavily attacking the Gaza Strip, carrying out numerous targeted assassination strikes against alleged Hamas and Palestinian Islamic Jihad targets. According the IDF claims, the following have been target.",
+    "extracted_claims": [
+      "IDF carried out targeted assassination strikes against Hamas and Palestinian Islamic Jihad in Gaza"
+    ],
+    "_review_notes": "Event is misclassified—this is Gaza conflict reporting attributed to a Somalia account, not East African disinformation. Unclear why this is flagged by MERLx IRIS monitoring Somalia. Should be investigated for account authenticity/hijacking or removed from regional early warning feed.",
+    "_reviewed": "2026-10-27T15:14:30.755820+00:00"
   },
   {
     "id": "APF-2026-10-14-149",
     "date": "2026-10-14",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Report: Pro-Turkish Analysts Amplifying ISIS Propaganda Narratives on Puntland Counterterror",
+    "summary": "A report analyzing Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media identifies striking narrative parallels between their framing of Puntland counterterrorism operations and ISIS propaganda messaging. The analysis suggests deliberate or inadvertent amplification of extremist talking points through mainstream geopolitical commentary channels.",
     "actors": [
       "@CirkaNews"
     ],
@@ -52025,7 +52755,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda in framing of Puntland counterterrorism"
+    ],
+    "_review_notes": "This is a report ABOUT disinformation tactics and narrative alignment, not disinformation content itself. Threat level should be moderate as it documents media analysis, not active false claims.",
+    "_reviewed": "2026-10-27T15:14:52.618869+00:00"
   },
   {
     "id": "APF-2026-10-14-248",
@@ -52034,7 +52772,7 @@
     "event_type": "DISINFO",
     "disinfo_subtype": "deepfake",
     "threat_level": "P3 MODERATE",
-    "headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "headline": "Coordinated Disinformation Campaign: Fabricated Minister Audio, Doctored Presidential Statements, False Roadblock Claims in Puntland",
     "summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
     "actors": [
       "@PuntJubNews"
@@ -52097,17 +52835,26 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "extracted_claims": [
+      "Bots fabricated audio of a government Minister",
+      "Puntland President's statement was doctored and misrepresented",
+      "False claims that troops were setting up roadblocks in Puntland",
+      "Spread of lies about Port operations in Somalia"
+    ],
+    "_review_notes": "Clear DISINFO event with multiple false claims. Headline improved to specify the actual false narratives rather than describing detection mechanics. Campaign appears systematic and multi-faceted.",
+    "_reviewed": "2026-10-27T15:14:52.618887+00:00"
   },
   {
     "id": "APF-2026-10-15-497",
     "date": "2026-10-15",
     "country": "Somalia",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "The distinction between the \"Islam of Mecca\" and the \"Islam of Medina\" refers to the two foundational periods of early",
-    "summary": "The distinction between the \"Islam of Mecca\" and the \"Islam of Medina\" refers to the two foundational periods of early Islam during the life of the Prophet Muhammad: the Meccan period (610–622 CE) and the Medinan period (622–632 CE). [1, 2] The Mecca. 5 near-identical posts from 1 accounts suggest coordinated amplification.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Coordinated Amplification Campaign: 5 Near-Identical Posts Spreading Islam of Mecca/Medina Narrative Across Linked Accounts",
+    "summary": "A coordinated inauthentic behavior campaign detected 5 near-identical posts from linked accounts amplifying the 'Islam of Mecca versus Islam of Medina' theological distinction narrative. The coordinated nature suggests deliberate amplification tactics rather than organic discussion, potentially framing theological differences to support broader geopolitical narratives about Somalia.",
     "actors": [
       "@RickDelmonico"
     ],
@@ -52176,17 +52923,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "The distinction between the \"Islam of Mecca\" and the \"Islam of Medina\" refers to the two foundational periods of early",
+    "_original_summary": "The distinction between the \"Islam of Mecca\" and the \"Islam of Medina\" refers to the two foundational periods of early Islam during the life of the Prophet Muhammad: the Meccan period (610–622 CE) and the Medinan period (622–632 CE). [1, 2] The Mecca. 5 near-identical posts from 1 accounts suggest coordinated amplification.",
+    "extracted_claims": [
+      "The 'Islam of Mecca' versus 'Islam of Medina' distinction is being used to frame theological/political divisions relevant to Somalia"
+    ],
+    "_review_notes": "This is a report of DETECTION MECHANICS (coordinated posting patterns), not the disinformation claim itself. Without clarity on how this theological narrative relates to false claims about Somalia, this should be CONTEXT. Threat downgraded.",
+    "_reviewed": "2026-10-27T15:14:52.618893+00:00"
   },
   {
     "id": "APF-2026-10-15-729",
     "date": "2026-10-15",
     "country": "Somalia",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "THE BALUCH CLAIM 3 CLASHES WITH IRGC & FATIMIYOUN IN SISTAN-BALUCHISTAN Jebhe-ye Mobarezin-e Mardomi (JMM, aka People’s",
-    "summary": "THE BALUCH CLAIM 3 CLASHES WITH IRGC & FATIMIYOUN IN SISTAN-BALUCHISTAN Jebhe-ye Mobarezin-e Mardomi (JMM, aka People’s Fighters Front (PFF)), the Iranian Baluch coalition, released Statement No. 22 on Oct 13 claiming 3 engagements in the prior 24 ho.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Iranian Baluch Coalition (JMM/PFF) Claims Combat Engagements with IRGC and Fatimiyoun Forces in Sistan-Baluchistan",
+    "summary": "The Jebhe-ye Mobarezin-e Mardomi (JMM), a Baluch opposition coalition, released Statement No. 22 on October 13 claiming three separate military engagements with IRGC and Fatimiyoun militia forces in Iran's Sistan-Baluchistan province. This is regional conflict reporting, not East African disinformation.",
     "actors": [
       "@urgentintel"
     ],
@@ -52253,17 +53008,25 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "THE BALUCH CLAIM 3 CLASHES WITH IRGC & FATIMIYOUN IN SISTAN-BALUCHISTAN Jebhe-ye Mobarezin-e Mardomi (JMM, aka People’s",
+    "_original_summary": "THE BALUCH CLAIM 3 CLASHES WITH IRGC & FATIMIYOUN IN SISTAN-BALUCHISTAN Jebhe-ye Mobarezin-e Mardomi (JMM, aka People’s Fighters Front (PFF)), the Iranian Baluch coalition, released Statement No. 22 on Oct 13 claiming 3 engagements in the prior 24 ho.",
+    "extracted_claims": [
+      "JMM claimed 3 clashes with IRGC and Fatimiyoun in Sistan-Baluchistan within 24 hours"
+    ],
+    "_review_notes": "OUT OF SCOPE for East Africa monitoring. This event concerns Iran-Baluch conflict and should not be classified as DISINFO within East African context. Recommend removal from Somalia/South Sudan/Kenya watch.",
+    "_reviewed": "2026-10-27T15:14:52.618897+00:00"
   },
   {
     "id": "APF-2026-10-15-139",
     "date": "2026-10-15",
     "country": "South Sudan",
-    "event_type": "DISINFO",
+    "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 HIGH",
-    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
-    "summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "threat_level": "P3 MODERATE",
+    "headline": "Report: Pro-Turkish Analysts Amplifying ISIS Propaganda Narratives on Puntland Counterterror",
+    "summary": "A report analyzing Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media identifies striking narrative parallels between their framing of Puntland counterterrorism operations and ISIS propaganda messaging. The analysis suggests deliberate or inadvertent amplification of extremist talking points through mainstream geopolitical commentary channels.",
     "actors": [
       "@CirkaNews"
     ],
@@ -52330,7 +53093,15 @@
         "reach": {}
       }
     ],
-    "observation_count": 1
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda in framing of Puntland counterterrorism"
+    ],
+    "_review_notes": "Duplicate of Event 0. This is a report ABOUT disinformation, not disinformation itself—should be CONTEXT. Threat level should be P3 MODERATE.",
+    "_reviewed": "2026-10-27T15:14:52.618901+00:00"
   },
   {
     "id": "APF-2026-10-15-352",
@@ -53234,5 +54005,87 @@
     ],
     "_review_notes": "This event highlights the spread of global conspiracy theories, such as those targeting Agenda 2030, within the monitoring scope for South Sudan. Such narratives can undermine trust in international development efforts and governance.",
     "_reviewed": "2026-10-26T15:39:27.599506+00:00"
+  },
+  {
+    "id": "APF-2026-10-27-197",
+    "date": "2026-10-27",
+    "country": "Somalia",
+    "event_type": "DISINFO",
+    "disinfo_subtype": "deepfake",
+    "threat_level": "P2 HIGH",
+    "headline": "Coordinated bot campaign fabricates audio of Minister, doctored presidential statements, and false troop deployment claims in Puntland",
+    "summary": "Over a two-week period, coordinated bot accounts (including @PuntJubNews) have systematically spread multiple false claims: fabricated audio impersonating a government Minister, doctored statements attributed to Puntland's President, and false reports of unauthorized troop roadblocks. The campaign escalated to include fabricated claims about port activities, suggesting a sustained disinformation operation targeting Puntland state institutions and military credibility.",
+    "actors": [
+      "@PuntJubNews"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/PuntJubNews/status/1376951327331393536",
+        "date": "2026-10-27"
+      }
+    ],
+    "spread": 1,
+    "disinfo_narratives": [
+      "NAR-SO-005",
+      "NAR-SO-009"
+    ],
+    "related_events": [
+      "APF-2026-10-08-048",
+      "APF-2026-10-14-248",
+      "APF-2026-10-15-352",
+      "APF-2026-10-20-345",
+      "APF-2026-10-21-672",
+      "APF-2026-10-22-336"
+    ],
+    "disinfo_confidence": "MEDIUM",
+    "disinfo_justification": "Deepfake/fabricated media indicators in East Africa context: doctored.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "pattern_match",
+    "narrative_families": [
+      {
+        "family": "Misinformation/Disinformation",
+        "intensity": 4,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      }
+    ],
+    "ve_related": false,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-27",
+    "detection_timestamp": "2026-10-27T15:07:52.907555+00:00",
+    "last_seen": "2026-10-27",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-27",
+        "url": "https://x.com/PuntJubNews/status/1376951327331393536",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_original_headline": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied",
+    "_original_summary": ": The past 2 weeks  bots have fabricated audio of a  Minister, doctored a statement from Puntland's President, lied about troops setting up roadblocks in Puntland and TODAY they are spreading lies about  Port in !.",
+    "extracted_claims": [
+      "Fabricated audio of a government Minister",
+      "Doctored statements from Puntland's President",
+      "False reports of troops setting up unauthorized roadblocks in Puntland",
+      "Fabricated claims about port activities"
+    ],
+    "_review_notes": "Escalating coordinated campaign targeting Puntland state legitimacy through multiple manipulation vectors (audio, text, military claims). The progression from institutional impersonation to broader false incident claims suggests tactical sophistication and sustained adversarial intent. P2 rating warranted due to potential institutional destabilization impact.",
+    "_reviewed": "2026-10-27T15:15:01.862550+00:00"
   }
 ]

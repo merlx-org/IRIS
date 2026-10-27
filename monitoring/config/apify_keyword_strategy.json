@@ -1813,6 +1813,56 @@
           "status": "proposed",
           "hits": 0,
           "rotations_run": 0
+        },
+        {
+          "keyword": "minnesota fraud cartels kenya",
+          "country": "Kenya",
+          "source": "event_review_extraction",
+          "reason": "Emerging narrative linking international crime to Nairobi localities",
+          "date_added": "2026-10-27",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "eastleigh organized crime",
+          "country": "Kenya",
+          "source": "event_review_extraction",
+          "reason": "Specific location-based claim requiring monitoring",
+          "date_added": "2026-10-27",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "manjaniq media propaganda",
+          "country": "Regional",
+          "source": "event_review_extraction",
+          "reason": "Identified source of alleged ISIS-aligned disinformation",
+          "date_added": "2026-10-27",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "turkish geopolitical narratives puntland",
+          "country": "Regional",
+          "source": "event_review_extraction",
+          "reason": "Cross-regional information operations targeting Horn of Africa",
+          "date_added": "2026-10-27",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "isis rhetoric horn of africa",
+          "country": "Regional",
+          "source": "event_review_extraction",
+          "reason": "Detection of extremist narrative alignment",
+          "date_added": "2026-10-27",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
         }
       ]
     },
