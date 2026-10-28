@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-28",
+  "extracted_claims": [
+    {
+      "claim": "The Jewish Chronicle in April 1917 was a mouthpiece for British wartime propaganda, not an independent observer",
+      "country": "Regional",
+      "actors": [
+        "@1Uprising27091"
+      ],
+      "keywords": [
+        "historical revisionism",
+        "media delegitimization",
+        "propaganda narratives"
+      ]
+    },
+    {
+      "claim": "Pro-Turkish analysts including Umut \u00c7a\u011fr\u0131 Sar\u0131 and Manjaniq Media are echoing ISIS propaganda",
+      "country": "Somalia",
+      "actors": [
+        "@R47910409",
+        "@CirkaNews",
+        "Umut \u00c7a\u011fr\u0131 Sar\u0131",
+        "Manjaniq Media"
+      ],
+      "keywords": [
+        "pro-Turkish narratives",
+        "ISIS propaganda",
+        "Puntland counterterrorism"
+      ]
+    },
+    {
+      "claim": "Turkish geopolitical commentary portrays Puntland counterterrorism operations in ways aligned with ISIS messaging",
+      "country": "Somalia",
+      "actors": [
+        "Umut \u00c7a\u011fr\u0131 Sar\u0131"
+      ],
+      "keywords": [
+        "Puntland",
+        "external interference narratives"
+      ]
+    },
+    {
+      "claim": "AI-generated faces have been discovered inside Somalia's preliminary voter register",
+      "country": "Somalia",
+      "actors": [
+        "@A_offor"
+      ],
+      "keywords": [
+        "electoral fraud",
+        "voter register manipulation",
+        "AI-generated content"
+      ]
+    },
+    {
+      "claim": "The discovery of AI-generated faces in the voter register represents a catastrophic institutional failure and threat to electoral integrity",
+      "country": "Somalia",
+      "actors": [
+        "@A_offor"
+      ],
+      "keywords": [
+        "electoral delegitimization",
+        "institutional failure narratives"
+      ]
+    }
+  ],
+  "proposed_keywords": [
+    {
+      "keyword": "historical revisionism propaganda",
+      "country": "Regional",
+      "reason": "Identifies coordinated narratives attacking credibility of historical sources and media institutions"
+    },
+    {
+      "keyword": "source delegitimization tactics",
+      "country": "Regional",
+      "reason": "Flags attempts to undermine trust in documented information sources used in East African contexts"
+    },
+    {
+      "keyword": "Puntland Turkish interference narratives",
+      "country": "Somalia",
+      "reason": "Tracks claims linking Turkish actors/analysts to regional destabilization or ISIS alignment"
+    },
+    {
+      "keyword": "analyst delegitimization campaigns",
+      "country": "Regional",
+      "reason": "Identifies coordinated attacks on specific commentators as part of broader information warfare"
+    },
+    {
+      "keyword": "Somalia voter register fraud claims",
+      "country": "Somalia",
+      "reason": "Tracks false claims about electoral manipulation ahead of elections"
+    },
+    {
+      "keyword": "AI-generated deepfakes election interference",
+      "country": "Somalia",
+      "reason": "Identifies emerging technical disinformation tactics targeting electoral credibility"
+    },
+    {
+      "keyword": "electoral integrity delegitimization Somalia",
+      "country": "Somalia",
+      "reason": "Monitors broad narratives attacking confidence in Somali electoral processes"
+    }
+  ],
+  "events_reviewed": 3,
+  "events_reclassified": 2
+}

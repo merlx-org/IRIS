@@ -1863,6 +1863,56 @@
           "status": "proposed",
           "hits": 0,
           "rotations_run": 0
+        },
+        {
+          "keyword": "historical revisionism propaganda",
+          "country": "Regional",
+          "source": "event_review_extraction",
+          "reason": "Identifies coordinated narratives attacking credibility of historical sources and media institutions",
+          "date_added": "2026-10-28",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "source delegitimization tactics",
+          "country": "Regional",
+          "source": "event_review_extraction",
+          "reason": "Flags attempts to undermine trust in documented information sources used in East African contexts",
+          "date_added": "2026-10-28",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "puntland turkish interference narratives",
+          "country": "Somalia",
+          "source": "event_review_extraction",
+          "reason": "Tracks claims linking Turkish actors/analysts to regional destabilization or ISIS alignment",
+          "date_added": "2026-10-28",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "analyst delegitimization campaigns",
+          "country": "Regional",
+          "source": "event_review_extraction",
+          "reason": "Identifies coordinated attacks on specific commentators as part of broader information warfare",
+          "date_added": "2026-10-28",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "somalia voter register fraud claims",
+          "country": "Somalia",
+          "source": "event_review_extraction",
+          "reason": "Tracks false claims about electoral manipulation ahead of elections",
+          "date_added": "2026-10-28",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
         }
       ]
     },

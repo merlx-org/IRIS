@@ -45348,7 +45348,7 @@
     "detected_by": "iris_classify_2026-07-30",
     "detection_timestamp": "2026-07-30T10:49:05.815248+00:00",
     "last_seen": "2026-07-30",
-    "status": "dormant",
+    "status": "resolved",
     "observations": [
       {
         "date": "2026-07-30",
@@ -46822,7 +46822,7 @@
     "country": "Somalia",
     "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 MODERATE",
+    "threat_level": "P3 MODERATE",
     "headline": "Religious/Ideological Narrative: 'The Myth of the Naturally Good Muslim' — Theological Reframing",
     "summary": "An ideological/theological narrative from @JamiatKZN reframes Islamic doctrine through an allegory about moral nature and religious mythology. The incomplete summary suggests this is a longer-form rhetorical or doctrinal argument rather than a discrete factual disinformation claim.",
     "actors": [
@@ -46986,7 +46986,7 @@
     "country": "Somalia",
     "event_type": "CONTEXT",
     "disinfo_subtype": "propaganda",
-    "threat_level": "P2 MODERATE",
+    "threat_level": "P3 MODERATE",
     "headline": "Religious/Ideological Narrative: 'The Myth of the Naturally Good Muslim' — Theological Reframing",
     "summary": "An ideological/theological narrative from @JamiatKZN reframes Islamic doctrine through an allegory about moral nature and religious mythology. The incomplete summary suggests this is a longer-form rhetorical or doctrinal argument rather than a discrete factual disinformation claim.",
     "actors": [
@@ -54087,5 +54087,258 @@
     ],
     "_review_notes": "Escalating coordinated campaign targeting Puntland state legitimacy through multiple manipulation vectors (audio, text, military claims). The progression from institutional impersonation to broader false incident claims suggests tactical sophistication and sustained adversarial intent. P2 rating warranted due to potential institutional destabilization impact.",
     "_reviewed": "2026-10-27T15:15:01.862550+00:00"
+  },
+  {
+    "id": "APF-2026-10-28-905",
+    "date": "2026-10-28",
+    "country": "South Sudan",
+    "event_type": "CONTEXT",
+    "disinfo_subtype": "misinformation",
+    "threat_level": "P2 HIGH",
+    "headline": "Claims that The Jewish Chronicle April 1917 was British wartime propaganda mouthpiece",
+    "summary": "Social media account @1Uprising27091 is spreading a false historical claim that The Jewish Chronicle in April 1917 was a propaganda outlet rather than an independent newspaper. The claim appears designed to delegitimize historical sources and undermine trust in media institutions, with potential relevance to information warfare tactics in East Africa.",
+    "actors": [
+      "@1Uprising27091"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/1Uprising27091/status/2115461452727226473",
+        "date": "2026-10-28"
+      }
+    ],
+    "spread": 2,
+    "disinfo_narratives": [
+      "NAR-SS-005",
+      "NAR-SS-001",
+      "NAR-SS-002"
+    ],
+    "related_events": [
+      "APF-2026-05-25-725",
+      "APF-2026-06-12-387",
+      "APF-2026-07-03-700",
+      "APF-2026-10-08-624",
+      "APF-2026-10-09-629",
+      "APF-2026-10-13-935"
+    ],
+    "disinfo_confidence": "MEDIUM",
+    "disinfo_justification": "South Sudan fabricated narrative indicators: genocide, fabricated. Contains claims requiring verification.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "pattern_match",
+    "narrative_families": [
+      {
+        "family": "Misinformation/Disinformation",
+        "intensity": 3,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      },
+      {
+        "family": "Ethnic Incitement",
+        "intensity": 2,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      }
+    ],
+    "ve_related": false,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-28",
+    "detection_timestamp": "2026-10-28T15:34:52.882221+00:00",
+    "last_seen": "2026-10-28",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-28",
+        "url": "https://x.com/1Uprising27091/status/2115461452727226473",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "First, let's verify your source, word by word, as you asked. The clipping you posted is from The Jewish Chronicle, a",
+    "_original_summary": "First, let's verify your source, word by word, as you asked. The clipping you posted is from The Jewish Chronicle, a British newspaper. In April 1917, this newspaper was not an independent observer; it was a mouthpiece for British wartime propaganda . Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "The Jewish Chronicle in April 1917 was a mouthpiece for British wartime propaganda, not an independent observer"
+    ],
+    "_review_notes": "Event involves disinformation spread (false historical claim) not mere reporting about it. Threat level elevated due to coordinated multi-post strategy and narrative linking to institutional delegitimization tactics. Geographic irrelevance to South Sudan suggests classification error or network-wide propaganda operation.",
+    "_reviewed": "2026-10-28T15:35:11.047456+00:00"
+  },
+  {
+    "id": "APF-2026-10-28-415",
+    "date": "2026-10-28",
+    "country": "South Sudan",
+    "event_type": "CONTEXT",
+    "disinfo_subtype": "propaganda",
+    "threat_level": "P2 HIGH",
+    "headline": "Turkish analyst accused of echoing ISIS propaganda regarding Puntland counterterrorism operations",
+    "summary": "Accounts @R47910409 and @CirkaNews are making accusations that Turkish geopolitical commentator Umut Çağrı Sarı echoes ISIS propaganda in his analysis of Puntland's counterterrorism operations. This appears to be a secondary meta-claim attacking an analyst rather than direct disinformation spread, connecting external geopolitical actors to regional terrorism narratives.",
+    "actors": [
+      "@R47910409",
+      "@CirkaNews"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/CirkaNews/status/1934975949189382447",
+        "date": "2026-10-28"
+      }
+    ],
+    "spread": 2,
+    "disinfo_narratives": [
+      "NAR-SO-004"
+    ],
+    "related_events": [
+      "APF-2026-07-21-896",
+      "APF-2026-09-23-865",
+      "APF-2026-10-15-139",
+      "APF-2026-10-17-102",
+      "APF-2026-10-19-703",
+      "APF-2026-10-23-696"
+    ],
+    "disinfo_confidence": "HIGH",
+    "disinfo_justification": "Content references designated VE propaganda outlet 'manjaniq media'; all output is definitionally VE propaganda.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "confirmed",
+    "narrative_families": [
+      {
+        "family": "Attack Claim",
+        "intensity": 3,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      },
+      {
+        "family": "Recruitment",
+        "intensity": 2,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      }
+    ],
+    "ve_related": true,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-28",
+    "detection_timestamp": "2026-10-28T15:34:52.882221+00:00",
+    "last_seen": "2026-10-28",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-28",
+        "url": "https://x.com/CirkaNews/status/1934975949189382447",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 2 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Pro-Turkish analysts including Umut Çağrı Sarı and Manjaniq Media are echoing ISIS propaganda",
+      "Turkish geopolitical commentary portrays Puntland counterterrorism operations in ways aligned with ISIS messaging"
+    ],
+    "_review_notes": "This is meta-disinformation (accusation that others spread ISIS propaganda) rather than direct false claims. Event reflects information warfare between rival geopolitical factions regarding Somalia policy. Threat justifiably HIGH due to terrorism-linkage accusations and potential escalation.",
+    "_reviewed": "2026-10-28T15:35:11.047479+00:00"
+  },
+  {
+    "id": "APF-2026-10-28-012",
+    "date": "2026-10-28",
+    "country": "Somalia",
+    "event_type": "DISINFO",
+    "disinfo_subtype": "deepfake",
+    "threat_level": "P2 HIGH",
+    "headline": "The discovery of AI-generated faces inside the preliminary voter register strikes at the absolute core of electoral",
+    "summary": "Account @A_offor is spreading claims that AI-generated faces have been discovered in Somalia's preliminary voter register, presenting this as evidence of electoral fraud and institutional failure. This disinformation directly undermines electoral legitimacy and public confidence in democratic processes during a sensitive period, with potential to incite civil unrest.",
+    "actors": [
+      "@A_offor"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/A_offor/status/2115465706376474884",
+        "date": "2026-10-28"
+      }
+    ],
+    "spread": 1,
+    "disinfo_narratives": [
+      "NAR-SO-009",
+      "NAR-SO-005"
+    ],
+    "related_events": [
+      "APF-2026-10-14-248",
+      "APF-2026-10-15-352",
+      "APF-2026-10-19-690",
+      "APF-2026-10-21-672",
+      "APF-2026-10-22-336",
+      "APF-2026-10-27-197"
+    ],
+    "disinfo_confidence": "MEDIUM",
+    "disinfo_justification": "Deepfake/fabricated media indicators in East Africa context: ai-generated.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "pattern_match",
+    "narrative_families": [
+      {
+        "family": "Misinformation/Disinformation",
+        "intensity": 4,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      }
+    ],
+    "ve_related": false,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-28",
+    "detection_timestamp": "2026-10-28T15:34:52.882221+00:00",
+    "last_seen": "2026-10-28",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-28",
+        "url": "https://x.com/A_offor/status/2115465706376474884",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_original_summary": "The discovery of AI-generated faces inside the preliminary voter register strikes at the absolute core of electoral integrity. In a functioning system where public trust is treated as sacred, an institutional blunder of this magnitude would trigger i.",
+    "extracted_claims": [
+      "AI-generated faces have been discovered inside Somalia's preliminary voter register",
+      "The discovery of AI-generated faces in the voter register represents a catastrophic institutional failure and threat to electoral integrity"
+    ],
+    "_review_notes": "High-impact electoral disinformation with specific technical claims designed to be difficult to verify/refute. Threat escalated to P2 due to direct attack on electoral legitimacy during politically sensitive period and potential to trigger civil conflict. Narratives NAR-SO-009 and NAR-SO-005 suggest established pattern tracking.",
+    "_reviewed": "2026-10-28T15:35:11.047484+00:00"
   }
 ]
