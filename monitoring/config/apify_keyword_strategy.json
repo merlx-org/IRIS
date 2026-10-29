@@ -1913,6 +1913,16 @@
           "status": "proposed",
           "hits": 0,
           "rotations_run": 0
+        },
+        {
+          "keyword": "puntland counterterrorism narratives",
+          "country": "South Sudan",
+          "source": "event_review_extraction",
+          "reason": "Subject of alleged distortion by pro-Turkish sources",
+          "date_added": "2026-10-29",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
         }
       ]
     },

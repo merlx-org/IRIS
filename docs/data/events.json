@@ -51076,7 +51076,7 @@
     "detected_by": "iris_classify_2026-09-29",
     "detection_timestamp": "2026-09-29T15:11:53.570156+00:00",
     "last_seen": "2026-09-29",
-    "status": "active",
+    "status": "dormant",
     "observations": [
       {
         "date": "2026-09-29",
@@ -54340,5 +54340,91 @@
     ],
     "_review_notes": "High-impact electoral disinformation with specific technical claims designed to be difficult to verify/refute. Threat escalated to P2 due to direct attack on electoral legitimacy during politically sensitive period and potential to trigger civil conflict. Narratives NAR-SO-009 and NAR-SO-005 suggest established pattern tracking.",
     "_reviewed": "2026-10-28T15:35:11.047484+00:00"
+  },
+  {
+    "id": "APF-2026-10-29-608",
+    "date": "2026-10-29",
+    "country": "South Sudan",
+    "event_type": "CONTEXT",
+    "disinfo_subtype": "propaganda",
+    "threat_level": "P3 MODERATE",
+    "headline": "Analysis claims Turkish geopolitical commentator echoes ISIS propaganda narratives on Puntland counterterrorism",
+    "summary": "An analytical post on X compares narratives by Turkish geopolitical commentator Umut Çağrı Sarı and Manjaniq Media to ISIS propaganda, claiming they distort Puntland's counterterrorism efforts. The claim appears in 2 posts from accounts @R47910409 and @CirkaNews, but lacks evidence of coordinated disinformation campaigns or false claims being actively spread—rather, it is commentary analyzing alleged narrative parallels.",
+    "actors": [
+      "@R47910409",
+      "@CirkaNews"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/CirkaNews/status/1934975949189382447",
+        "date": "2026-10-29"
+      }
+    ],
+    "spread": 2,
+    "disinfo_narratives": [
+      "NAR-SO-004"
+    ],
+    "related_events": [
+      "APF-2026-07-21-896",
+      "APF-2026-09-23-865",
+      "APF-2026-10-15-139",
+      "APF-2026-10-19-703",
+      "APF-2026-10-23-696",
+      "APF-2026-10-28-415"
+    ],
+    "disinfo_confidence": "HIGH",
+    "disinfo_justification": "Content references designated VE propaganda outlet 'manjaniq media'; all output is definitionally VE propaganda.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "confirmed",
+    "narrative_families": [
+      {
+        "family": "Attack Claim",
+        "intensity": 3,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      },
+      {
+        "family": "Recruitment",
+        "intensity": 2,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      }
+    ],
+    "ve_related": true,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-29",
+    "detection_timestamp": "2026-10-29T15:41:54.832199+00:00",
+    "last_seen": "2026-10-29",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-29",
+        "url": "https://x.com/CirkaNews/status/1934975949189382447",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. Observed across 2 posts from 2 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda regarding Puntland counterterrorism narratives"
+    ],
+    "_review_notes": "This event describes analytical commentary ABOUT alleged propaganda rather than the false claims themselves. The headline sensationalizes detection mechanics (comparison analysis) rather than specifying what false claim is being spread. Threat level overstated for what appears to be critical analysis rather than active disinformation campaign; requires verification of underlying claims before escalation.",
+    "_reviewed": "2026-10-29T15:42:04.929184+00:00"
   }
 ]

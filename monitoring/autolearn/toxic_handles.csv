@@ -47,6 +47,7 @@ handle,platform,country,first_seen,last_seen,flags
 @AbdikadarM53300,x,Kenya,2026-03-30,2026-03-30,2
 @Abdikarindahirr,x,Somalia,2026-06-16,2026-06-16,4
 @Abdinas19256781,x,Somalia,2026-07-06,2026-07-06,2
+@AbdisalamSharf,x,Somalia,2026-10-29,2026-10-29,5
 @AbdisatarGelle,x,Somalia,2026-06-20,2026-06-20,3
 @Abdul_Wahhabx,x,South Sudan,2026-07-05,2026-07-05,2
 @Abdulka97752059,x,Somalia,2026-05-16,2026-06-27,5
@@ -159,6 +160,7 @@ handle,platform,country,first_seen,last_seen,flags
 @AtifUrRehmoo3t,x,South Sudan,2026-08-10,2026-08-10,2
 @Ato_galbeedi,x,Somalia,2026-03-28,2026-03-28,4
 @AtobateleT60117,x,South Sudan,2026-07-13,2026-07-13,2
+@Atosian_2020,x,Somalia,2026-10-29,2026-10-29,3
 @AtoyebiPaulB,x,South Sudan,2026-06-10,2026-06-10,2
 @AugustinGithaka,x,South Sudan,2026-08-07,2026-08-07,3
 @AusEmbET,x,South Sudan,2026-07-03,2026-07-03,2
@@ -240,7 +242,7 @@ handle,platform,country,first_seen,last_seen,flags
 @CSBeatriceMoe,x,South Sudan,2026-08-03,2026-08-03,3
 @C_3C_3,x,South Sudan,2026-06-29,2026-06-29,4
 @C_NyaKundiH,x,Kenya,2026-06-11,2026-06-24,14
-@Caasimadda,x,Somalia,2026-08-18,2026-10-26,68
+@Caasimadda,x,Somalia,2026-08-18,2026-10-29,75
 @Cabdalleaxmed,x,South Sudan,2026-06-23,2026-08-17,5
 @CabdulfataaxD,x,Somalia,2026-06-20,2026-06-23,4
 @CagedSings,x,South Sudan,2026-04-18,2026-04-18,8
@@ -324,7 +326,7 @@ handle,platform,country,first_seen,last_seen,flags
 @DavidNdii,x,Somalia,2026-06-16,2026-06-16,3
 @DavidNyuol,x,South Sudan,2026-07-22,2026-07-22,2
 @DavidYambio,x,South Sudan,2026-04-19,2026-04-19,2
-@DavisDavis25415,x,Kenya,2026-10-21,2026-10-21,2
+@DavisDavis25415,x,Somalia,2026-10-21,2026-10-29,4
 @Davud_Akh,x,South Sudan,2026-06-17,2026-06-20,8
 @Dawan_tv,x,Somalia,2026-09-16,2026-10-26,13
 @DeHealthguide,x,South Sudan,2026-08-05,2026-08-05,3
@@ -600,7 +602,7 @@ handle,platform,country,first_seen,last_seen,flags
 @JamesLokwale,x,South Sudan,2026-07-27,2026-08-11,11
 @JamesPGoddard90,x,Somalia,2026-06-21,2026-06-21,2
 @JamiiForums_KE,x,Kenya,2026-03-19,2026-10-26,5
-@Janetmw25,x,Kenya,2026-05-22,2026-09-29,26
+@Janetmw25,x,Kenya,2026-05-22,2026-10-29,29
 @Jannaay1,x,Somalia,2026-09-07,2026-09-07,5
 @JaphethOtieno01,x,Kenya,2026-06-24,2026-06-24,2
 @JayBootz,x,Somalia,2026-09-16,2026-09-16,2
@@ -940,8 +942,8 @@ handle,platform,country,first_seen,last_seen,flags
 @MwangiisMuthui,x,Kenya,2026-10-20,2026-10-20,2
 @MwangiwAcanopy,x,Kenya,2026-10-26,2026-10-26,2
 @Mwansa3Rodgers,x,South Sudan,2026-06-27,2026-06-27,3
-@MwanzoTv,x,Kenya,2026-07-03,2026-10-11,7
-@MwanzoTvPlus,x,Kenya,2026-08-14,2026-10-27,10
+@MwanzoTv,x,Kenya,2026-07-03,2026-10-29,13
+@MwanzoTvPlus,x,Kenya,2026-08-14,2026-10-29,12
 @Mwawasi__,x,Kenya,2026-08-24,2026-08-24,2
 @MweneMuganga,x,South Sudan,2026-07-21,2026-07-21,2
 @Mwiki_,x,Kenya,2026-08-21,2026-08-30,7
@@ -972,7 +974,7 @@ handle,platform,country,first_seen,last_seen,flags
 @NatCon2022,x,South Sudan,2026-07-10,2026-07-10,2
 @NateOls92341004,x,Somalia,2026-06-23,2026-06-23,2
 @Nate_Jone,x,South Sudan,2026-04-16,2026-04-26,4
-@NationAfrica,x,Kenya,2026-04-16,2026-10-13,19
+@NationAfrica,x,Kenya,2026-04-16,2026-10-29,21
 @Nbanz_612,x,Somalia,2026-05-28,2026-05-28,2
 @Nbswestniletv,x,South Sudan,2026-09-23,2026-09-23,2
 @NeicyWoo20,x,South Sudan,2026-07-26,2026-07-26,3
@@ -1110,11 +1112,12 @@ handle,platform,country,first_seen,last_seen,flags
 @RadioCitizenFM,x,Kenya,2026-08-07,2026-08-07,2
 @RadioGenKe,x,Kenya,2026-04-24,2026-10-25,17
 @RadioJamboKenya,x,Kenya,2026-09-10,2026-09-10,2
+@RadioKaya,x,Kenya,2026-10-29,2026-10-29,2
 @RadioMiraya,x,South Sudan,2026-04-17,2026-07-31,15
 @RadioMuqdisho,x,Somalia,2026-06-25,2026-06-25,3
 @RadioOneSS,x,South Sudan,2026-08-13,2026-08-13,2
 @RadioTaifaFM,x,Kenya,2026-09-07,2026-09-07,2
-@RadioTamazuj,x,South Sudan,2026-04-17,2026-09-21,13
+@RadioTamazuj,x,South Sudan,2026-04-17,2026-10-29,15
 @Rahmasaafi,x,Somalia,2026-05-31,2026-10-24,22
 @Rainmaker1973,x,South Sudan,2026-06-24,2026-06-24,2
 @RakotiKeme,x,South Sudan,2026-07-25,2026-07-25,3
@@ -1125,7 +1128,7 @@ handle,platform,country,first_seen,last_seen,flags
 @ReSikwe,x,Kenya,2026-10-19,2026-10-19,3
 @RealAbyan,x,Somalia,2026-08-19,2026-08-19,2
 @RealMatiangi,x,Kenya,2026-06-24,2026-06-24,2
-@RealRottieMom,x,Somalia,2026-10-04,2026-10-22,30
+@RealRottieMom,x,Somalia,2026-10-04,2026-10-29,34
 @Real_RobN,x,Somalia,2026-06-16,2026-06-22,10
 @Realkangethe,x,Kenya,2026-04-20,2026-06-25,29
 @ReallyNowBro,x,South Sudan,2026-08-03,2026-08-03,2
@@ -1283,6 +1286,7 @@ handle,platform,country,first_seen,last_seen,flags
 @StimsonCenter,x,South Sudan,2026-07-13,2026-07-13,2
 @SuChit42701020,x,South Sudan,2026-05-23,2026-05-23,2
 @Suaadomer1,x,Somalia,2026-07-24,2026-10-03,4
+@Suarndo,x,Kenya,2026-10-29,2026-10-29,4
 @SudanHorizon,x,South Sudan,2026-07-13,2026-08-10,6
 @SudanTribune_EN,x,South Sudan,2026-07-14,2026-08-08,10
 @Sudan_tweet,x,South Sudan,2026-07-09,2026-07-09,3
@@ -1674,6 +1678,7 @@ handle,platform,country,first_seen,last_seen,flags
 @data_globe,x,South Sudan,2026-07-29,2026-07-29,2
 @davewst,x,Somalia,2026-05-18,2026-06-05,4
 @david_kollal,x,Kenya,2026-04-26,2026-04-26,2
+@daweed_004,x,Kenya,2026-10-29,2026-10-29,3
 @de_journo,x,South Sudan,2026-08-03,2026-08-03,4
 @deejaykalz_,x,South Sudan,2026-07-09,2026-07-09,2
 @deepstate_So,x,Somalia,2026-10-27,2026-10-27,2
@@ -1690,7 +1695,7 @@ handle,platform,country,first_seen,last_seen,flags
 @drmayadakamal2,x,South Sudan,2026-04-21,2026-04-21,2
 @dropdalot,x,Kenya,2026-09-17,2026-09-17,2
 @duncangutse,x,South Sudan,2026-07-19,2026-07-19,3
-@dunia_work,x,Somalia,2026-08-01,2026-10-21,13
+@dunia_work,x,Somalia,2026-08-01,2026-10-29,16
 @duotkuerduot,x,South Sudan,2026-08-08,2026-08-08,3
 @eajene,x,South Sudan,2026-06-27,2026-06-27,2
 @east_facts,x,South Sudan,2026-08-03,2026-08-03,2
@@ -1725,7 +1730,7 @@ handle,platform,country,first_seen,last_seen,flags
 @feltafrica,x,South Sudan,2026-08-11,2026-08-11,3
 @ferozwala,x,South Sudan,2026-09-27,2026-09-27,2
 @filsanfilsan,x,Somalia,2026-06-22,2026-06-22,3
-@firewatchbot,x,South Sudan,2026-10-15,2026-10-26,9
+@firewatchbot,x,South Sudan,2026-10-15,2026-10-29,12
 @fkeyamo,x,Kenya,2026-06-20,2026-06-20,3
 @fokusplusafrika,x,Somalia,2026-06-21,2026-06-21,2
 @francoboca,x,Kenya,2026-09-02,2026-09-02,3
@@ -2087,6 +2092,7 @@ handle,platform,country,first_seen,last_seen,flags
 @rheytah,x,South Sudan,2026-04-28,2026-04-28,2
 @riek_madit9,x,South Sudan,2026-06-23,2026-06-23,2
 @rigathi,x,Kenya,2026-06-12,2026-07-27,21
+@rilllyu23,x,Somalia,2026-10-29,2026-10-29,3
 @rkmtimes,x,South Sudan,2026-07-06,2026-07-06,2
 @rnovak1988,x,South Sudan,2026-06-30,2026-06-30,2
 @ross_willi56408,x,South Sudan,2026-07-07,2026-07-07,2
@@ -2164,7 +2170,7 @@ handle,platform,country,first_seen,last_seen,flags
 @sudanmixtv,x,South Sudan,2026-10-01,2026-10-01,2
 @supernova_ken,x,Kenya,2026-07-06,2026-07-06,2
 @survivalAlerts,x,Somalia,2026-04-20,2026-04-20,6
-@swahilitimes,x,Kenya,2026-05-28,2026-10-26,526
+@swahilitimes,x,Kenya,2026-05-28,2026-10-29,533
 @sweetaaliya,x,Somalia,2026-06-26,2026-07-03,18
 @sweynglaze,x,Somalia,2026-04-25,2026-04-25,3
 @switchtvkenya,x,Kenya,2026-10-09,2026-10-09,3
@@ -2244,7 +2250,7 @@ handle,platform,country,first_seen,last_seen,flags
 @wakeupfudhi,x,Kenya,2026-08-12,2026-08-12,2
 @wakimuyu,x,Kenya,2026-04-24,2026-04-26,8
 @waksvegas,x,Kenya,2026-10-06,2026-10-06,3
-@wambokamaa,x,Kenya,2026-03-24,2026-10-22,22
+@wambokamaa,x,Kenya,2026-03-24,2026-10-29,24
 @wanasiy,x,Somalia,2026-08-16,2026-08-16,2
 @wanguiwambeca,x,Kenya,2026-08-11,2026-08-11,4
 @wanguwamajani,x,Kenya,2026-04-22,2026-06-03,8
@@ -2270,7 +2276,7 @@ handle,platform,country,first_seen,last_seen,flags
 @xbongo4,x,South Sudan,2026-07-21,2026-07-21,2
 @xidigyaal,x,Somalia,2026-07-13,2026-07-19,10
 @xlov33,x,Somalia,2026-03-26,2026-10-26,58
-@xoogagga,x,Somalia,2026-04-22,2026-10-06,53
+@xoogagga,x,Somalia,2026-04-22,2026-10-29,56
 @xxx_kingahmed,x,Somalia,2026-05-30,2026-05-30,2
 @yNews_digital,x,Kenya,2026-09-22,2026-09-22,2
 @ya5inoo,x,Somalia,2026-06-05,2026-06-05,2

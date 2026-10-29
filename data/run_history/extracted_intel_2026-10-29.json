@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-29",
+  "extracted_claims": [
+    {
+      "claim": "Pro-Turkish analysts are echoing ISIS propaganda regarding Puntland counterterrorism narratives",
+      "country": "South Sudan",
+      "actors": [
+        "Umut \u00c7a\u011fr\u0131 Sar\u0131",
+        "Manjaniq Media",
+        "@R47910409",
+        "@CirkaNews"
+      ],
+      "keywords": [
+        "Turkish geopolitical commentary",
+        "ISIS propaganda",
+        "Puntland counterterrorism"
+      ]
+    }
+  ],
+  "proposed_keywords": [
+    {
+      "keyword": "Umut \u00c7a\u011fr\u0131 Sar\u0131",
+      "country": "Regional",
+      "reason": "Turkish commentator allegedly spreading propaganda narratives about East African security"
+    },
+    {
+      "keyword": "Manjaniq Media propaganda",
+      "country": "Regional",
+      "reason": "Media outlet linked to alleged ISIS narrative amplification in Horn of Africa context"
+    },
+    {
+      "keyword": "Puntland counterterrorism narratives",
+      "country": "South Sudan",
+      "reason": "Subject of alleged distortion by pro-Turkish sources"
+    }
+  ],
+  "events_reviewed": 1,
+  "events_reclassified": 1
+}
