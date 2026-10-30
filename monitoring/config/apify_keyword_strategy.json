@@ -1923,6 +1923,36 @@
           "status": "proposed",
           "hits": 0,
           "rotations_run": 0
+        },
+        {
+          "keyword": "pro-turkish analysts isis",
+          "country": "South Sudan",
+          "source": "event_review_extraction",
+          "reason": "Core disinformation narrative conflating geopolitical analysis with extremism",
+          "date_added": "2026-10-30",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "umut \u00e7a\u011fr\u0131 sar\u0131 propaganda",
+          "country": "Regional",
+          "source": "event_review_extraction",
+          "reason": "Personal targeting campaign against Turkish commentator",
+          "date_added": "2026-10-30",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "puntland turkish analysis",
+          "country": "South Sudan",
+          "source": "event_review_extraction",
+          "reason": "Regional security narrative being weaponized",
+          "date_added": "2026-10-30",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
         }
       ]
     },

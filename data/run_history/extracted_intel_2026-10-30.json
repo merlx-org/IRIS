@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-30",
+  "extracted_claims": [
+    {
+      "claim": "Pro-Turkish analysts are echoing ISIS propaganda",
+      "country": "South Sudan",
+      "actors": [
+        "@CirkaNews",
+        "@R47910409",
+        "@AbouzgidenAli",
+        "Umut \u00c7a\u011fr\u0131 Sar\u0131"
+      ],
+      "keywords": [
+        "pro-Turkish analysts",
+        "ISIS propaganda",
+        "Puntland counterterror",
+        "Manjaniq Media"
+      ]
+    },
+    {
+      "claim": "Turkish geopolitical commentator Umut \u00c7a\u011fr\u0131 Sar\u0131 mirrors extremist talking points on Puntland counterterrorism",
+      "country": "Regional",
+      "actors": [
+        "Umut \u00c7a\u011fr\u0131 Sar\u0131"
+      ],
+      "keywords": [
+        "Turkish commentary",
+        "Puntland",
+        "counterterrorism narratives"
+      ]
+    }
+  ],
+  "proposed_keywords": [
+    {
+      "keyword": "pro-Turkish analysts ISIS",
+      "country": "South Sudan",
+      "reason": "Core disinformation narrative conflating geopolitical analysis with extremism"
+    },
+    {
+      "keyword": "Umut \u00c7a\u011fr\u0131 Sar\u0131 propaganda",
+      "country": "Regional",
+      "reason": "Personal targeting campaign against Turkish commentator"
+    },
+    {
+      "keyword": "Puntland Turkish analysis",
+      "country": "South Sudan",
+      "reason": "Regional security narrative being weaponized"
+    }
+  ],
+  "events_reviewed": 2,
+  "events_reclassified": 1
+}

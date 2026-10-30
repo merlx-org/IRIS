@@ -30270,7 +30270,11 @@
       "@MayerGideon",
       "@BuildersCK",
       "@Thabo1186",
-      "@Olemashadda"
+      "@Olemashadda",
+      "@wiloeastafrica",
+      "@Belugawashere",
+      "@InfinitelyDean",
+      "@__Hakeem_"
     ],
     "platforms": [
       "X (Twitter)"
@@ -30445,6 +30449,11 @@
         "publisher": "MERLx Social Media Monitoring — Direct content observation",
         "url": "https://x.com/NaekuMercy/status/1882026623681323304",
         "date": "2026-10-17"
+      },
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/wiloeastafrica/status/2114960337166324137",
+        "date": "2026-10-30"
       }
     ],
     "spread": 5,
@@ -30488,7 +30497,7 @@
     "data_source": "social_media_monitoring",
     "detected_by": "iris_classify_2026-03-23",
     "detection_timestamp": "2026-03-23T07:28:25.223688+00:00",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-30",
     "status": "active",
     "observations": [
       {
@@ -30796,9 +30805,18 @@
           "X (Twitter)"
         ],
         "reach": {}
+      },
+      {
+        "date": "2026-10-30",
+        "url": "https://x.com/wiloeastafrica/status/2114960337166324137",
+        "summary": "Mweemba, if you do not fully follow Canary Compass, you miss necessary context. Thou doth protest too much, me thinks.",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
       }
     ],
-    "observation_count": 34,
+    "observation_count": 35,
     "_original_headline": "Image: 's 🇰🇪 former DP Gachagua  in trouble as -  BBS Mall  owners petition NCIC  over 's 🇺🇸-  fraud claims. Video: 's",
     "_original_summary": "Image: 's 🇰🇪 former DP Gachagua  in trouble as -  BBS Mall  owners petition NCIC  over 's 🇺🇸-  fraud claims. Video: 's 🇰🇪 former DP Gachagua  under fire over  - 's BBS Mall  remarks. (top L&R). Image and Video: 'Drought situation in 's 🇰🇪-  County  \". 7 near-identical posts from 6 accounts suggest coordinated amplification.",
     "extracted_claims": [
@@ -45508,7 +45526,7 @@
     "detected_by": "iris_classify_2026-08-01",
     "detection_timestamp": "2026-08-01T10:26:01.307727+00:00",
     "last_seen": "2026-08-01",
-    "status": "dormant",
+    "status": "resolved",
     "observations": [
       {
         "date": "2026-08-01",
@@ -54426,5 +54444,174 @@
     ],
     "_review_notes": "This event describes analytical commentary ABOUT alleged propaganda rather than the false claims themselves. The headline sensationalizes detection mechanics (comparison analysis) rather than specifying what false claim is being spread. Threat level overstated for what appears to be critical analysis rather than active disinformation campaign; requires verification of underlying claims before escalation.",
     "_reviewed": "2026-10-29T15:42:04.929184+00:00"
+  },
+  {
+    "id": "APF-2026-10-30-817",
+    "date": "2026-10-30",
+    "country": "Kenya",
+    "event_type": "CONTEXT",
+    "disinfo_subtype": "misinformation",
+    "threat_level": "P3 MODERATE",
+    "headline": "TECNOMobile254 store locator responses flagged as potential coordinated amplification",
+    "summary": "Three near-identical posts from @TECNOMobile254 containing identical store location information were detected across X, suggesting possible coordinated amplification. However, the content itself appears to be legitimate business information (store addresses in Nairobi) rather than false claims, making this a detection of amplification mechanics rather than disinformation substance.",
+    "actors": [
+      "@TECNOMobile254"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/TECNOMobile254/status/2116154188589637806",
+        "date": "2026-10-30"
+      }
+    ],
+    "spread": 3,
+    "disinfo_narratives": [
+      "NAR-KE-002",
+      "NAR-KE-004"
+    ],
+    "related_events": [
+      "APF-2026-03-23-308",
+      "APF-2026-05-17-956",
+      "APF-2026-05-18-940",
+      "APF-2026-05-25-078",
+      "APF-2026-05-31-170",
+      "APF-2026-06-06-750"
+    ],
+    "disinfo_confidence": "HIGH",
+    "disinfo_justification": "False ethnic claim indicators: bbs mall. Contains verifiably false factual assertions in Kenya context.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "confirmed",
+    "narrative_families": [
+      {
+        "family": "Ethnic Incitement",
+        "intensity": 3,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      },
+      {
+        "family": "Misinformation/Disinformation",
+        "intensity": 3,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      }
+    ],
+    "ve_related": false,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-30",
+    "detection_timestamp": "2026-10-30T15:27:49.580267+00:00",
+    "last_seen": "2026-10-30",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-30",
+        "url": "https://x.com/TECNOMobile254/status/2116154188589637806",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Hi, thank you for reaching out! Our stores are located at: · Mama Ngina Street · Ropem, Moi Avenue · KTDA Galectro All",
+    "_original_summary": "Hi, thank you for reaching out! Our stores are located at: · Mama Ngina Street · Ropem, Moi Avenue · KTDA Galectro All in Nairobi CBD, as well as at Sarit Centre, Two Rivers, Garden City, and BBS Mall. You're also welcome to visit any authorized Tecn. 3 near-identical posts from 1 accounts suggest coordinated amplification.",
+    "_review_notes": "This event is misflagged as DISINFO. The content is legitimate business information (store locations), not false claims. The 'coordinated amplification' detected is detection mechanics, not the substance. Should be reclassified as CONTEXT (detection report) or deprioritized if monitoring for false claims specifically.",
+    "_reviewed": "2026-10-30T15:28:01.599938+00:00"
+  },
+  {
+    "id": "APF-2026-10-30-235",
+    "date": "2026-10-30",
+    "country": "South Sudan",
+    "event_type": "DISINFO",
+    "disinfo_subtype": "propaganda",
+    "threat_level": "P2 HIGH",
+    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "summary": "A coordinated disinformation campaign across three X accounts (@CirkaNews, @R47910409, @AbouzgidenAli) falsely equates pro-Turkish analyst Umut Çağrı Sarı with ISIS propaganda narratives. The claim conflates Turkish geopolitical commentary on Puntland counterterrorism with extremist messaging to discredit regional security analysis.",
+    "actors": [
+      "@CirkaNews",
+      "@R47910409",
+      "@AbouzgidenAli"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/CirkaNews/status/1934975949189382447",
+        "date": "2026-10-30"
+      }
+    ],
+    "spread": 3,
+    "disinfo_narratives": [
+      "NAR-SO-004"
+    ],
+    "related_events": [
+      "APF-2026-07-21-896",
+      "APF-2026-07-27-913",
+      "APF-2026-09-23-865",
+      "APF-2026-10-23-696",
+      "APF-2026-10-28-415",
+      "APF-2026-10-29-608"
+    ],
+    "disinfo_confidence": "HIGH",
+    "disinfo_justification": "Content references designated VE propaganda outlet 'manjaniq media'; all output is definitionally VE propaganda.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "confirmed",
+    "narrative_families": [
+      {
+        "family": "Attack Claim",
+        "intensity": 3,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      },
+      {
+        "family": "Recruitment",
+        "intensity": 2,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      }
+    ],
+    "ve_related": true,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-30",
+    "detection_timestamp": "2026-10-30T15:27:49.580267+00:00",
+    "last_seen": "2026-10-30",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-30",
+        "url": "https://x.com/CirkaNews/status/1934975949189382447",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror. 3 near-identical posts from 3 accounts suggest coordinated amplification.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda",
+      "Turkish geopolitical commentator Umut Çağrı Sarı mirrors extremist talking points on Puntland counterterrorism"
+    ],
+    "_review_notes": "Coordinated campaign targeting Turkish regional analysts by falsely associating legitimate geopolitical commentary with extremist messaging. This is a known delegitimization tactic in East African information warfare, likely designed to discredit external commentary on Puntland/Somalia security dynamics.",
+    "_reviewed": "2026-10-30T15:28:01.599988+00:00"
   }
 ]
