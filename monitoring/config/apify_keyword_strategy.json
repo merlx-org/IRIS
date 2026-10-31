@@ -1953,6 +1953,56 @@
           "status": "proposed",
           "hits": 0,
           "rotations_run": 0
+        },
+        {
+          "keyword": "peggy soros somalia",
+          "country": "Somalia",
+          "source": "event_review_extraction",
+          "reason": "Identifies specific conspiracy narrative targeting Somali actors and Western elites",
+          "date_added": "2026-10-31",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "unhinged lunatic somali",
+          "country": "Somalia",
+          "source": "event_review_extraction",
+          "reason": "Tracks dehumanizing language combined with Somali targeting",
+          "date_added": "2026-10-31",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "tecno mobile kenya bot networks",
+          "country": "Kenya",
+          "source": "event_review_extraction",
+          "reason": "Monitor for potential bot amplification of commercial accounts",
+          "date_added": "2026-10-31",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "turkish analysts isis propaganda somalia",
+          "country": "Somalia",
+          "source": "event_review_extraction",
+          "reason": "Tracks false equivalence between geopolitical analysis and terrorism support",
+          "date_added": "2026-10-31",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
+        },
+        {
+          "keyword": "umut \u00e7a\u011fr\u0131 sar\u0131 puntland",
+          "country": "Somalia",
+          "source": "event_review_extraction",
+          "reason": "Monitor specific individual targeted in accusations of extremist alignment",
+          "date_added": "2026-10-31",
+          "status": "proposed",
+          "hits": 0,
+          "rotations_run": 0
         }
       ]
     },

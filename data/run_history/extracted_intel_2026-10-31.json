@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-31",
+  "extracted_claims": [
+    {
+      "claim": "Political figure 'Peggy' is controlled by Somali, Obama, Hillary Clinton, and Soros interests",
+      "country": "Somalia",
+      "actors": [
+        "@HamiltonAnais"
+      ],
+      "keywords": [
+        "Peggy conspiracy",
+        "Soros control narrative",
+        "Somali puppet narrative"
+      ]
+    },
+    {
+      "claim": "Somali Muslim associates engage in massive unreported fraud",
+      "country": "Somalia",
+      "actors": [
+        "@HamiltonAnais"
+      ],
+      "keywords": [
+        "Somali fraud",
+        "Muslim corruption narrative"
+      ]
+    },
+    {
+      "claim": "Pro-Turkish analysts are echoing ISIS propaganda narratives",
+      "country": "Somalia",
+      "actors": [
+        "@CirkaNews",
+        "Umut \u00c7a\u011fr\u0131 Sar\u0131",
+        "Manjaniq Media"
+      ],
+      "keywords": [
+        "Turkish ISIS propaganda",
+        "Puntland counterterror"
+      ]
+    },
+    {
+      "claim": "Analysts portraying Puntland counterterrorism as extremist are aligned with terrorist ideologies",
+      "country": "Somalia",
+      "actors": [
+        "@CirkaNews"
+      ],
+      "keywords": [
+        "Puntland security",
+        "extremist alignment"
+      ]
+    },
+    {
+      "claim": "An individual justified massacres of Congolese populations by invoking Rwanda's sovereignty defense",
+      "country": "South Sudan",
+      "actors": [
+        "@bettyMuzalendo"
+      ],
+      "keywords": [
+        "Rwanda war crimes",
+        "Congolese massacre",
+        "sovereignty abuse"
+      ]
+    },
+    {
+      "claim": "Specific (unnamed) individual is a war criminal",
+      "country": "South Sudan",
+      "actors": [
+        "@bettyMuzalendo"
+      ],
+      "keywords": [
+        "Rwanda war criminal",
+        "genocide denial"
+      ]
+    }
+  ],
+  "proposed_keywords": [
+    {
+      "keyword": "Peggy Soros Somalia",
+      "country": "Somalia",
+      "reason": "Identifies specific conspiracy narrative targeting Somali actors and Western elites"
+    },
+    {
+      "keyword": "unhinged lunatic Somali",
+      "country": "Somalia",
+      "reason": "Tracks dehumanizing language combined with Somali targeting"
+    },
+    {
+      "keyword": "TECNO Mobile Kenya bot networks",
+      "country": "Kenya",
+      "reason": "Monitor for potential bot amplification of commercial accounts"
+    },
+    {
+      "keyword": "Turkish analysts ISIS propaganda Somalia",
+      "country": "Somalia",
+      "reason": "Tracks false equivalence between geopolitical analysis and terrorism support"
+    },
+    {
+      "keyword": "Umut \u00c7a\u011fr\u0131 Sar\u0131 Puntland",
+      "country": "Somalia",
+      "reason": "Monitor specific individual targeted in accusations of extremist alignment"
+    },
+    {
+      "keyword": "Manjaniq Media extremism",
+      "country": "Somalia",
+      "reason": "Track narratives falsely linking media outlets to terrorist content"
+    },
+    {
+      "keyword": "Rwanda sovereignty Congolese massacre narrative",
+      "country": "South Sudan",
+      "reason": "Track regional conflict narratives misattributing war crimes to sovereignty claims"
+    }
+  ],
+  "events_reviewed": 4,
+  "events_reclassified": 2
+}

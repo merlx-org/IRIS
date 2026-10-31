@@ -45854,7 +45854,7 @@
     "detected_by": "iris_classify_2026-08-02",
     "detection_timestamp": "2026-08-02T10:30:24.358921+00:00",
     "last_seen": "2026-08-02",
-    "status": "dormant",
+    "status": "resolved",
     "observations": [
       {
         "date": "2026-08-02",
@@ -54613,5 +54613,335 @@
     ],
     "_review_notes": "Coordinated campaign targeting Turkish regional analysts by falsely associating legitimate geopolitical commentary with extremist messaging. This is a known delegitimization tactic in East African information warfare, likely designed to discredit external commentary on Puntland/Somalia security dynamics.",
     "_reviewed": "2026-10-30T15:28:01.599988+00:00"
+  },
+  {
+    "id": "APF-2026-10-31-848",
+    "date": "2026-10-31",
+    "country": "Somalia",
+    "event_type": "DISINFO",
+    "disinfo_subtype": "coordinated_campaign",
+    "threat_level": "P2 HIGH",
+    "headline": "Claims political figure 'Peggy' is controlled by Somali, Obama, Hillary and Soros interests",
+    "summary": "User @HamiltonAnais spreads conspiracy theories claiming an unnamed political figure ('Peggy') is mentally unstable and controlled by Somali interests, Obama, Hillary Clinton, and George Soros. The narrative conflates anti-Muslim tropes with Western conspiracy theories targeting major political figures. Posted across 2 X accounts with medium confidence.",
+    "actors": [
+      "@HamiltonAnais"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/HamiltonAnais/status/2116543245400334773",
+        "date": "2026-10-31"
+      }
+    ],
+    "spread": 2,
+    "disinfo_narratives": [
+      "NAR-SO-009",
+      "NAR-KE-003b",
+      "NAR-KE-003a",
+      "NAR-SO-005"
+    ],
+    "related_events": [
+      "APF-2026-04-23-676",
+      "APF-2026-04-27-242",
+      "APF-2026-04-30-393",
+      "APF-2026-07-08-746",
+      "APF-2026-09-29-077",
+      "APF-2026-10-27-197"
+    ],
+    "disinfo_confidence": "MEDIUM",
+    "disinfo_justification": "Single troll network indicator: 'soros'. Insufficient evidence for high confidence.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "pattern_match",
+    "narrative_families": [],
+    "ve_related": false,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-31",
+    "detection_timestamp": "2026-10-31T14:53:37.042968+00:00",
+    "last_seen": "2026-10-31",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-31",
+        "url": "https://x.com/HamiltonAnais/status/2116543245400334773",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_original_headline": "Folks, don’t be fooled. Peggy is an unhinged lunatic whose masters are Somalies, followed by Obama, Hillary and Soros.",
+    "_original_summary": "Folks, don’t be fooled. Peggy is an unhinged lunatic whose masters are Somalies, followed by Obama, Hillary and Soros. She isn’t listening to anything you have to say. Otherwise, she would’ve reported massive fraud committed by her Somali Muslim budd. Observed across 2 posts from 1 accounts on X (Twitter).",
+    "extracted_claims": [
+      "Political figure 'Peggy' is controlled by Somali, Obama, Hillary Clinton, and Soros interests",
+      "Somali Muslim associates engage in massive unreported fraud"
+    ],
+    "_review_notes": "Multi-target conspiracy narrative combining anti-Somali, anti-Muslim, and US political figure targeting. Elevated to P2 due to coordinated amplification and intersection of multiple xenophobic tropes. Requires identification of 'Peggy' referent.",
+    "_reviewed": "2026-10-31T14:53:59.439525+00:00"
+  },
+  {
+    "id": "APF-2026-10-31-556",
+    "date": "2026-10-31",
+    "country": "Kenya",
+    "event_type": "CONTEXT",
+    "disinfo_subtype": "misinformation",
+    "threat_level": "P2 HIGH",
+    "headline": "TECNO Mobile store locator posts flagged as potential coordinated amplification",
+    "summary": "Platform monitoring detected 3 near-identical store locator posts from @TECNOMobile254 suggesting coordinated amplification of commercial content. This appears to be routine business messaging or platform spam rather than disinformation, though coordination warrants assessment for bot network activity.",
+    "actors": [
+      "@TECNOMobile254"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/TECNOMobile254/status/2116154188589637806",
+        "date": "2026-10-31"
+      }
+    ],
+    "spread": 3,
+    "disinfo_narratives": [
+      "NAR-KE-002",
+      "NAR-KE-004"
+    ],
+    "related_events": [
+      "APF-2026-03-23-308",
+      "APF-2026-05-21-525",
+      "APF-2026-05-25-078",
+      "APF-2026-06-06-750",
+      "APF-2026-06-07-223",
+      "APF-2026-10-30-817"
+    ],
+    "disinfo_confidence": "HIGH",
+    "disinfo_justification": "False ethnic claim indicators: bbs mall. Contains verifiably false factual assertions in Kenya context.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "confirmed",
+    "narrative_families": [
+      {
+        "family": "Ethnic Incitement",
+        "intensity": 3,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      },
+      {
+        "family": "Misinformation/Disinformation",
+        "intensity": 3,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      }
+    ],
+    "ve_related": false,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-31",
+    "detection_timestamp": "2026-10-31T14:53:37.042968+00:00",
+    "last_seen": "2026-10-31",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-31",
+        "url": "https://x.com/TECNOMobile254/status/2116154188589637806",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Hi, thank you for reaching out! Our stores are located at: · Mama Ngina Street · Ropem, Moi Avenue · KTDA Galectro All",
+    "_original_summary": "Hi, thank you for reaching out! Our stores are located at: · Mama Ngina Street · Ropem, Moi Avenue · KTDA Galectro All in Nairobi CBD, as well as at Sarit Centre, Two Rivers, Garden City, and BBS Mall. You're also welcome to visit any authorized Tecn. 3 near-identical posts from 1 accounts suggest coordinated amplification.",
+    "_review_notes": "This event should be reclassified as CONTEXT (detection mechanics/platform spam) not DISINFO. The content is commercial store information, not false claims. Flagged for platform manipulation assessment rather than disinformation content analysis.",
+    "_reviewed": "2026-10-31T14:53:59.439552+00:00"
+  },
+  {
+    "id": "APF-2026-10-31-360",
+    "date": "2026-10-31",
+    "country": "South Sudan",
+    "event_type": "DISINFO",
+    "disinfo_subtype": "propaganda",
+    "threat_level": "P1 CRITICAL",
+    "headline": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and",
+    "summary": "@CirkaNews spreads claims that Turkish geopolitical analysts are echoing ISIS propaganda, specifically targeting Umut Çağrı Sarı and Manjaniq Media for portraying Puntland counterterrorism efforts in ways the account frames as extremist-aligned. This conflates regional security analysis with terrorism support, potentially inciting violence against analysts.",
+    "actors": [
+      "@CirkaNews"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/CirkaNews/status/1934975949189382447",
+        "date": "2026-10-31"
+      }
+    ],
+    "spread": 1,
+    "disinfo_narratives": [
+      "NAR-SO-004"
+    ],
+    "related_events": [
+      "APF-2026-10-17-102",
+      "APF-2026-10-18-054",
+      "APF-2026-10-19-703",
+      "APF-2026-10-28-415",
+      "APF-2026-10-29-608",
+      "APF-2026-10-30-235"
+    ],
+    "disinfo_confidence": "HIGH",
+    "disinfo_justification": "Content references designated VE propaganda outlet 'manjaniq media'; all output is definitionally VE propaganda.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "confirmed",
+    "narrative_families": [
+      {
+        "family": "Attack Claim",
+        "intensity": 3,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      },
+      {
+        "family": "Recruitment",
+        "intensity": 2,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      }
+    ],
+    "ve_related": true,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-31",
+    "detection_timestamp": "2026-10-31T14:53:37.042968+00:00",
+    "last_seen": "2026-10-31",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-31",
+        "url": "https://x.com/CirkaNews/status/1934975949189382447",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_original_summary": "🚨Are Pro-Turkish Analysts Echoing ISIS Propaganda? A Breakdown of the Striking Similarities Between Umut Çağrı Sarı and Manjaniq Media Who is Umut Çağrı Sarı? A Turkish geopolitical commentator pushing narratives that portray Puntland’s counterterror.",
+    "extracted_claims": [
+      "Pro-Turkish analysts are echoing ISIS propaganda narratives",
+      "Analysts portraying Puntland counterterrorism as extremist are aligned with terrorist ideologies"
+    ],
+    "_review_notes": "CRITICAL: False accusations of terrorism support against named individuals and media outlets create serious risk of targeted violence. Threat level should be P1. Narrative uses sophisticated false equivalence technique to delegitimize security analysis.",
+    "_reviewed": "2026-10-31T14:53:59.439559+00:00"
+  },
+  {
+    "id": "APF-2026-10-31-553",
+    "date": "2026-10-31",
+    "country": "South Sudan",
+    "event_type": "CONTEXT",
+    "disinfo_subtype": "misinformation",
+    "threat_level": "P2 HIGH",
+    "headline": "Twitter user accuses unnamed individual of war crimes related to Congolese massacres and Rwanda sovereignty",
+    "summary": "@bettyMuzalendo makes accusations against an unnamed individual, claiming they invoked Rwanda's sovereignty to justify massacres of Congolese populations and labeling them a war criminal. The post lacks identifying details, specific evidence, or named sources. Significant geographic mismatch: event classified as South Sudan but involves Rwanda-Congo conflict narratives.",
+    "actors": [
+      "@bettyMuzalendo"
+    ],
+    "platforms": [
+      "X (Twitter)"
+    ],
+    "sources": [
+      {
+        "publisher": "MERLx Social Media Monitoring — Direct content observation",
+        "url": "https://x.com/bettyMuzalendo/status/2116542515285233925",
+        "date": "2026-10-31"
+      }
+    ],
+    "spread": 1,
+    "disinfo_narratives": [
+      "NAR-SS-002",
+      "NAR-SS-001",
+      "NAR-SS-005"
+    ],
+    "related_events": [
+      "APF-2026-06-12-387",
+      "APF-2026-07-22-724",
+      "APF-2026-10-08-624",
+      "APF-2026-10-09-629",
+      "APF-2026-10-13-935",
+      "APF-2026-10-28-905"
+    ],
+    "disinfo_confidence": "MEDIUM",
+    "disinfo_justification": "South Sudan fabricated narrative indicators: genocide, defended. Contains claims requiring verification.",
+    "detection_method": "direct_tracking",
+    "content_observed": true,
+    "source_basis": "pattern_observed",
+    "verification_status": "pattern_match",
+    "narrative_families": [
+      {
+        "family": "Misinformation/Disinformation",
+        "intensity": 3,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      },
+      {
+        "family": "Ethnic Incitement",
+        "intensity": 2,
+        "calibrated": false,
+        "calibration_note": "Auto-classified by apify_classify.py"
+      }
+    ],
+    "ve_related": false,
+    "al_shabaab_related": false,
+    "tags": [
+      "auto_classified"
+    ],
+    "data_source": "social_media_monitoring",
+    "detected_by": "iris_classify_2026-10-31",
+    "detection_timestamp": "2026-10-31T14:53:37.042968+00:00",
+    "last_seen": "2026-10-31",
+    "status": "active",
+    "observations": [
+      {
+        "date": "2026-10-31",
+        "url": "https://x.com/bettyMuzalendo/status/2116542515285233925",
+        "summary": "Initial detection",
+        "platforms": [
+          "X (Twitter)"
+        ],
+        "reach": {}
+      }
+    ],
+    "observation_count": 1,
+    "_reclassified_from": "DISINFO",
+    "_original_headline": "Can Rwanda's sovereignty truly be defended by flouting international law and the inviolability of borders? Who claimed",
+    "_original_summary": "Can Rwanda's sovereignty truly be defended by flouting international law and the inviolability of borders? Who claimed that the massacre of Congolese populations was part of a duty to protect Rwandan \"sovereignty\"? This individual is a war criminal w.",
+    "extracted_claims": [
+      "An individual justified massacres of Congolese populations by invoking Rwanda's sovereignty defense",
+      "Specific (unnamed) individual is a war criminal"
+    ],
+    "_review_notes": "RECLASSIFY to CONTEXT: This is a political accusation/commentary, not demonstrable disinformation. Geographic country tag (South Sudan) appears incorrect for Rwanda-DRC conflict content. Vague accusations without named targets or evidence reduce analytical value. Upgrade threat to P2 if this represents coordinated historical revisionism of ICTR cases.",
+    "_reviewed": "2026-10-31T14:53:59.439566+00:00"
   }
 ]
